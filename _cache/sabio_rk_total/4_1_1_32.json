@@ -1,0 +1,51 @@
+{
+    "co2;idp;pep": {
+        "Gallus gallus": [
+            2.8,
+            4.333333,
+            3.716667,
+            2.45,
+            0.44,
+            3.18,
+            0.8,
+            3.3,
+            0.7
+        ],
+        "Rana catesbeiana": [
+            17.88333
+        ],
+        "Ascaris suum": [
+            6.883333
+        ]
+    },
+    "itp;oaa": {
+        "Rana catesbeiana": [
+            39.48333
+        ],
+        "Ascaris suum": [
+            15.63333
+        ]
+    },
+    "co2;gdp;pep": {
+        "Ascaris suum": [
+            6.5,
+            9.333333
+        ]
+    },
+    "gtp;oaa": {
+        "Ascaris suum": [
+            13.86667,
+            17.78333
+        ]
+    },
+    "co2;dgdp;pep": {
+        "Ascaris suum": [
+            4.55
+        ]
+    },
+    "dgtp;oaa": {
+        "Ascaris suum": [
+            3.4
+        ]
+    }
+}

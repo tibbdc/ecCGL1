@@ -1,0 +1,43 @@
+{
+    "dctp;dna": {
+        "Human immunodeficiency virus": [
+            0.3266667,
+            0.04983333,
+            0.02733333
+        ]
+    },
+    "dgtp;dna": {
+        "Human immunodeficiency virus": [
+            0.2116667,
+            0.02733333
+        ]
+    },
+    "dna;dttp": {
+        "Human immunodeficiency virus": [
+            2.6,
+            0.059,
+            0.02166667,
+            0.0025,
+            0.003166667
+        ]
+    },
+    "REST": {
+        "Human immunodeficiency virus": [
+            0.082,
+            0.0605,
+            0.02216667,
+            0.03883333
+        ]
+    },
+    "datp;dna": {
+        "Human immunodeficiency virus": [
+            0.05416667,
+            0.0003
+        ]
+    },
+    "atp;dna": {
+        "Human immunodeficiency virus": [
+            0.01716667
+        ]
+    }
+}

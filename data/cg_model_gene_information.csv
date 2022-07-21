@@ -1,0 +1,1066 @@
+﻿NCgl_ID,Cgl_ID,ID,Name,Synonyms,Protein,Strains,Function,Length
+NCgl0001,Cgl0001,cg0001,dnaA,,Chromosomal replication initiator protein DnaA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Plays an important role in the initiation and regulation of chromosomal replication. Binds to the origin of replication; it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box): 5'-TTATC[CA]A[CA]A-3'. DnaA binds to ATP and to acidic phospholipids.,524
+NCgl0003,Cgl0004,cg0005,recF,,DNA replication and repair protein RecF,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),The RecF protein is involved in DNA metabolism; it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded,
+NCgl0004,Cgl0005,cg0006,,,UPF0232 protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,178
+NCgl0005,Cgl0006,cg0007,gyrB,,DNA gyrase subunit B,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),A type II topoisomerase that negatively supercoils closed circular double-stranded (ds) DNA in an ATP-dependent manner to modulate DNA topology and maintain chromosomes in an underwound state. Negative supercoiling favors strand separation,
+NCgl0012,Cgl0013,cg0015,gyrA,,DNA gyrase subunit A,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),A type II topoisomerase that negatively supercoils closed circular double-stranded (ds) DNA in an ATP-dependent manner to modulate DNA topology and maintain chromosomes in an underwound state. Negative supercoiling favors strand separation,
+NCgl0014,Cgl0015,cg0018,,,UPF0324 membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,345
+NCgl0026,Cgl0027,cg0041,,,ABC-type transporter,,,
+NCgl0027,Cgl0028,cg0042,,,ABC-type transporter,,,
+NCgl0028,Cgl0029,cg0043,,,ABC-type transporter,,,
+NCgl0030,Cgl0031,cg0045,,,ABC-type transporter,,,
+NCgl0031,Cgl0032,cg0046,,,ABC-type transporter,,,
+NCgl0036,Cgl0036,cg0052,,,ABC-type transporter,,,
+NCgl0037,Cgl0038,cg0053,,,ABC-type transporter,,,
+NCgl0038,Cgl0039,cg0054,,,Siderophore-interacting protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,274
+NCgl0039,Cgl0040,cg0055,crgA,,Cell division protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in cell division,90
+NCgl0040,Cgl0041,cg0057,pknB,,Probable serine/threonine-protein kinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,646
+NCgl0041,Cgl0042,cg0059,pknA,drp72,Serine/threonine-protein kinases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,469
+NCgl0049,Cgl0051,cg0067,gabD3,,NAD-dependent aldehyde dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,490
+NCgl0051,Cgl0052,cg0071,,,Zn-dependent hydrolases,,,
+NCgl0053,Cgl0054,cg0073,,,Rhodanese-related sulfurtransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,97
+NCgl0054,Cgl0055,cg0074,,,Rhodanese-related sulfurtransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,197
+NCgl0060,Cgl0061,cg0080,,,Mg2+ and Co2+ transporters,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,373
+NCgl0066,Cgl0067,cg0088,citP,,H+/citrate symporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,489
+NCgl0067,Cgl0068,cg0089,citA,,Two-component system,,,
+NCgl0071,Cgl0072,cg0095,bioB,,Biotin synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the conversion of dethiobiotin (DTB) to biotin by the insertion of a sulfur atom into dethiobiotin via a radical-based mechanism.,334
+NCgl0075,Cgl0076,cg0104,codA,,Cytosine deaminase and related metal-dependent hydrolases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,415
+NCgl0079,Cgl0080,cg0109,,,Predicted acetyltransferases and hydrolases with the alpha/beta hydrolase fold,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,324
+NCgl0080,Cgl0081,cg0110,,,Predicted acetyltransferases and hydrolases with the alpha/beta hydrolase fold,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,300
+NCgl0082,Cgl0083,cg0112,ureR,,Transcriptional regulators,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,171
+NCgl0083,Cgl0084,cg0113,ureA,,Urease subunit gamma,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,100
+NCgl0084,Cgl0085,cg0114,ureB,,Urease subunit beta,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,162
+NCgl0085,Cgl0086,cg0115,ureC,,Urease subunit alpha,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,570
+NCgl0086,Cgl0087,cg0116,ureE,,Urease accessory protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in urease metallocenter assembly. Binds nickel. Probably functions as a nickel donor during metallocenter assembly.,157
+NCgl0087,Cgl0088,cg0117,ureF,,Urease accessory protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Required for maturation of urease via the functional incorporation of the urease nickel metallocenter.,226
+NCgl0088,Cgl0089,cg0118,ureG,,Urease accessory protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Facilitates the functional incorporation of the urease nickel metallocenter. This process requires GTP hydrolysis,
+NCgl0089,Cgl0090,cg0119,ureD,,Urease accessory protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Probably acts in the maturation of urease via the functional incorporation of the urease nickel metallocenter (By similarity). Required for urease expression.,283
+NCgl0094,Cgl0095,cg0124,amn,,AMP nucleosidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the hydrolysis of the N-glycosidic bond of AMP to form adenine and ribose 5-phosphate. Involved in regulation of AMP concentrations.,472
+NCgl0096,Cgl0097,cg0127,,,Thiamine pyrophosphate-requiring enzymes [acetolactate synthase,,,
+NCgl0098,Cgl0099,cg0129,putA,,NAD-dependent aldehyde dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1152
+NCgl0099,Cgl0100,cg0131,,,Predicted oxidoreductases (Related to aryl-alcohol dehydrogenases),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,315
+NCgl0101,Cgl0102,cg0134,,,Peptidase M20 domain-containing protein 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,444
+NCgl0108,Cgl0109,cg0143,mtlB,,Mannitol-1-phosphate/altronate dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,503
+NCgl0111,Cgl0112,cg0147,xylB,,Xylulose kinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,473
+NCgl0112,Cgl0113,cg0148,panC,,Pantothenate synthetase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate.,279
+NCgl0113,Cgl0114,cg0149,panB,,3-methyl-2-oxobutanoate hydroxymethyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the reversible reaction in which hydroxymethyl group from 5,
+NCgl0115,Cgl0116,cg0151,mag,,Putative 3-methyladenine DNA glycosylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,189
+NCgl0119,Cgl0120,cg0155,,,Carbonic anhydrases/acetyltransferases,,,
+NCgl0133,Cgl0135,cg0172,panD,,Aspartate 1-decarboxylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the pyruvoyl-dependent decarboxylation of aspartate to produce beta-alanine.,136
+NCgl0140,Cgl0143,cg0180,maa,,Acetyltransferases (The isoleucine patch superfamily),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,225
+NCgl0155,Cgl0158,cg0197,iolC,,Sugar kinases,,,
+NCgl0157,Cgl0160,cg0199,msmA,,NAD-dependent aldehyde dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,504
+NCgl0158,Cgl0161,cg0201,iolB,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,296
+NCgl0159,Cgl0162,cg0202,iolD,,Thiamine pyrophosphate-requiring enzymes [acetolactate synthase,,,
+NCgl0160,Cgl0163,cg0203,iolE,,AP_endonuc_2 domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,318
+NCgl0161,Cgl0164,cg0204,iolG,,Inositol 2-dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in the oxidation of myo-inositol (MI) to 2-keto-myo-inositol (2KMI or 2-inosose).,337
+NCgl0169,Cgl0172,cg0212,,,Sugar phosphate isomerases/epimerases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,337
+NCgl0175,Cgl0178,cg0220,,,N-acetyltransferase domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,142
+NCgl0181,Cgl0184,cg0229,gltB,,Glutamine 2-oxoglutarate aminotransferase large subunit,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1510
+NCgl0182,Cgl0185,cg0230,gltD,,Glutamine 2-oxoglutarate aminotransferase small subunit,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,506
+NCgl0185,Cgl0188,cg0236,aftA,,Galactan 5-O-arabinofuranosyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in the biosynthesis of the arabinogalactan (AG) region of the mycolylarabinogalactan-peptidoglycan (mAGP) complex,
+NCgl0199,Cgl0202,cg0250,,,Selenocysteine lyase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,391
+NCgl0200,Cgl0203,cg0251,,,NADPH:quinone reductase and related Zn-dependent oxidoreductases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,318
+NCgl0202,Cgl0205,cg0253,,,2Fe-2S ferredoxin-type domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,99
+NCgl0203,Cgl0206,cg0254,,,Na+/alanine symporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,492
+NCgl0205,Cgl0208,cg0257,,,Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,361
+NCgl0206,Cgl0209,cg0258,moaE,,Molybdopterin converting factor,,,
+NCgl0207,Cgl0210,cg0259,moaB,,Molybdopterin biosynthesis enzymes,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,157
+NCgl0208,Cgl0211,cg0260,moaC,,Cyclic pyranopterin monophosphate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the conversion of (8S)-3',
+NCgl0209,Cgl0212,cg0261,moeA1,,Molybdopterin molybdenumtransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the insertion of molybdate into adenylated molybdopterin with the concomitant release of AMP.,395
+NCgl0210,Cgl0213,cg0262,modB,,ABC-type transporter,,,
+NCgl0211,Cgl0214,cg0263,modA,,ABC-type transporter,,,
+NCgl0215,Cgl0218,cg0267,pat,,Probable phenylalanine aminotransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),May catalyze the transamination reaction in phenylalanine biosynthesis.,341
+NCgl0219,Cgl0222,cg0273,,,Zn-dependent alcohol dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,339
+NCgl0221,Cgl0224,cg0275,mgtE2,,Magnesium transporter MgtE,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Acts as a magnesium transporter.,450
+NCgl0223,Cgl0226,cg0279,tyrA,,Prephenate dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,340
+NCgl0225,Cgl0228,cg0281,tadA,,tRNA-specific adenosine deaminase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the deamination of adenosine to inosine at the wobble position 34 of tRNA(Arg2).,139
+NCgl0229,Cgl0232,cg0285,tgt,,Queuine tRNA-ribosyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the base-exchange of a guanine (G) residue with the queuine precursor 7-aminomethyl-7-deazaguanine (PreQ1) at position 34 (anticodon wobble position) in tRNAs with GUN anticodons (tRNA-Asp,
+NCgl0231,Cgl0234,cg0287,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+NCgl0233,Cgl0236,cg0289,gltX,gluQ,Glutamyl-Q tRNA(Asp) synthetase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the tRNA-independent activation of glutamate in presence of ATP and the subsequent transfer of glutamate onto a tRNA(Asp). Glutamate is transferred on the 2-amino-5-(4,
+NCgl0237,Cgl0240,cg0294,aspB,,Aspartate transaminase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,432
+NCgl0239,Cgl0242,cg0296,dnaZX,dnaX,DNA polymerase III subunit gamma/tau,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),DNA polymerase III is a complex,
+NCgl0240,Cgl0243,cg0297,,,Nucleoid-associated protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds to DNA and alters its conformation. May be involved in regulation of gene expression,
+NCgl0241,Cgl0244,cg0298,recR,,Recombination protein RecR,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),May play a role in DNA repair. It seems to be involved in an RecBC-independent recombinational process of DNA repair. It may act with RecF and RecO.,218
+NCgl0242,Cgl0245,cg0299,cobQ,,Predicted glutamine amidotransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,250
+NCgl0245,Cgl0248,cg0303,leuA,,2-isopropylmalate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate).,616
+NCgl0246,Cgl0250,cg0304,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,289
+NCgl0247,Cgl0251,cg0306,lysC,,Aspartokinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the phosphorylation of the beta-carboxyl group of aspartic acid with ATP to yield 4-phospho-L-aspartate,
+NCgl0248,Cgl0252,cg0307,asd,,Aspartate-semialdehyde dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the NADPH-dependent formation of L-aspartate-semialdehyde (L-ASA) by the reductive dephosphorylation of L-aspartyl-4-phosphate.,344
+NCgl0251,Cgl0255,cg0310,katA,,Catalase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,502
+NCgl0254,Cgl0258,cg0314,brnF,,Predicted branched-chain amino acid permease (Azaleucine resistance),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,251
+NCgl0255,Cgl0259,cg0315,brnE,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,108
+NCgl0258,Cgl0262,cg0318,arsC1,,Arsenite efflux pump ACR3 and related permeases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+NCgl0259,Cgl0263,cg0319,arsX,arsC2,Arsenate-mycothiol transferase ArsC2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in defense against toxic arsenate. Involved in the mycothiol/myoredoxin redox pathway which uses a mycothioltransferase mechanism; facilitates adduct formation between arsenate and mycothiol.,129
+NCgl0260,Cgl0264,cg0321,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,106
+NCgl0261,Cgl0265,cg0322,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,90
+NCgl0262,Cgl0266,cg0323,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,151
+NCgl0263,Cgl0267,cg0324,mnhD,,Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter,,,
+NCgl0264,Cgl0268,cg0325,,,Multisubunit Na+/H+ antiporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,127
+NCgl0265,Cgl0269,cg0326,nuoL,,NADH:ubiquinone oxidoreductase subunit 5 (Chain L)/Multisubunit Na+/H+ antiporter,,,
+NCgl0272,Cgl0276,cg0334,,,Predicted phosphohydrolases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,305
+NCgl0275,Cgl0279,cg0337,whiB4,,Transcriptional regulator WhiB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Acts as a transcriptional regulator. Probably redox-responsive. The apo- but not holo-form probably binds DNA.,113
+NCgl0279,Cgl0284,cg0341,fadD1,,Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,512
+NCgl0281,Cgl0286,cg0344,fabG1,,Dehydrogenases with different specificities (Related to short-chain alcohol dehydrogenases),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,311
+NCgl0283,Cgl0288,cg0346,fadE,,Acyl-CoA dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,398
+NCgl0284,Cgl0289,cg0347,,,Predicted acyl dehydratase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,157
+NCgl0286,Cgl0291,cg0350,glxR,,CRP-like cAMP-activated global transcriptional regulator,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Global transcriptional regulator that complexes with cAMP and binds to specific DNA promoter sites,
+NCgl0288,Cgl0293,cg0353,nth,,Endonuclease III,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),DNA repair enzyme that has both DNA N-glycosylase activity and AP-lyase activity. The DNA N-glycosylase activity releases various damaged pyrimidines from DNA by cleaving the N-glycosidic bond,
+NCgl0290,Cgl0295,cg0355,,,NTP pyrophosphohydrolases including oxidative damage repair enzymes,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,223
+NCgl0291,Cgl0296,cg0356,,,Trypsin-like serine proteases,,,
+NCgl0292,Cgl0297,cg0358,,,Predicted hydrolases or acyltransferases (Alpha/beta hydrolase superfamily),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,331
+NCgl0294,Cgl0299,cg0360,,,Phosphoserine phosphatase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,322
+NCgl0304,Cgl0309,cg0373,topA,,DNA topoisomerase 1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Releases the supercoiling and torsional tension of DNA,
+NCgl0306,Cgl0311,cg0375,cyaB,,Adenylate cyclase,,,
+NCgl0309,Cgl0315,cg0382,,,Adenylate kinase and related kinases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,187
+NCgl0313,Cgl0319,cg0387,adhE,,Zn-dependent alcohol dehydrogenases,,,
+NCgl0317,Cgl0323,cg0391,rmlB2,,Nucleoside-diphosphate-sugar epimerases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,311
+NCgl0319,Cgl0325,cg0394,,,Glycosyltransferases involved in cell wall biogenesis,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,253
+NCgl0321,Cgl0327,cg0396,,,Predicted glycosyltransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,345
+NCgl0322,Cgl0328,cg0397,,,5'-nucleotidase/2',,,
+NCgl0324,Cgl0331,cg0400,adhC,,Zn-dependent alcohol dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,353
+NCgl0325,Cgl0332,cg0401,rmlA1,,Glucose-1-phosphate thymidylyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the formation of dTDP-glucose,
+NCgl0326,Cgl0333,cg0402,rmlCD,,dTDP-4-dehydrorhamnose reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the reduction of dTDP-6-deoxy-L-lyxo-4-hexulose to yield dTDP-L-rhamnose.,453
+NCgl0327,Cgl0334,cg0403,rmlB1,,dTDP-glucose 4,,,
+NCgl0328,Cgl0335,cg0404,,,Nitroreductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,193
+NCgl0329,Cgl0336,cg0405,,,ABC-type Fe3+-siderophores transport systems,,,
+NCgl0336,Cgl0343,cg0413,cmt1,,Cmt1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,365
+NCgl0340,Cgl0347,cg0417,capD,,Predicted nucleoside-diphosphate sugar epimerases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,604
+NCgl0342,Cgl0349,cg0419,,,Sugar transferases involved in lipopolysaccharide synthesis,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,204
+NCgl0345,Cgl0352,cg0422,murA,,UDP-N-acetylglucosamine enolpyruvyl transferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,438
+NCgl0346,Cgl0353,cg0423,murB,murB1,UDP-N-acetylenolpyruvoylglucosamine reductase 1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Cell wall formation.,335
+NCgl0351,Cgl0360,cg0435,udgA1,,UDP-glucose 6-dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,387
+NCgl0355,Cgl0366,cg0441,lpd,,Dihydrolipoyl dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Lipoamide dehydrogenase is an essential component of the pyruvate dehydrogenase (PDH) and 2-oxoglutarate dehydrogenase (ODH) complexes. Catalyzes the reoxidation of dihydrolipoyl groups which are covalently attached to the lipoate acyltransferase components (E2) of the complexes. Also catalyzes a reversible NADH:NAD+ transhydrogenation,
+NCgl0356,Cgl0367,cg0442,galU2,,UDP-glucose pyrophosphorylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,307
+NCgl0357,Cgl0368,cg0443,,,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,166
+NCgl0358,Cgl0369,cg0444,ramB,,HTH-type transcriptional regulator RamB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),During growth on glucose,
+NCgl0359,Cgl0370,cg0445,sdhCD,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,257
+NCgl0360,Cgl0371,cg0446,sdhA,,Succinate dehydrogenase/fumarate reductase,,,
+NCgl0362,Cgl0373,cg0448,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,112
+NCgl0371,Cgl0382,cg0457,purU,,Formyltetrahydrofolate deformylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the hydrolysis of 10-formyltetrahydrofolate (formyl-FH4) to formate and tetrahydrofolate (FH4).,304
+NCgl0372,Cgl0383,cg0458,deoC,,Deoxyribose-phosphate aldolase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy-D-ribose 5-phosphate.,222
+NCgl0375,Cgl0386,cg0464,ctpA,,Cation transport ATPases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,755
+NCgl0378,Cgl0389,cg0467,,,ABC-type transporter,,,
+NCgl0379,Cgl0390,cg0468,,,ABC-type transporter,,,
+NCgl0380,Cgl0391,cg0469,,,ABC-type transporter,,,
+NCgl0386,Cgl0397,cg0476,murB2,,UDP-N-acetylenolpyruvoylglucosamine reductase 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Cell wall formation.,367
+NCgl0388,Cgl0400,cg0480,fadD5,,Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,568
+NCgl0389,Cgl0401,cg0481,mshA,,D-inositol 3-phosphate glycosyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the transfer of a N-acetyl-glucosamine moiety to 1D-myo-inositol 3-phosphate to produce 1D-myo-inositol 2-acetamido-2-deoxy-glucopyranoside 3-phosphate in the mycothiol biosynthesis pathway.,418
+NCgl0390,Cgl0402,cg0482,gpmA,,2,,,
+NCgl0395,Cgl0407,cg0487,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+NCgl0398,Cgl0410,cg0490,proC,,Pyrroline-5-carboxylate reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the reduction of 1-pyrroline-5-carboxylate (PCA) to L-proline.,270
+NCgl0400,Cgl0415,cg0495,,,Phosphoserine phosphatase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,355
+NCgl0402,Cgl0417,cg0497,hemA,,Glutamyl-tRNA reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the NADPH-dependent reduction of glutamyl-tRNA(Glu) to glutamate 1-semialdehyde (GSA).,463
+NCgl0403,Cgl0418,cg0498,hemC,,Porphobilinogen deaminase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Tetrapolymerization of the monopyrrole PBG into the hydroxymethylbilane pre-uroporphyrinogen in several discrete steps.,302
+NCgl0407,Cgl0422,cg0502,,,Sugar phosphate isomerases/epimerases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,618
+NCgl0408,Cgl0423,cg0503,aroD,aroQ,3-dehydroquinate dehydratase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes a trans-dehydration via an enolate intermediate.,145
+NCgl0409,Cgl0424,cg0504,aroE,qsuD,Quinate/shikimate dehydrogenase (NAD(+)),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in the biosynthesis of the chorismate,
+NCgl0411,Cgl0426,cg0506,,,ABC-type transporter,,,
+NCgl0413,Cgl0428,cg0508,,,ABC-type transporter,,,
+NCgl0414,Cgl0429,cg0510,hemD,,Uroporphyrinogen-III synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,590
+NCgl0416,Cgl0431,cg0512,hemB,,Delta-aminolevulinic acid dehydratase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,339
+NCgl0420,Cgl0435,cg0516,hemE,,Uroporphyrinogen decarboxylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the decarboxylation of four acetate groups of uroporphyrinogen-III to yield coproporphyrinogen-III.,358
+NCgl0421,Cgl0436,cg0517,hemY,,Protoporphyrinogen oxidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the 6-electron oxidation of protoporphyrinogen-IX to form protoporphyrin-IX.,448
+NCgl0422,Cgl0437,cg0518,hemL,,Glutamate-1-semialdehyde 2,,,
+NCgl0433,Cgl0448,cg0531,menA,,1,,,
+NCgl0435,Cgl0450,cg0533,menE,,Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,441
+NCgl0438,Cgl0453,cg0536,,,Probable 5-dehydro-4-deoxyglucarate dehydratase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,316
+NCgl0445,Cgl0460,cg0545,pitA,,Phosphate transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,425
+NCgl0446,Cgl0463,cg0548,menB,,1,,,
+NCgl0449,Cgl0466,cg0551,menC,,o-succinylbenzoate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Converts 2-succinyl-6-hydroxy-2,
+NCgl0450,Cgl0467,cg0552,menD,,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the thiamine diphosphate-dependent decarboxylation of 2-oxoglutarate and the subsequent addition of the resulting succinic semialdehyde-thiamine pyrophosphate anion to isochorismate to yield 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate (SEPHCHC).,543
+NCgl0452,Cgl0469,cg0554,mgtA,,GDP-mannose-dependent alpha-mannosyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the addition of a mannose residue from GDP-D-mannose to GlcAGroAc2 to generate 1,
+NCgl0453,Cgl0470,cg0555,,,Gamma-aminobutyrate permease and related permeases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,453
+NCgl0454,Cgl0471,cg0556,ubiE,menG,Demethylmenaquinone methyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Methyltransferase required for the conversion of demethylmenaquinol (DMKH2) to menaquinol (MKH2).,230
+NCgl0456,Cgl0473,cg0559,ispB,,Geranylgeranyl pyrophosphate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,350
+NCgl0457,Cgl0474,cg0561,secE,,Protein translocase subunit SecE,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Essential subunit of the Sec protein translocation channel SecYEG. Clamps together the 2 halves of SecY. May contact the channel plug during translocation.,111
+NCgl0458,Cgl0475,cg0562,nusG,,Transcription termination/antitermination protein NusG,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Participates in transcription elongation,
+NCgl0459,Cgl0476,cg0563,rplK,,50S ribosomal protein L11,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors.,145
+NCgl0460,Cgl0477,cg0564,rplA,,50S ribosomal protein L1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds directly to 23S rRNA. The L1 stalk is quite mobile in the ribosome,
+NCgl0462,Cgl0479,cg0566,gabT,,PLP-dependent aminotransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,448
+NCgl0463,Cgl0480,cg0567,gabD2,,NAD-dependent aldehyde dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,453
+NCgl0468,Cgl0485,cg0572,rplJ,,50S ribosomal protein L10,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Forms part of the ribosomal stalk,
+NCgl0469,Cgl0486,cg0573,rplL,,50S ribosomal protein L7/L12,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors. Is thus essential for accurate translation.,128
+NCgl0471,Cgl0488,cg0576,rpoB,,DNA-directed RNA polymerase subunit beta,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.,1165
+NCgl0472,Cgl0489,cg0577,rpoC,,DNA-directed RNA polymerase subunit beta',Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.,1333
+NCgl0476,Cgl0493,cg0581,rpsL,,30S ribosomal protein S12,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),With S4 and S5 plays an important role in translational accuracy.Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits,
+NCgl0477,Cgl0494,cg0582,rpsG,,30S ribosomal protein S7,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0478,Cgl0495,cg0583,fusA,,Elongation factor G,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step,
+NCgl0480,Cgl0497,cg0587,tuf,,Elongation factor Tu,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis.,396
+NCgl0483,Cgl0501,cg0590,,,ABC-type transporter,,,
+NCgl0484,Cgl0502,cg0591,,,ABC-type transporter,,,
+NCgl0485,Cgl0503,cg0592,,,Acetyl-CoA hydrolase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,172
+NCgl0486,Cgl0504,cg0593,rpsJ,nusE,30S ribosomal protein S10,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Involved in the binding of tRNA to the ribosomes.,101
+NCgl0487,Cgl0505,cg0594,rplC,,50S ribosomal protein L3,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0488,Cgl0507,cg0596,rplD,,50S ribosomal protein L4,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0489,Cgl0508,cg0597,rplW,,50S ribosomal protein L23,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome.UniRule annotation,101
+NCgl0490,Cgl0510,cg0598,rplB,,50S ribosomal protein L2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome,
+NCgl0491,Cgl0511,cg0599,rpsS,,30S ribosomal protein S19,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA.,92
+NCgl0492,Cgl0513,cg0600,rplV,,50S ribosomal protein L22,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This protein binds specifically to 23S rRNA; its binding is stimulated by other ribosomal proteins,
+NCgl0493,Cgl0514,cg0601,rpsC,,30S ribosomal protein S3,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome,
+NCgl0494,Cgl0515,cg0602,rplP,,50S ribosomal protein L16,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs.,138
+NCgl0495,Cgl0516,cg0603,rpmC,,50S ribosomal protein L29,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,76
+NCgl0496,Cgl0517,cg0604,rpsQ,,30S ribosomal protein S17,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0499,Cgl0521,cg0608,rplN,,50S ribosomal protein L14,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome.,122
+NCgl0500,Cgl0522,cg0609,rplX,,50S ribosomal protein L24,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of two assembly initiator proteins,
+NCgl0501,Cgl0523,cg0610,rplE,,50S ribosomal protein L5,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit,
+NCgl0505,Cgl0527,cg0616,fdhD,,Sulfur carrier protein FdhD,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Required for formate dehydrogenase (FDH) activity. Acts as a sulfur carrier protein that transfers sulfur from IscS to the molybdenum cofactor prior to its insertion into FDH.,305
+NCgl0507,Cgl0529,cg0618,fdhF,,Anaerobic dehydrogenases,,,
+NCgl0510,Cgl0532,cg0622,,,ABC-type transporter,,,
+NCgl0511,Cgl0533,cg0623,,,ABC-type transporter,,,
+NCgl0514,Cgl0536,cg0627,,,Histone acetyltransferase HPA2 and related acetyltransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,156
+NCgl0515,Cgl0537,cg0628,rpsH,,30S ribosomal protein S8,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0516,Cgl0538,cg0629,rplF,,50S ribosomal protein L6,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This protein binds to the 23S rRNA,
+NCgl0517,Cgl0539,cg0630,rplR,,50S ribosomal protein L18,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit,
+NCgl0518,Cgl0540,cg0631,rpsE,,30S ribosomal protein S5,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),With S4 and S12 plays an important role in translational accuracy.Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body.,211
+NCgl0519,Cgl0541,cg0632,rpmD,,50S ribosomal protein L30,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,61
+NCgl0520,Cgl0542,cg0634,rplO,,50S ribosomal protein L15,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds to the 23S rRNA.,148
+NCgl0523,Cgl0546,cg0637,betB,,NAD-dependent aldehyde dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,497
+NCgl0528,Cgl0551,cg0642,,,Phosphoenolpyruvate synthase/pyruvate phosphate dikinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,580
+NCgl0530,Cgl0553,cg0645,cytP,,Cytochrome P450,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,430
+NCgl0532,Cgl0555,cg0647,secY,,Protein translocase subunit SecY,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7,
+NCgl0533,Cgl0556,cg0648,adk,,Adenylate kinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism.,181
+NCgl0534,Cgl0557,cg0649,map1,,Methionine aminopeptidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-,
+NCgl0536,Cgl0560,cg0651,infA,,Translation initiation factor IF-1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the essential components for the initiation of protein synthesis. Stabilizes the binding of IF-2 and IF-3 on the 30S subunit to which N-formylmethionyl-tRNA(fMet) subsequently binds. Helps modulate mRNA selection,
+NCgl0537,Cgl0561,cg0652,rpsM,,30S ribosomal protein S13,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Located at the top of the head of the 30S subunit,
+NCgl0538,Cgl0562,cg0653,rpsK,,30S ribosomal protein S11,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Located on the platform of the 30S subunit,
+NCgl0539,Cgl0563,cg0654,rpsD,,30S ribosomal protein S4,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),One of the primary rRNA binding proteins,
+NCgl0540,Cgl0564,cg0655,rpoA,,DNA-directed RNA polymerase subunit alpha,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.,338
+NCgl0541,Cgl0566,cg0656,rplQ,,50S ribosomal protein L17,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,163
+NCgl0542,Cgl0567,cg0657,truA,hisT,tRNA pseudouridine synthase A,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Formation of pseudouridine at positions 38,
+NCgl0544,Cgl0569,cg0659,,,N-acetyltransferase domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,152
+NCgl0550,Cgl0575,cg0665,,,Subtilisin-like serine proteases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,453
+NCgl0556,Cgl0581,cg0673,rplM,,50S ribosomal protein L13,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),This protein is one of the early assembly proteins of the 50S ribosomal subunit,
+NCgl0557,Cgl0582,cg0674,rpsI,,30S ribosomal protein S9,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,182
+NCgl0558,Cgl0583,cg0675,glmM,,Phosphoglucosamine mutase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the conversion of glucosamine-6-phosphate to glucosamine-1-phosphate.,447
+NCgl0563,Cgl0588,cg0681,alr,,Alanine racemase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the interconversion of L-alanine and D-alanine. May also act on other amino acids.,361
+NCgl0565,Cgl0590,cg0683,,,Uncharacterized transporter Cgl0590/cg0683,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,533
+NCgl0569,Cgl0594,cg0687,gcp,tsaD,tRNA N6-adenosine threonylcarbamoyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t6A37) in tRNAs that read codons beginning with adenine. Is involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37,
+NCgl0570,Cgl0595,cg0688,nnr,,Bifunctional NAD(P)H-hydrate repair enzyme Nnr,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Bifunctional enzyme that catalyzes the epimerization of the S- and R-forms of NAD(P)HX and the dehydration of the S-form of NAD(P)HX at the expense of ADP,
+NCgl0572,Cgl0597,cg0690,groES,groS,10 kDa chaperonin,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter.,99
+NCgl0573,Cgl0598,cg0693,groEL,groL1,,,,
+NCgl0574,Cgl0599,cg0695,whiB3,,Transcriptional regulator WhiB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Acts as a transcriptional regulator. Probably redox-responsive. The apo- but not holo-form probably binds DNA.,99
+NCgl0578,Cgl0603,cg0699,guaB2,,Inosine-5'-monophosphate dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP),
+NCgl0579,Cgl0604,cg0700,guaB3,,IMP dehydrogenase/GMP reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,374
+NCgl0582,Cgl0607,cg0703,guaA,,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,523
+NCgl0600,Cgl0626,cg0723,crtE,,Geranylgeranyl pyrophosphate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,382
+NCgl0608,Cgl0635,cg0735,,,ABC-type transporter,,,
+NCgl0609,Cgl0636,cg0736,metN,,Methionine import ATP-binding protein MetN (EC 3.6.3.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+NCgl0610,Cgl0637,cg0737,,,ABC-type transporter,,,
+NCgl0611,Cgl0638,cg0738,dnaE2,,Error-prone DNA polymerase (EC 2.7.7.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1055
+NCgl0616,Cgl0644,cg0745,cobB,,NAD-dependent protein deacylase (EC 2.3.1.286) (Regulatory protein SIR2 homolog),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,258
+NCgl0620,Cgl0648,cg0750,folD,,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,284
+NCgl0624,Cgl0652,cg0754,metX,metA,,,,
+NCgl0625,Cgl0653,cg0755,metY,,O-acetyl-L-homoserine sulfhydrylase (OAH-sulfhydrylase) (EC 2.5.1.49),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,437
+NCgl0628,Cgl0657,cg0759,prpD2,,2-methylcitrate dehydratase 2 (2-MC dehydratase) (EC 4.2.1.79) (Aconitate hydratase) (ACN) (Aconitase) (EC 4.2.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,504
+NCgl0629,Cgl0658,cg0760,prpB2,,Probable 2-methylisocitrate lyase 2 (2-MIC) (MICL) (EC 4.1.3.30) ((2R,,,
+NCgl0630,Cgl0659,cg0762,prpC2,,2-methylcitrate synthase 2 (2-MCS) (MCS) (EC 2.3.3.5) (Citrate synthase 2) (CS) (EC 2.3.3.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,383
+NCgl0634,Cgl0664,cg0766,icd,,Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (Oxalosuccinate decarboxylase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,738
+NCgl0636,Cgl0666,cg0768,,,ABC-type transporter,,,
+NCgl0637,Cgl0667,cg0769,,,ABC-type transporter,,,
+NCgl0638,Cgl0668,cg0770,,,ABC-type transporter,,,
+NCgl0639,Cgl0669,cg0771,irp1,,ABC-type transporter,,,
+NCgl0647,Cgl0677,cg0779,trpS,,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,345
+NCgl0650,Cgl0680,cg0782,dac,,D-alanyl-D-alanine carboxypeptidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,379
+NCgl0654,Cgl0684,cg0786,upp,,Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,211
+,Cgl0687,cg0788,pmmB,,Phosphomannomutase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,575
+,Cgl0686,cg0789,amiA,,Metal-dependent amidase/aminoacylase/carboxypeptidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,394
+,Cgl0689,cg0791,pyc,,Pyruvate carboxylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Catalyzes a 2-step reaction,
+NCgl0664,Cgl0694,cg0796,prpD1,,2-methylcitrate dehydratase 1 (2-MC dehydratase) (EC 4.2.1.79),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,498
+NCgl0665,Cgl0695,cg0797,prpB1,,Probable 2-methylisocitrate lyase 1 (2-MIC) (MICL) (EC 4.1.3.30) ((2R,,,
+NCgl0666,Cgl0696,cg0798,prpC1,,2-methylcitrate synthase 1 (2-MCS) (MCS) (EC 2.3.3.5) (Citrate synthase 1) (CS) (EC 2.3.3.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,381
+NCgl0670,Cgl0700,cg0802,accBC,,Acyl coenzyme A carboxylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,591
+NCgl0671,Cgl0701,cg0803,thtR,,Thiosulfate sulfurtransferase (EC 2.8.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+NCgl0675,Cgl0705,cg0809,maf,,Nucleoside triphosphate pyrophosphatase (EC 3.6.1.9) (Nucleotide pyrophosphatase) (Nucleotide PPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,197
+,Cgl0707,cg0811,dtsR2,,Detergent sensitivity rescuer dtsR2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,537
+NCgl0681,Cgl0711,cg0816,purK,,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,387
+NCgl0682,Cgl0712,cg0817,kup,,Probable potassium transport system protein kup,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,624
+,Cgl0714,cg0820,purE,,N5-carboxyaminoimidazole ribonucleotide mutase (N5-CAIR mutase) (EC 5.4.99.18) (5-(carboxyamino)imidazole ribonucleotide mutase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,165
+,Cgl0719,cg0825,fabG,,Dehydrogenases with different specificities (Related to short-chain alcohol dehydrogenases) (EC 1.1.1.47),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,263
+,Cgl0740,cg0847,lcpA,,Cell wall biosynthesis protein LcpA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,518
+,Cgl0742,cg0849,rmlA2,,Nucleoside-diphosphate-sugar pyrophosphorylases involved in lipopolysaccharide biosynthesis/translation initiation factor eIF2B subunits (EC 2.7.7.13),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,348
+,Cgl0743,cg0850,whiB2,,Transcriptional regulator WhiB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,136
+,Cgl0744,cg0852,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,152
+,Cgl0746,cg0854,pmmA,manB,Phosphomannomutase (EC 5.4.2.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,458
+,Cgl0748,cg0856,manA,,Phosphomannose isomerase (EC 5.3.1.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,394
+NCgl0719,Cgl0752,cg0860,sahH,ahcY,Adenosylhomocysteinase (EC 3.3.1.1) (S-adenosyl-L-homocysteine hydrolase) (AdoHcyase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,474
+NCgl0720,Cgl0753,cg0861,tmk,,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,203
+NCgl0723,Cgl0756,cg0865,lpqB,,Lipoprotein LpqB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,568
+NCgl0725,Cgl0759,cg0867,hpf,,Ribosome hibernation promoting factor (HPF),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,221
+NCgl0726,Cgl0760,cg0868,secA,azi,,,,
+,Cgl0761,cg0870,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,224
+NCgl0730,Cgl0764,cg0873,aroA,,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,430
+,Cgl0768,cg0878,whiB1,,Transcriptional regulator WhiB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,86
+,Cgl0777,cg0887,,,Kef-type K+ transport systems,,,
+,Cgl0778,cg0888,,,NTP pyrophosphohydrolases containing a Zn-finger,,,
+NCgl0752,Cgl0786,cg0896,,,UPF0182 protein Cgl0786/cg0896,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,985
+NCgl0753,Cgl0787,cg0897,pdxR,,HTH-type pyridoxine biosynthesis transcriptional regulator PdxR,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,453
+NCgl0754,Cgl0788,cg0898,pdxS,,Pyridoxal 5'-phosphate synthase subunit PdxS (PLP synthase subunit PdxS) (EC 4.3.3.6) (Pdx1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,317
+NCgl0755,Cgl0789,cg0899,pdxT,,Pyridoxal 5'-phosphate synthase subunit PdxT (EC 4.3.3.6) (Pdx2) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,200
+NCgl0765,Cgl0799,cg0910,hisN,,Histidinol-phosphatase (HolPase) (EC 3.1.3.15) (Histidinol-phosphate phosphatase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,260
+NCgl0767,Cgl0801,cg0913,prfB,,Peptide chain release factor 2 (RF-2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,368
+NCgl0768,Cgl0802,cg0914,ftsE,,Cell division ATP-binding protein FtsE,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,229
+NCgl0770,Cgl0804,cg0916,smpB,,SsrA-binding protein (Small protein B),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,164
+,Cgl0814,cg0931,dapC,,PLP-dependent aminotransferases (EC 2.6.1.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,403
+NCgl0785,Cgl0819,cg0936,rpf1,,Resuscitation-promoting factor Rpf1 (EC 3.-.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,193
+,Cgl0824,cg0944,,,Permeases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,491
+NCgl0794,Cgl0828,cg0948,serC,,Phosphoserine transaminase (EC 2.6.1.52),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,376
+NCgl0795,Cgl0829,cg0949,gltA,,Citrate synthase (EC 2.3.3.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,437
+NCgl0796,Cgl0830,cg0950,fkpA,,Probable FK506-binding protein (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase) (PPIase) (Rotamase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,118
+NCgl0797,Cgl0831,cg0951,accDA,,Acetyl-CoA carboxylase beta subunit (EC 6.4.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,491
+,Cgl0833,cg0953,mctC,,Monocarboxylic acid transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,551
+,Cgl0839,cg0961,,,Homoserine acetyltransferase (EC 2.3.1.31),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,349
+NCgl0808,Cgl0842,cg0964,mrx1,,Mycoredoxin 1 (EC 1.20.4.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,79
+NCgl0809,Cgl0843,cg0965,folA,,Dihydrofolate reductase (EC 1.5.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,152
+NCgl0810,Cgl0844,cg0966,thyA,,Thymidylate synthase (TS) (TSase) (EC 2.1.1.45),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,266
+NCgl0811,Cgl0845,cg0967,cysQ,,3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,252
+NCgl0817,Cgl0851,cg0973,pgi,,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,540
+,Cgl0853,cg0975,csm,,Chorismate mutase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,103
+NCgl0826,Cgl0860,cg0983,purN,,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,209
+NCgl0827,Cgl0861,cg0984,purH,,Bifunctional purine biosynthesis protein PurH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,520
+NCgl0828,Cgl0862,cg0985,citE,,Citrate lyase beta subunit (EC 4.1.3.6),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,273
+NCgl0829,Cgl0863,cg0986,amtR,,Repressor of the high-affinity (Methyl) ammonium uptake system,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,222
+NCgl0831,Cgl0866,cg0988,rpsR,,30S ribosomal protein S18,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,83
+NCgl0832,Cgl0867,cg0989,rpsN,,30S ribosomal protein S14,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,101
+NCgl0833,Cgl0868,cg0990,rpmG,,50S ribosomal protein L33,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,54
+NCgl0834,Cgl0869,cg0991,rpmB,,50S ribosomal protein L28,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,78
+NCgl0837,Cgl0872,cg0994,rpmE,rpmE2,50S ribosomal protein L31 type B,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,88
+NCgl0838,Cgl0873,cg0995,rpmF,,50S ribosomal protein L32,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,57
+,Cgl0876,cg0998,,,Trypsin-like serine proteases,,,
+,Cgl0879,cg1001,mscL,,Large-conductance mechanosensitive channel,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,135
+,Cgl0881,cg1003,,,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,190
+,Cgl0882,cg1004,galU1,,UDP-glucose pyrophosphorylase (EC 2.7.7.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,299
+,Cgl0883,cg1005,moeA2,,Molybdopterin molybdenumtransferase (EC 2.10.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,419
+NCgl0854,Cgl0890,cg1014,pmt,,Probable dolichyl-phosphate-mannose--protein mannosyltransferase (EC 2.4.1.109),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,520
+NCgl0855,Cgl0891,cg1015,rsmI,,Ribosomal RNA small subunit methyltransferase I (EC 2.1.1.198) (16S rRNA 2'-O-ribose C1402 methyltransferase) (rRNA (cytidine-2'-O-)-methyltransferase RsmI),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,275
+NCgl0856,Cgl0892,cg1016,betP,,Glycine betaine transporter BetP (Glycine betaine permease),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,595
+NCgl0857,Cgl0893,cg1017,metS,metG,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,610
+,Cgl0901,cg1027,dld,,Quinone-dependent D-lactate dehydrogenase (EC 1.1.5.12) (D-lactate dehydrogenase) (D-LDH),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,571
+,Cgl0904,cg1030,tnp6c,,Putative transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,98
+,Cgl0905,cg1031,tnp6d,,Putative transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,159
+NCgl0872,Cgl0909,cg1037,rpf2,,Resuscitation-promoting factor Rpf2 (EC 3.-.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,374
+NCgl0873,Cgl0910,cg1038,ksgA,rsmA,Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N',,,
+NCgl0874,Cgl0911,cg1039,ispE,,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (CMK) (EC 2.7.1.148) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,311
+,Cgl0913,cg1041,pdxK,,Pyridoxal kinase (EC 2.7.1.35),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,264
+,Cgl0917,cg1046,pvdS1,pkk2A,Probable polyphosphate kinase PKK2A (EC 2.7.4.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,320
+,Cgl0918,cg1048,,,Predicted hydrolases of the HAD superfamily,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,264
+,Cgl0919,cg1049,,,Enoyl-CoA hydratase/carnithine racemase (EC 4.2.1.17),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,339
+,Cgl0922,cg1052,cmt3,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,462
+NCgl0888,Cgl0925,cg1055,menG,,Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase (HMG aldolase) (EC 4.1.3.17) (Oxaloacetate decarboxylase) (OAA decarboxylase) (EC 4.1.1.112) (Regulator of ribonuclease activity homolog) (RraA-like protein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,166
+NCgl0892,Cgl0929,cg1060,prfC,,Peptide chain release factor 3 (RF-3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,549
+NCgl0893,Cgl0930,cg1061,,,ABC-type transporter,,,
+NCgl0894,Cgl0931,cg1062,,,ABC-type transporter,,,
+NCgl0895,Cgl0932,cg1064,,,ABC-type transporter,,,
+NCgl0896,Cgl0933,cg1065,,,ABC-type transporter,,,
+NCgl0897,Cgl0934,cg1066,,,ABC-type transporter,,,
+NCgl0898,Cgl0935,cg1067,pth2,,Peptidyl-tRNA hydrolase 2 (PTH 2) (EC 3.1.1.29),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,204
+,Cgl0937,cg1069,gapX,,Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase (EC 1.2.1.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,355
+NCgl0901,Cgl0938,cg1071,pth1,,Peptidyl-tRNA hydrolase 1 (PTH 1) (EC 3.1.1.29),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,177
+NCgl0902,Cgl0939,cg1072,rplY,ctc,50S ribosomal protein L25 (General stress protein CTC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,200
+NCgl0903,Cgl0940,cg1073,,,Predicted lactoylglutathione lyase (EC 4.4.1.5),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,143
+NCgl0905,Cgl0942,cg1075,prsA,prs,Ribose-phosphate pyrophosphokinase (RPPK) (EC 2.7.6.1) (5-phospho-D-ribosyl alpha-1-diphosphate) (Phosphoribosyl diphosphate synthase) (Phosphoribosyl pyrophosphate synthase) (P-Rib-PP synthase) (PRPP synthase) (PRPPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl0906,Cgl0943,cg1076,glmU,,Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,485
+,Cgl0952,cg1088,,,ABC-type multidrug/protein/lipid transport system,,,
+,Cgl0953,cg1089,,,ABC-type transporter,,,
+,Cgl0954,cg1090,ggtB,,Gamma-glutamyltranspeptidase (EC 2.3.2.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,655
+,Cgl0963,cg1099,mfd,,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1209
+NCgl0927,Cgl0966,cg1103,,,Uncharacterized protein Cgl0966/cg1103,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,794
+NCgl0928,Cgl0967,cg1104,,,Uncharacterized protein Cgl0967/cg1104 (ORF2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,426
+NCgl0929,Cgl0968,cg1105,lysI,,L-lysine transport protein (L-lysine permease),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,501
+,Cgl0971,cg1108,porC,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,142
+,Cgl0972,cg1109,porB,,PorB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,126
+NCgl0935,Cgl0974,cg1111,eno,,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,425
+,Cgl0977,cg1115,ppx2,,Exopolyphosphatase (EC 3.6.1.11) (EC 3.6.1.40),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,321
+,Cgl0978,cg1116,tdcB,,Threonine dehydratase (EC 4.3.1.19),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,310
+NCgl0943,Cgl0982,cg1120,ripA,,HTH-type transcriptional regulator RipA (AraC-type regulator RipA) (Repressor of iron proteins A) (RIPA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,331
+,Cgl0986,cg1123,greA,,Transcription elongation factor GreA (Transcript cleavage factor GreA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,174
+,Cgl0988,cg1127,mca,,Mycothiol S-conjugate amidase (EC 3.5.1.115),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,291
+NCgl0950,Cgl0990,cg1129,aroF,aroG,Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54) (3-deoxy-D-arabino-heptulosonate 7-phosphate synthase) (DAHP synthase) (Phospho-2-keto-3-deoxyheptonate aldolase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,366
+NCgl0951,Cgl0991,cg1130,uppS1,,Isoprenyl transferase 1 (EC 2.5.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,225
+NCgl0953,Cgl0995,cg1132,coaA,,Pantothenate kinase (EC 2.7.1.33) (Pantothenic acid kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,312
+NCgl0954,Cgl0996,cg1133,glyA,,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,434
+NCgl0955,Cgl0997,cg1134,pabAB,,Anthranilate/para-aminobenzoate synthases component I (EC 4.1.3.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,620
+,Cgl1002,cg1139,,,Allophanate hydrolase subunit 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,293
+,Cgl1003,cg1140,,,Allophanate hydrolase subunit 1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,223
+NCgl0962,Cgl1004,cg1141,pxpA,,5-oxoprolinase subunit A (5-OPase subunit A) (EC 3.5.2.9) (5-oxoprolinase (ATP-hydrolyzing) subunit A),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,252
+NCgl0967,Cgl1010,cg1145,fum,fumC,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,473
+,Cgl1019,cg1157,glpX,fbp,Fructose-1,,,
+,Cgl1023,cg1160,,,Arabinose efflux permease,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,75
+,Cgl1024,cg1162,xseB,,Exodeoxyribonuclease 7 small subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,81
+NCgl0981,Cgl1025,cg1163,xseA,,Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,417
+NCgl0982,Cgl1026,cg1164,ispH,lytB,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (HMBPP reductase) (EC 1.17.7.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl0983,Cgl1027,cg1165,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,276
+,Cgl1031,cg1170,cmt5,,Cmt5,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,411
+,Cgl1032,cg1171,ychF,,Ribosome-binding ATPase YchF,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,361
+,Cgl1057,cg1203,,,Mg-chelatase subunit ChlI,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,432
+,Cgl1058,cg1204,,,Phosphoglycerate mutase/fructose-2,,,
+NCgl1023,Cgl1068,cg1215,nadC,,Nicotinate-nucleotide pyrophosphorylase (EC 2.4.2.19),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,279
+NCgl1024,Cgl1069,cg1216,nadA,,Quinolinate synthase A (EC 2.5.1.72),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,394
+,Cgl1074,cg1222,lplA,,Lipoate-protein ligase A,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,263
+,Cgl1082,cg1231,chaA,,Ca2+/H+ antiporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,350
+NCgl1041,Cgl1086,cg1236,tpx,,Thiol peroxidase (Tpx) (EC 1.11.1.15) (Peroxiredoxin tpx) (Prx) (Thioredoxin peroxidase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,165
+,Cgl1089,cg1239,,,2-dehydropantoate 2-reductase (EC 1.1.1.169) (Ketopantoate reductase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,300
+NCgl1048,Cgl1093,cg1243,,,Putative peptidase Cgl1093,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,278
+NCgl1055,Cgl1100,cg1250,mshB,,1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase (GlcNAc-Ins deacetylase) (EC 3.5.1.103) (N-acetyl-1-D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,290
+NCgl1061,Cgl1106,cg1256,dapD,,2,,,
+NCgl1062,Cgl1107,cg1257,aroP,,Aromatic amino acid transport protein AroP (General aromatic amino acid permease),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,463
+NCgl1063,Cgl1108,cg1259,dapD2,,Tetrahydrodipicolinate N-succinyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,316
+NCgl1064,Cgl1109,cg1260,dapE,,Succinyl-diaminopimelate desuccinylase (SDAP desuccinylase) (EC 3.5.1.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,369
+,Cgl1111,cg1262,folP2,,Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,277
+NCgl1071,Cgl1116,cg1267,,,Beta-fructosidases (Levanase/invertase) (EC 3.2.1.26),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,498
+NCgl1072,Cgl1117,cg1268,glgA,,Predicted glycosyltransferases (EC 2.4.1.21),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,409
+NCgl1073,Cgl1118,cg1269,glgC,,Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27) (ADP-glucose pyrophosphorylase) (ADPGlc PPase) (ADP-glucose synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,405
+NCgl1077,Cgl1122,cg1273,tatB,,Sec-independent protein translocase protein TatB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,156
+,Cgl1125,cg1276,mgtE1,,Mg/Co/Ni transporter MgtE (Contains CBS domain),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,430
+,Cgl1129,cg1280,odhA,,2-oxoglutarate dehydrogenase E1/E2 component (ODH E1/E2 component) [Includes: 2-oxoglutarate dehydrogenase E1 component (ODH E1 component) (EC 1.2.4.2) (Alpha-ketoglutarate dehydrogenase E1 component) (KDH E1 component); Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex E2 component) (ODH E2 component) (OGDC-E2) (Dihydrolipoamide succinyltransferase)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1221
+,Cgl1132,cg1283,aroE2,,Shikimate 5-dehydrogenase (EC 1.1.1.25),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,268
+NCgl1094,Cgl1139,cg1290,metE,,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14) (Cobalamin-independent methionine synthase) (Methionine synthase,,,
+,Cgl1143,cg1294,,,Predicted esterase of the alpha-beta hydrolase superfamily,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,315
+,Cgl1144,cg1295,,,Predicted hydrolases or acyltransferases (Alpha/beta hydrolase superfamily),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,264
+,Cgl1147,cg1298,cycD,,ABC-type transporter,,,
+,Cgl1148,cg1299,cycE,,ABC-type transporter,,,
+,Cgl1153,cg1303,,,NTP pyrophosphohydrolases including oxidative damage repair enzymes (EC 3.6.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,131
+,Cgl1156,cg1307,deaD,,ATP-dependent RNA helicase DeaD (EC 3.6.4.13) (Cold-shock DEAD box protein A),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,732
+,Cgl1158,cg1309,mhpA,,2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (EC 1.14.13.50),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,530
+,Cgl1163,cg1314,putP,,Sodium/proline symporter (Proline permease),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,524
+,Cgl1176,cg1329,ctpC,,Cation transport ATPases (EC 3.6.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,625
+,Cgl1177,cg1330,,,Uncharacterized BCR (EC 2.7.6.5),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,210
+NCgl1131,Cgl1178,cg1332,,,Predicted hydrolases or acyltransferases (Alpha/beta hydrolase superfamily),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,527
+NCgl1132,Cgl1179,cg1333,argS,,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,550
+NCgl1133,Cgl1180,cg1334,lysA,,Diaminopimelate decarboxylase (DAP decarboxylase) (DAPDC) (EC 4.1.1.20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,445
+NCgl1136,Cgl1183,cg1337,hom,thrA,Homoserine dehydrogenase (HDH) (EC 1.1.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,445
+NCgl1137,Cgl1184,cg1338,thrB,,Homoserine kinase (HK) (HSK) (EC 2.7.1.39),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,309
+,Cgl1186,cg1341,narI,,Nitrate reductase gamma subunit (EC 1.7.99.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,259
+,Cgl1187,cg1342,narJ,,Nitrate reductase delta subunit (EC 1.7.99.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,244
+,Cgl1188,cg1343,narH,,Nitrate reductase beta chain (EC 1.7.99.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,531
+,Cgl1189,cg1344,narG,,Anaerobic dehydrogenases,,,
+,Cgl1190,cg1345,narK,,Nitrate/nitrite transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,450
+,Cgl1191,cg1346,mog,,Molybdopterin biosynthesis enzymes,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,163
+NCgl1149,Cgl1196,cg1351,moeA3,,Molybdopterin molybdenumtransferase (EC 2.10.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,403
+NCgl1150,Cgl1197,cg1352,moaA,,GTP 3',,,
+NCgl1151,Cgl1198,cg1353,fadD4,,Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II (EC 6.2.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,575
+NCgl1152,Cgl1199,cg1354,rho,,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,762
+NCgl1153,Cgl1200,cg1355,prfA,,Peptide chain release factor 1 (RF-1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,358
+NCgl1154,Cgl1201,cg1356,prmC,hemK,Release factor glutamine methyltransferase (RF MTase) (EC 2.1.1.297) (N5-glutamine methyltransferase PrmC) (Protein-(glutamine-N5) MTase PrmC) (Protein-glutamine N-methyltransferase PrmC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,279
+NCgl1159,Cgl1206,cg1362,atpB,,ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,270
+NCgl1160,Cgl1207,cg1363,atpE,,ATP synthase subunit c (ATP synthase F(0) sector subunit c) (F-type ATPase subunit c) (F-ATPase subunit c) (Lipid-binding protein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,80
+NCgl1161,Cgl1208,cg1364,atpF,,ATP synthase subunit b (ATP synthase F(0) sector subunit b) (ATPase subunit I) (F-type ATPase subunit b) (F-ATPase subunit b),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,188
+NCgl1162,Cgl1209,cg1365,atpH,,ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta) (F-ATPase subunit delta),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,271
+NCgl1163,Cgl1210,cg1366,atpA,,ATP synthase subunit alpha (EC 7.1.2.2) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,547
+NCgl1164,Cgl1211,cg1367,atpG,,ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl1165,Cgl1212,cg1368,atpD,,ATP synthase subunit beta (EC 7.1.2.2) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,483
+NCgl1166,Cgl1213,cg1369,atpC,,ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,124
+NCgl1168,Cgl1215,cg1371,nucS,,Endonuclease NucS (EC 3.1.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,230
+,Cgl1221,cg1377,ssuC,,ABC-type transporter,,,
+NCgl1175,Cgl1222,cg1379,ssuB,,Aliphatic sulfonates import ATP-binding protein SsuB (EC 3.6.3.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,243
+NCgl1176,Cgl1223,cg1380,ssuA,,ABC-type transporter,,,
+NCgl1177,Cgl1224,cg1381,glgB,,1,,,
+NCgl1178,Cgl1225,cg1382,glgE,,Alpha-1,,,
+,Cgl1237,cg1394,,,Spermidine synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,314
+NCgl1192,Cgl1240,cg1397,mnmA,trmU,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,365
+NCgl1196,Cgl1244,cg1401,ligA,,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,680
+NCgl1198,Cgl1246,cg1403,gatC,,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (Asp/Glu-ADT subunit C) (EC 6.3.5.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,99
+NCgl1199,Cgl1247,cg1404,gatA,,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,497
+NCgl1202,Cgl1250,cg1409,pfkA,,ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,346
+NCgl1204,Cgl1252,cg1411,rbsA,,Ribose import ATP-binding protein RbsA (EC 7.5.2.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,524
+NCgl1205,Cgl1253,cg1412,,,ABC-type transporter,,,
+NCgl1206,Cgl1254,cg1413,,,ABC-type transporter,,,
+NCgl1207,Cgl1255,cg1414,rbsD,,D-ribose pyranase (EC 5.4.99.62),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,123
+NCgl1210,Cgl1258,cg1419,,,Predicted Na+-dependent transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,335
+NCgl1211,Cgl1259,cg1420,gatB,,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,493
+NCgl1214,Cgl1262,cg1424,lysE,,Lysine exporter protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,233
+NCgl1215,Cgl1263,cg1425,lysG,,Lysine export transcriptional regulatory protein LysG,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,290
+NCgl1219,Cgl1268,cg1432,ilvD,,Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,613
+NCgl1221,Cgl1270,cg1434,yggB,,Uncharacterized protein Cgl1270/cg1434,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,491
+NCgl1222,Cgl1271,cg1435,ilvB,,Acetolactate synthase large subunit (AHAS) (EC 2.2.1.6) (Acetohydroxy-acid synthase large subunit) (ALS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,626
+NCgl1223,Cgl1272,cg1436,ilvN,,Acetolactate synthase,,,
+NCgl1224,Cgl1273,cg1437,ilvC,,Ketol-acid reductoisomerase (NADP(+)) (KARI) (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (AHIR) (Alpha-keto-beta-hydroxylacyl reductoisomerase) (Ketol-acid reductoisomerase type 1) (Ketol-acid reductoisomerase type I),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,338
+NCgl1225,Cgl1274,cg1438,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,166
+,Cgl1276,cg1440,,,ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems,,,
+,Cgl1277,cg1441,,,ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems,,,
+,Cgl1281,cg1447,,,Co/Zn/Cd efflux system component,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,318
+,Cgl1284,cg1451,serA,,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,530
+NCgl1237,Cgl1286,cg1453,leuB,,3-isopropylmalate dehydrogenase (EC 1.1.1.85) (3-IPM-DH) (Beta-IPM dehydrogenase) (IMDH),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,340
+NCgl1238,Cgl1287,cg1454,,,ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems,,,
+NCgl1243,Cgl1292,cg1462,entC,,Isochorismate synthase (EC 5.4.4.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,376
+NCgl1244,Cgl1293,cg1463,gltS,gltX,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,493
+NCgl1253,Cgl1305,cg1476,thiC,,Phosphomethylpyrimidine synthase (EC 4.1.99.17) (Hydroxymethylpyrimidine phosphate synthase) (HMP-P synthase) (HMP-phosphate synthase) (HMPP synthase) (Thiamine biosynthesis protein ThiC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,587
+,Cgl1308,cg1479,glgP1,,Alpha-1,,,
+,Cgl1313,cg1485,,,Guanosine polyphosphate pyrophosphohydrolases/synthetases (EC 3.1.7.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,188
+NCgl1262,Cgl1315,cg1487,leuC,,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,481
+NCgl1263,Cgl1316,cg1488,leuD,,3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,197
+NCgl1266,Cgl1320,cg1492,gpsA,,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,332
+NCgl1267,Cgl1321,cg1493,ddlA,ddl,D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+NCgl1269,Cgl1323,cg1495,thiL,,Thiamine-monophosphate kinase (TMP kinase) (Thiamine-phosphate kinase) (EC 2.7.4.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,331
+NCgl1270,Cgl1324,cg1496,ung,,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,254
+NCgl1275,Cgl1329,cg1501,coaD,,Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (Dephospho-CoA pyrophosphorylase) (Pantetheine-phosphate adenylyltransferase) (PPAT),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,160
+,Cgl1353,cg1525,polA,,DNA polymerase I (EC 2.7.7.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,905
+,Cgl1359,cg1531,rpsA,,Ribosomal protein S1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,486
+NCgl1305,Cgl1360,cg1537,ptsM,ptsG,PTS system mannose-specific EIIBCA component (EII-Man/EIII-Man) (EIIBCA-Man) [Includes: Mannose-specific phosphotransferase enzyme IIB component (EC 2.7.1.191) (PTS system mannose-specific EIIB component); Mannose permease IIC component (PTS system mannose-specific EIIC component); Mannose-specific phosphotransferase enzyme IIA component (PTS system mannose-specific EIIA component)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,683
+NCgl1306,Cgl1361,cg1538,coaE,,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,200
+,Cgl1366,cg1546,rbsK1,rbsK,Ribokinase (RK) (EC 2.7.1.15),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,307
+,Cgl1369,cg1550,uvrB,,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,699
+,Cgl1376,cg1560,uvrA,,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,949
+NCgl1324,Cgl1378,cg1563,infC,,Translation initiation factor IF-3,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,189
+NCgl1325,Cgl1379,cg1564,rpmI,,50S ribosomal protein L35,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,64
+NCgl1326,Cgl1380,cg1565,rplT,,50S ribosomal protein L20,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,127
+,Cgl1383,cg1568,ugpA,,ABC-type transporter,,,
+,Cgl1384,cg1569,ugpE,,ABC-type transporter,,,
+,Cgl1385,cg1570,ugpB,,ABC-type transporter,,,
+,Cgl1386,cg1571,ugpC,,ABC-type transporter,,,
+,Cgl1387,cg1572,glpQ2,,Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,239
+NCgl1335,Cgl1389,cg1574,pheS,,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,340
+NCgl1336,Cgl1390,cg1575,pheT,,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,835
+,Cgl1391,cg1577,,,SGNH_hydro domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,324
+,Cgl1392,cg1578,,,Predicted acyltransferases (EC 2.3.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,461
+NCgl1340,Cgl1394,cg1580,argC,,N-acetyl-gamma-glutamyl-phosphate reductase (AGPR) (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,347
+NCgl1341,Cgl1395,cg1581,argJ,,Arginine biosynthesis bifunctional protein ArgJ [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGSase)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,388
+NCgl1342,Cgl1396,cg1582,argB,,Acetylglutamate kinase (EC 2.7.2.8) (N-acetyl-L-glutamate 5-phosphotransferase) (NAG kinase) (NAGK),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,294
+NCgl1343,Cgl1397,cg1583,argD,,Acetylornithine aminotransferase (ACOAT) (EC 2.6.1.11),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,391
+NCgl1344,Cgl1398,cg1584,argF,,Ornithine carbamoyltransferase (OTCase) (EC 2.1.3.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,319
+NCgl1345,Cgl1399,cg1585,argR,,Arginine repressor,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,171
+NCgl1346,Cgl1400,cg1586,argG,,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,401
+NCgl1347,Cgl1401,cg1588,argH,,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,477
+NCgl1352,Cgl1406,cg1594,tyrS,,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,420
+NCgl1358,Cgl1413,cg1601,ppnK,nadK,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,291
+NCgl1362,Cgl1417,cg1606,pyrG,,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,554
+NCgl1363,Cgl1418,cg1607,,,NTP pyrophosphohydrolases including oxidative damage repair enzymes,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,219
+NCgl1364,Cgl1419,cg1608,xerD,,Tyrosine recombinase XerD,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,304
+,Cgl1424,cg1613,sseA2,,Sulfurtransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,289
+NCgl1372,Cgl1427,cg1616,cmk,,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,230
+NCgl1373,Cgl1428,cg1617,der,engA,GTPase Der (GTP-binding protein EngA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,519
+NCgl1379,Cgl1434,cg1623,zupT,,Zinc transporter ZupT,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,263
+NCgl1382,Cgl1438,cg1626,,,UPF0225 protein Cgl1438/cg1626,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,125
+NCgl1384,Cgl1440,cg1629,secA2,div/azi,Protein translocase subunit SecA 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,763
+NCgl1385,Cgl1441,cg1630,odhI,,Oxoglutarate dehydrogenase inhibitor,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,143
+,Cgl1452,cg1643,gnd,,6-phosphogluconate dehydrogenase,,,
+NCgl1402,Cgl1458,cg1649,pctD,,ABC-type transporter,,,
+NCgl1403,Cgl1459,cg1650,pctC,,ABC-type transporter,,,
+NCgl1404,Cgl1460,cg1651,pctB,phnC,Phosphonates import ATP-binding protein PhnC (EC 7.3.2.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,268
+NCgl1406,Cgl1462,cg1653,pgp1,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,234
+NCgl1407,Cgl1463,cg1654,thiD1,theD,Thiamine biosynthesis multifunctional protein ThiED [Includes: Thiamine-phosphate synthase (TMP-PPase) (TP synthase) (TPS) (EC 2.5.1.3) (Thiamine-phosphate pyrophosphorylase) (TMP pyrophosphorylase); Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase (EC 2.7.1.49) (EC 2.7.4.7) (Hydroxymethylpyrimidine kinase) (HMP kinase) (Hydroxymethylpyrimidine phosphate kinase) (HMP-P kinase) (HMP-phosphate kinase) (HMPP kinase)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,763
+NCgl1408,Cgl1464,cg1655,thiM,,Hydroxyethylthiazole kinase (EC 2.7.1.50) (4-methyl-5-beta-hydroxyethylthiazole kinase) (TH kinase) (Thz kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,268
+NCgl1409,Cgl1465,cg1656,ndh,,NADH dehydrogenase,,,
+NCgl1412,Cgl1468,cg1659,gpt,,Predicted phosphoribosyltransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,158
+NCgl1413,Cgl1469,cg1660,mntP,,Putative manganese efflux pump MntP,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,190
+,Cgl1477,cg1671,rbpA,,RNA polymerase-binding protein RbpA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,132
+,Cgl1479,cg1673,ppmN,lnt,Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.269),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,545
+,Cgl1480,cg1675,fxsA,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,247
+NCgl1433,Cgl1490,cg1684,tatC,,Sec-independent protein translocase protein TatC,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,334
+NCgl1434,Cgl1491,cg1685,tatX,tatA,Sec-independent protein translocase protein TatA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,105
+NCgl1437,Cgl1494,cg1688,pafA,,Pup--protein ligase (EC 6.3.1.19) (Proteasome accessory factor A) (Pup-conjugating enzyme),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,482
+NCgl1438,Cgl1495,cg1689,pup,,Prokaryotic ubiquitin-like protein Pup (Bacterial ubiquitin-like modifier),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,64
+NCgl1440,Cgl1497,cg1691,arc,,AAA ATPase forming ring-shaped complexes (ARC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,527
+NCgl1446,Cgl1503,cg1697,aspA,,Aspartate ammonia-lyase (Aspartase) (EC 4.3.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,526
+NCgl1447,Cgl1504,cg1698,hisG,,ATP phosphoribosyltransferase (ATP-PRT) (ATP-PRTase) (EC 2.4.2.17),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,281
+NCgl1448,Cgl1505,cg1699,hisE,,Phosphoribosyl-ATP pyrophosphatase (PRA-PH) (EC 3.6.1.31),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,87
+NCgl1449,Cgl1506,cg1700,gpp,,Predicted phosphatase/phosphohexomutase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,231
+NCgl1450,Cgl1507,cg1701,metH,,Methionine synthase (EC 2.1.1.13) (5-methyltetrahydrofolate--homocysteine methyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1221
+NCgl1453,Cgl1510,cg1705,arsC2,acr3,Arsenical-resistance protein Acr3,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,370
+NCgl1454,Cgl1511,cg1706,arsC1,,Arsenate-mycothiol transferase ArsC1 (EC 2.8.4.2) (Mycothiol-dependent arsenate reductase ArsC1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,140
+NCgl1455,Cgl1512,cg1707,,,Protein-tyrosine-phosphatase (EC 1.-.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,213
+NCgl1457,Cgl1514,cg1709,cysS2,mshC,L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase (L-Cys:GlcN-Ins ligase) (EC 6.3.1.13) (Mycothiol ligase) (MSH ligase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,404
+NCgl1458,Cgl1515,cg1710,bacA,uppP,,,,
+NCgl1461,Cgl1518,cg1713,pyrD,,Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2) (DHOdehase) (DHOD) (DHODase) (Dihydroorotate oxidase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,371
+,Cgl1528,cg1724,,,Putative periplasmic protein kinase ArgK and related GTPases of G3E family (EC 2.7.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,363
+,Cgl1529,cg1725,mcmB,,Methylmalonyl-CoA mutase,,,
+,Cgl1530,cg1726,mcmA,,Methylmalonyl-CoA mutase,,,
+NCgl1479,Cgl1537,cg1734,hemH,,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,370
+,Cgl1540,cg1737,acn,,Aconitate hydratase A (ACN) (Aconitase) (EC 4.2.1.3) ((2R,,,
+,Cgl1541,cg1738,acnR,,HTH-type transcriptional repressor AcnR (TetR-type regulator AcnR),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,188
+NCgl1486,Cgl1544,cg1742,,,UPF0237 protein Cgl1544/cg1742,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,89
+NCgl1487,Cgl1545,cg1743,,,UPF0210 protein Cgl1545/cg1743,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,464
+,Cgl1557,cg1757,tnp3b,,Transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,236
+NCgl1505,Cgl1566,cg1766,mptB,,Alpha-(1->6)-mannopyranosyltransferase B (MptB) (EC 2.4.1.-) (Polyprenyl-1-monophosphorylmannose dependent alpha-(1->6)mannopyranosyltransferase) (PPM-dependent alpha-(1->6)mannopyranosyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,602
+,Cgl1572,cg1771,qor,,NADPH:quinone reductase and related Zn-dependent oxidoreductases (EC 1.6.5.5),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl1511,Cgl1573,cg1773,ctaB,,Protoheme IX farnesyltransferase (EC 2.5.1.141) (Heme B farnesyltransferase) (Heme O synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,323
+NCgl1512,Cgl1574,cg1774,tkt,,Transketolase (EC 2.2.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,676
+,Cgl1575,cg1776,tal,,Transaldolase (EC 2.2.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+,Cgl1576,cg1778,zwf,,Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,484
+,Cgl1578,cg1780,devB,pgl,6-phosphogluconolactonase (6PGL) (EC 3.1.1.31),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,235
+NCgl1519,Cgl1581,cg1783,soxA,,Glycine/D-amino acid oxidases (Deaminating) or sarcosine oxidase (EC 1.5.3.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,280
+NCgl1520,Cgl1582,cg1784,ocd,,Predicted ornithine cyclodeaminase,,,
+NCgl1521,Cgl1583,cg1785,amt,,Ammonia channel (Ammonia transporter),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,452
+NCgl1522,Cgl1584,cg1786,secG,,Protein-export membrane protein SecG,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,77
+NCgl1523,Cgl1585,cg1787,ppc,,Phosphoenolpyruvate carboxylase (PEPC) (PEPCase) (EC 4.1.1.31),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,919
+NCgl1524,Cgl1586,cg1789,tpi,tpiA,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,259
+NCgl1525,Cgl1587,cg1790,pgk,,Phosphoglycerate kinase (EC 2.7.2.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,405
+NCgl1526,Cgl1588,cg1791,gap,,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (NAD-dependent glyceraldehyde-3-phosphate dehydrogenase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,334
+NCgl1527,Cgl1589,cg1792,whiA,,Probable cell division protein WhiA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,327
+NCgl1529,Cgl1591,cg1794,,,Nucleotide-binding protein Cgl1591/cg1794,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,309
+NCgl1530,Cgl1592,cg1795,uvrC,,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,696
+NCgl1532,Cgl1594,cg1797,ribH,,6,,,
+NCgl1533,Cgl1595,cg1798,ribA,ribBA,Riboflavin biosynthesis protein RibBA [Includes: 3,,,
+NCgl1534,Cgl1596,cg1799,ribC,,Riboflavin synthase alpha chain (EC 2.5.1.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,211
+NCgl1535,Cgl1597,cg1800,ribG,,Riboflavin biosynthesis protein RibD [Includes: Diaminohydroxyphosphoribosylaminopyrimidine deaminase (DRAP deaminase) (EC 3.5.4.26) (Riboflavin-specific deaminase); 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) (HTP reductase)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,328
+NCgl1536,Cgl1598,cg1801,rpe,,Ribulose-phosphate 3-epimerase (EC 5.1.3.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,219
+NCgl1538,Cgl1600,cg1803,fmt,,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,315
+NCgl1539,Cgl1601,cg1804,def2,def1,Peptide deformylase 1 (PDF 1) (EC 3.5.1.88) (Polypeptide deformylase 1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,169
+NCgl1540,Cgl1602,cg1805,priA,,Probable primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,688
+NCgl1541,Cgl1603,cg1806,metK,,S-adenosylmethionine synthase (AdoMet synthase) (EC 2.5.1.6) (MAT) (Methionine adenosyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,407
+NCgl1542,Cgl1604,cg1807,dfp,,Coenzyme A biosynthesis bifunctional protein CoaBC (EC 4.1.1.36) (EC 6.3.2.5) (DNA/pantothenate metabolism flavoprotein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,420
+NCgl1543,Cgl1605,cg1809,rpoZ,,DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,97
+NCgl1544,Cgl1606,cg1810,gmk,drp113,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,190
+NCgl1546,Cgl1608,cg1812,pyrF,,Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase) (OMPDCase) (OMPdecase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,278
+NCgl1547,Cgl1609,cg1813,carB,,Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1113
+NCgl1548,Cgl1610,cg1814,carA,,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,393
+NCgl1549,Cgl1611,cg1815,pyrC,,Dihydroorotase (DHOase) (EC 3.5.2.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,447
+NCgl1550,Cgl1612,cg1816,pyrB,,Aspartate carbamoyltransferase (EC 2.1.3.2) (Aspartate transcarbamylase) (ATCase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,312
+NCgl1551,Cgl1613,cg1817,pyrR,,Bifunctional protein PyrR [Includes: Pyrimidine operon regulatory protein; Uracil phosphoribosyltransferase (UPRTase) (EC 2.4.2.9)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,192
+NCgl1556,Cgl1618,cg1824,nusB,,Transcription antitermination protein NusB (Antitermination factor NusB),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,227
+NCgl1557,Cgl1619,cg1825,efp,,Elongation factor P (EF-P),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,187
+NCgl1559,Cgl1621,cg1827,aroB,,3-dehydroquinate synthase (DHQS) (EC 4.2.3.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,365
+NCgl1560,Cgl1622,cg1828,aroK,,Shikimate kinase (SK) (EC 2.7.1.71),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,169
+NCgl1561,Cgl1623,cg1829,aroC,,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,410
+NCgl1567,Cgl1629,cg1835,aroE3,aroE,Quinate/shikimate dehydrogenase (NAD(+)) (QSDH) (EC 1.1.1.-) (EC 1.1.1.24),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,276
+NCgl1568,Cgl1630,cg1836,mltG,,Endolytic murein transglycosylase (EC 4.2.2.-) (Peptidoglycan polymerization terminase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,389
+NCgl1569,Cgl1631,cg1837,,,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,182
+NCgl1570,Cgl1632,cg1838,alaS,,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,888
+NCgl1573,Cgl1635,cg1841,aspS,,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,608
+,Cgl1645,cg1852,sdaA,,L-serine deaminase (EC 4.3.1.17),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,449
+,Cgl1646,cg1853,glpD,,Glycerol-3-phosphate dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,562
+NCgl1585,Cgl1647,cg1855,hisS,,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,429
+NCgl1588,Cgl1651,cg1859,,,Uncharacterized protein Cgl1651/cg1859,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,185
+NCgl1590,Cgl1653,cg1861,relA,rel,GTP pyrophosphokinase (EC 2.7.6.5) ((p)ppGpp synthase) (ATP:GTP 3'-pyrophosphotransferase) (ppGpp synthase I),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,760
+NCgl1591,Cgl1654,cg1862,apt,,Adenine phosphoribosyltransferase (APRT) (EC 2.4.2.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,185
+,Cgl1657,cg1865,secF,,Protein-export membrane protein SecF,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,403
+,Cgl1658,cg1867,secD,,Protein translocase subunit SecD,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,644
+NCgl1596,Cgl1660,cg1869,ruvB,,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,360
+NCgl1597,Cgl1661,cg1870,ruvA,,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,206
+NCgl1598,Cgl1662,cg1871,ruvC,,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,221
+NCgl1599,Cgl1663,cg1872,,,Probable transcriptional regulatory protein Cgl1663/cg1872,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,251
+NCgl1600,Cgl1664,cg1873,tesB2,,Acyl-CoA thioesterase (EC 3.1.2.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,282
+,Cgl1669,cg1878,pgsA1,,Phosphatidylinositol phosphate synthase (PIP synthase) (EC 2.7.8.-) (CDP-diacylglycerol--D-myo-inositol-3-phosphate 3-phosphatidyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,219
+NCgl1607,Cgl1671,cg1880,thrS,,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,695
+,Cgl1714,cg1930,,,Peptidase S1 domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,335
+,Cgl1776,cg1996,cglIM,,Cytosine-specific methyltransferase (EC 2.1.1.37),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,363
+,Cgl1777,cg1997,cglIR,,Stress-sensitive restriction system protein 1 or type II resctriction endonuclease,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,358
+,Cgl1778,cg1998,cglIIR,,Stress-sensitive restriction system protein 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,632
+NCgl1747,Cgl1822,cg2042,aftC,,Alpha-(1->3)-arabinofuranosyltransferase (EC 2.4.2.47) (Arabinofuranan 3-O-arabinosyltransferase) (Arabinofuranosyltransferase C),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,279
+,Cgl1847/Cgl1889,cg2068,,,Hypothetical protein predicted by Glimmer,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,248
+,Cgl1896,cg2076,ribD,,Pyrimidine reductase,,,
+NCgl1827,Cgl1902,cg2083,dxs,,1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,636
+NCgl1828,Cgl1903,cg2084,,,Uncharacterized RNA methyltransferase Cgl1903/cg2084 (EC 2.1.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,412
+NCgl1830,Cgl1905,cg2086,dut,,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,149
+,Cgl1909,cg2090,suhB,,Inositol-1-monophosphatase (EC 3.1.3.25),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,272
+,Cgl1911,cg2092,sigA,,RNA polymerase sigma factor SigA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,498
+NCgl1843,Cgl1918,cg2101,dtd,,D-aminoacyl-tRNA deacylase (DTD) (EC 3.1.1.96) (Gly-tRNA(Ala) deacylase) (EC 3.1.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,144
+NCgl1845,Cgl1920,cg2103,dtxR,,Diphtheria toxin repressor (Iron-dependent diphtheria tox regulatory element) (Tox regulatory factor),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,228
+NCgl1846,Cgl1921,cg2104,galE,,UDP-glucose 4-epimerase (EC 5.1.3.2) (Galactowaldenase) (UDP-galactose 4-epimerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,329
+NCgl1853,Cgl1928,cg2112,nrdR,,Transcriptional repressor NrdR,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,150
+NCgl1855,Cgl1930,cg2114,lexA,,LexA repressor (EC 3.4.21.88),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,232
+,Cgl1933,cg2117,ptsI,,Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9) (Phosphotransferase system,,,
+,Cgl1935,cg2119,pfkB,,Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB) (EC 2.7.1.11) (EC 2.7.1.56),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,330
+,Cgl1936,cg2120,ptsF,,Phosphotransferase system,,,
+,Cgl1937,cg2121,ptsH,,HPr domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,89
+,Cgl1940,cg2126,hflX,,GTPase HflX (GTP-binding protein HflX),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,486
+NCgl1868,Cgl1943,cg2129,dapF,,Diaminopimelate epimerase (DAP epimerase) (EC 5.1.1.7) (PLP-independent amino acid racemase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,277
+NCgl1869,Cgl1944,cg2130,miaA,,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+NCgl1874,Cgl1949,cg2135,miaB,,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase (EC 2.8.4.3) ((Dimethylallyl)adenosine tRNA methylthiotransferase MiaB) (tRNA-i(6)A37 methylthiotransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,522
+NCgl1875,Cgl1950,cg2136,gluA,,Glutamate transport ATP-binding protein GluA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,242
+NCgl1876,Cgl1951,cg2137,gluB,,Glutamate-binding protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,295
+NCgl1877,Cgl1952,cg2138,gluC,,Glutamate transport system permease protein GluC,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,228
+NCgl1878,Cgl1953,cg2139,gluD,,Glutamate transport system permease protein GluD,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,273
+NCgl1879,Cgl1954,cg2140,recX,,Regulatory protein RecX,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,199
+NCgl1880,Cgl1955,cg2141,recA,,Protein RecA (Recombinase A),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,376
+,Cgl1964,cg2154,pgsA2,,Phosphatidylglycerophosphate synthase (EC 2.7.8.5),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,201
+NCgl1893,Cgl1968,cg2158,ftsK,,DNA translocase FtsK,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,921
+NCgl1895,Cgl1970,cg2160,rnj,,Ribonuclease J (RNase J) (EC 3.1.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,718
+NCgl1896,Cgl1971,cg2161,dapA,,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+NCgl1897,Cgl1972,cg2162,thyX,,Flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Thymidylate synthase ThyX) (TS) (TSase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,250
+NCgl1898,Cgl1973,cg2163,dapB,,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,248
+NCgl1900,Cgl1975,cg2166,gpsI,pnp,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,753
+NCgl1901,Cgl1976,cg2167,rpsO,,30S ribosomal protein S15,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,89
+NCgl1903,Cgl1978,cg2169,ribF,ribC,bifunctional riboflavin kinase/FMN adenylyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,341
+NCgl1904,Cgl1979,cg2170,truB,,tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,297
+NCgl1909,Cgl1984,cg2175,rbfA,,Ribosome-binding factor A,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,149
+NCgl1910,Cgl1985,cg2176,infB,,Translation initiation factor IF-2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1004
+NCgl1912,Cgl1988,cg2178,nusA,,DUF4439 domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,332
+NCgl1913,Cgl1989,cg2179,rimP,,Ribosome maturation factor RimP,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,178
+NCgl1919,Cgl1994,cg2185,proS,,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,588
+NCgl1920,Cgl1995,cg2186,,,UPF0246 protein Cgl1995/cg2186,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,245
+NCgl1923,Cgl1998,cg2189,cobA,,Uroporphyrinogen-III methylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,250
+NCgl1924,Cgl1999,cg2190,selO,,Protein adenylyltransferase SelO (EC 2.7.7.-) (EC 2.7.7.n1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,474
+NCgl1926,Cgl2001,cg2192,mqo,,Malate:quinone oxidoreductase (EC 1.1.5.4) (MQO) (Malate dehydrogenase [quinone]),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,500
+,Cgl2003,cg2194,gor,,Dihydrolipoamide dehydrogenase/glutathione oxidoreductase and related enzymes (EC 1.8.1.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,465
+,Cgl2007,cg2198,map2,map,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,263
+,Cgl2014,cg2206,ispG,gcpE,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,378
+NCgl1940,Cgl2016,cg2208,dxr,,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,392
+NCgl1941,Cgl2017,cg2211,,,Uncharacterized membrane protein Cgl2017/cg2211 (P20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,147
+NCgl1944,Cgl2020,cg2214,rlmN,,Probable dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,366
+NCgl1946,Cgl2022,cg2216,cdsA,,Phosphatidate cytidylyltransferase (EC 2.7.7.41),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,285
+NCgl1947,Cgl2023,cg2217,frr,,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,185
+NCgl1948,Cgl2024,cg2218,pyrH,,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,243
+NCgl1949,Cgl2025,cg2221,tsf,,Elongation factor Ts (EF-Ts),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,275
+NCgl1950,Cgl2026,cg2222,rpsB,,30S ribosomal protein S2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,272
+NCgl1952,Cgl2028,cg2224,xerC,,Tyrosine recombinase XerC,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,308
+NCgl1955,Cgl2031,cg2228,,,UPF0102 protein Cgl2031/cg2228,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,122
+NCgl1957,Cgl2033,cg2230,rnhB,,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,209
+NCgl1960,Cgl2037,cg2235,rplS,,50S ribosomal protein L19,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,113
+NCgl1961,Cgl2038,cg2236,thiE,,Thiamine-phosphate synthase (TP synthase) (TPS) (EC 2.5.1.3) (Thiamine-phosphate pyrophosphorylase) (TMP pyrophosphorylase) (TMP-PPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,221
+NCgl1964,Cgl2041,cg2239,thiG,,Thiazole synthase (EC 2.8.1.10),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,260
+NCgl1972,Cgl2050,cg2249,trmD,,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,289
+NCgl1974,Cgl2052,cg2251,rimM,,Ribosome maturation factor RimM,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,171
+NCgl1976,Cgl2054,cg2253,rpsP,,30S ribosomal protein S16,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,165
+NCgl1980,Cgl2058,cg2257,srp,ffh,Signal recognition particle protein (Fifty-four homolog),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,547
+NCgl1981,Cgl2059,cg2258,glnD,,Bifunctional uridylyltransferase/uridylyl-removing enzyme (UTase/UR) (Bifunctional [protein-PII] modification enzyme) (Bifunctional nitrogen sensor protein) [Includes: [Protein-PII] uridylyltransferase (PII uridylyltransferase) (UTase) (EC 2.7.7.59); [Protein-PII]-UMP uridylyl-removing enzyme (UR) (EC 3.1.4.-)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,692
+,Cgl2061,cg2261,amtB,,Ammonium transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,438
+,Cgl2062,cg2262,ftsY,,Signal recognition particle receptor FtsY (SRP receptor),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,510
+NCgl1986,Cgl2065,cg2265,smc,,Chromosome partition protein Smc,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1155
+NCgl1987,Cgl2066,cg2266,acyP,,Acylphosphatase (EC 3.6.1.7) (Acylphosphate phosphohydrolase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,94
+NCgl1993,Cgl2073,cg2272,mutM1,fpg,Formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (DNA-(apurinic or apyrimidinic site) lyase MutM) (AP lyase MutM) (EC 4.2.99.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,286
+NCgl1994,Cgl2074,cg2273,rnc,,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,247
+NCgl1999,Cgl2079,cg2280,gdh,,NADP-specific glutamate dehydrogenase (NADP-GDH) (EC 1.4.1.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,447
+,Cgl2081,cg2283,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,147
+,Cgl2082,cg2284,,,DUF4921 domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,428
+,Cgl2087,cg2289,glgP2,,Glucan phosphorylase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,850
+NCgl2008,Cgl2089,cg2291,pyk,,Pyruvate kinase (PK) (EC 2.7.1.40),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,475
+NCgl2009,Cgl2090,cg2292,lgt,,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase (EC 2.5.1.145),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,316
+NCgl2012,Cgl2093,cg2296,hisI,,Phosphoribosyl-AMP cyclohydrolase (PRA-CH) (EC 3.5.4.19),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,118
+NCgl2013,Cgl2094,cg2297,hisF,,Imidazole glycerol phosphate synthase subunit HisF (EC 4.3.2.10) (IGP synthase cyclase subunit) (IGP synthase subunit HisF) (ImGP synthase subunit HisF) (IGPS subunit HisF),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,258
+NCgl2014,Cgl2095,cg2298,impA,,Archaeal fructose-1,,,
+NCgl2015,Cgl2096,cg2299,hisA,,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,246
+NCgl2016,Cgl2097,cg2300,hisH,,Imidazole glycerol phosphate synthase subunit HisH (EC 4.3.2.10) (IGP synthase glutaminase subunit) (EC 3.5.1.2) (IGP synthase subunit HisH) (ImGP synthase subunit HisH) (IGPS subunit HisH),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,211
+NCgl2019,Cgl2100,cg2303,hisB,,Imidazoleglycerol-phosphate dehydratase (IGPD) (EC 4.2.1.19),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,202
+NCgl2020,Cgl2101,cg2304,hisC,,Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,366
+NCgl2021,Cgl2102,cg2305,hisD,,Histidinol dehydrogenase (HDH) (EC 1.1.1.23),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,442
+,Cgl2109,cg2312,gip,,Hydroxypyruvate isomerase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,258
+,Cgl2110,cg2313,idhA3,,Predicted dehydrogenases and related proteins (EC 1.1.1.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,337
+NCgl2046,Cgl2127,cg2334,ilvA,,L-threonine dehydratase biosynthetic IlvA (EC 4.3.1.19) (Threonine deaminase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,436
+,Cgl2130,cg2338,dnaE1,dnaE,DNA polymerase III subunit alpha (EC 2.7.7.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1194
+,Cgl2132,cg2340,,,PBPb domain-containing protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,156
+,Cgl2135,cg2343,,,Diaminopimelate decarboxylase (EC 4.1.1.20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,429
+,Cgl2139,cg2347,lspA,,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,178
+,Cgl2143,cg2352,ansA,,L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D (EC 3.5.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl2064,Cgl2144,cg2355,dinP,dinB,DNA polymerase IV (Pol IV) (EC 2.7.7.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,467
+NCgl2068,Cgl2148,cg2359,ileS,,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1054
+,Cgl2152,cg2363,sepF,,Cell division protein SepF,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,152
+NCgl2073,Cgl2153,cg2364,,,Pyridoxal phosphate homeostasis protein (PLP homeostasis protein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,221
+NCgl2074,Cgl2154,cg2365,,,Polyphenol oxidase (EC 1.10.3.-) (Multicopper oxidase Cgl2154/cg2365),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,246
+NCgl2075,Cgl2155,cg2366,ftsZ,,Cell division protein FtsZ,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,442
+NCgl2076,Cgl2156,cg2367,ftsQ,divB,Cell division protein FtsQ,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,222
+NCgl2077,Cgl2157,cg2368,murC,,UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,486
+NCgl2078,Cgl2158,cg2369,murG,,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,356
+NCgl2080,Cgl2160,cg2371,murD,,UDP-N-acetylmuramoylalanine-D-glutamate ligase (EC 6.3.2.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,156
+NCgl2081,Cgl2161,cg2372,mraY,,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,366
+NCgl2082,Cgl2162,cg2373,murF,,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) (D-alanyl-D-alanine-adding enzyme),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,514
+NCgl2083,Cgl2163,cg2374,murE,,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,,,
+NCgl2086,Cgl2166,cg2377,mraW,rsmH,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,337
+NCgl2087,Cgl2167,cg2378,mraZ,,Transcriptional regulator MraZ,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,143
+NCgl2091,Cgl2171,cg2383,metF,,Methylenetetrahydrofolate reductase (EC 1.5.1.20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,326
+NCgl2092,Cgl2172,cg2384,idsA,,Geranylgeranyl pyrophosphate synthase (EC 2.5.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,371
+NCgl2093,Cgl2173,cg2385,mptA,,Alpha-(1->6)-mannopyranosyltransferase A (MptA) (EC 2.4.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,490
+,Cgl2178,cg2391,aroG,,Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,462
+,Cgl2181,cg2394,cmt4,,Cmt4,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,483
+,Cgl2184,cg2398,plsC,,1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,245
+,Cgl2185,cg2399,glk,,Glucose kinase (EC 2.7.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,323
+,Cgl2186,cg2400,pimB,,GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase (EC 2.4.1.346) (Alpha-D-mannose-alpha-(1-6)-phosphatidylmyo-inositol-mannosyltransferase) (Alpha-mannosyltransferase) (Alpha-ManT) (Guanosine diphosphomannose-phosphatidyl-inositol alpha-mannosyltransferase) (Phosphatidylinositol alpha-mannosyltransferase) (PI alpha-mannosyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,381
+NCgl2108,Cgl2188,cg2402,,,Probable endopeptidase Cgl2188 (EC 3.4.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,209
+NCgl2109,Cgl2189,cg2403,qcrB,,Cytochrome bc1 complex cytochrome b subunit (EC 7.1.1.8) (Cytochrome bc1 reductase complex subunit QcrB) (Menaquinol--cytochrome c reductase cytochrome b subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,539
+NCgl2110,Cgl2190,cg2404,qcrA1,qcrA,Cytochrome bc1 complex Rieske iron-sulfur subunit (Cytochrome bc1 reductase complex subunit QcrA) (Menaquinol--cytochrome c reductase iron-sulfur subunit) (Rieske iron-sulfur protein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,408
+NCgl2111,Cgl2191,cg2405,qcrC,,Cytochrome bc1 complex cytochrome c subunit (Cytochrome c1) (EC 7.1.1.8) (Cytochrome bc1 reductase complex subunit Qcrc) (Menaquinol--cytochrome c reductase cytochrome c subunit),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,283
+NCgl2112,Cgl2192,cg2406,ctaE,,Cytochrome c oxidase subunit 3 (EC 1.9.3.1) (Cytochrome aa3 subunit 3) (Cytochrome c oxidase polypeptide III),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,205
+NCgl2114,Cgl2194,cg2408,ctaF,,Cytochrome c oxidase polypeptide 4 (EC 1.9.3.1) (Cytochrome aa3 subunit 4) (Cytochrome c oxidase polypeptide IV),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,143
+NCgl2115,Cgl2195,cg2409,ctaC,,Cytochrome c oxidase subunit 2 (EC 1.9.3.1) (Cytochrome aa3 subunit 2) (Cytochrome c oxidase polypeptide II) (Oxidase aa(3) subunit 2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,359
+NCgl2116,Cgl2196,cg2410,ltsA,,Asparagine synthase (Glutamine-hydrolyzing) or lysozyme insensitivity protein LtsA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,640
+NCgl2119,Cgl2199,cg2413,cobU,,Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,174
+NCgl2120,Cgl2200,cg2414,cobT,,Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (NN:DBI PRT) (EC 2.4.2.21) (N(1)-alpha-phosphoribosyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,358
+NCgl2121,Cgl2201,cg2415,cobS,,Adenosylcobinamide-GDP ribazoletransferase (EC 2.7.8.26) (Cobalamin synthase) (Cobalamin-5'-phosphate synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,307
+NCgl2123,Cgl2204,cg2418,ilvE,,Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase (EC 2.6.1.42),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,379
+NCgl2124,Cgl2205,cg2419,pepB,pepA,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,500
+NCgl2126,Cgl2207,cg2421,sucB,aceF,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex component E2) (PDH component E2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,675
+NCgl2127,Cgl2208,cg2422,lipB,,Octanoyltransferase (EC 2.3.1.181) (Lipoate-protein ligase B) (Lipoyl/octanoyl transferase) (Octanoyl-[acyl-carrier-protein]-protein N-octanoyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,251
+NCgl2128,Cgl2209,cg2423,lipA,,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,348
+NCgl2130,Cgl2211,cg2425,,,Uncharacterized transporter Cgl2211/cg2425,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,539
+,Cgl2214,cg2429,glnA,,Glutamine synthetase (EC 6.3.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,477
+NCgl2139,Cgl2220,cg2437,thrC,,Threonine synthase (TS) (EC 4.2.3.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,481
+NCgl2145,Cgl2226,cg2444,,,Uncharacterized protein Cgl2226/cg2444 (P24),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,181
+NCgl2147,Cgl2228,cg2446,glnE,,Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme (ATP:glutamine synthetase adenylyltransferase) (ATase) [Includes: Glutamine synthetase adenylyl-L-tyrosine phosphorylase (EC 2.7.7.89) (Adenylyl removase) (AR) (AT-N); Glutamine synthetase adenylyl transferase (EC 2.7.7.42) (Adenylyl transferase) (AT) (AT-C)],Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,1045
+NCgl2148,Cgl2229,cg2447,glnA2,,Glutamine synthase (EC 6.3.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,446
+,Cgl2233,cg2452,,,Galactokinase (EC 2.7.1.6),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,431
+,Cgl2236,cg2455,,,Phosphoglycerate mutase/fructose-2,,,
+,Cgl2239,cg2458,pgp2,,Predicted phosphatases (EC 3.1.3.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,218
+NCgl2167,Cgl2248,cg2466,aceE,,Pyruvate dehydrogenase E1 component (E1p) (PDH E1 component) (EC 1.2.4.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,922
+,Cgl2250,cg2468,,,ABC-type transporter,,,
+,Cgl2254,cg2472,,,Predicted hydrolases or acyltransferases (Alpha/beta hydrolase superfamily),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,338
+,Cgl2255,cg2473,acpM,acpP,Acyl carrier protein (ACP),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,97
+,Cgl2268,cg2489,dnaG,,DNA primase (EC 2.7.7.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,633
+NCgl2191,Cgl2271,cg2492,glmS,,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,623
+NCgl2193,Cgl2273,cg2494,dgt,,Deoxyguanosinetriphosphate triphosphohydrolase-like protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,424
+NCgl2198,Cgl2278,cg2499,glyS,glyQS,Glycine--tRNA ligase (EC 6.1.1.14) (Glycyl-tRNA synthetase) (GlyRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,461
+NCgl2203,Cgl2283,cg2508,uppS2,,Isoprenyl transferase 2 (EC 2.5.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,243
+NCgl2204,Cgl2284,cg2509,recO,,DNA repair protein RecO (Recombination protein O),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,242
+NCgl2205,Cgl2285,cg2510,bex,era,,,,
+NCgl2207,Cgl2287,cg2512,ybeY,,Endoribonuclease YbeY (EC 3.1.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,196
+NCgl2210,Cgl2290,cg2515,dnaJ2,dnaJ1,Chaperone protein DnaJ 1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,382
+NCgl2211,Cgl2291,cg2516,hrcA,,Heat-inducible transcription repressor HrcA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,341
+NCgl2212,Cgl2292,cg2517,hemN,,Heme chaperone HemW,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,330
+,Cgl2296,cg2521,fadD15,,Long-chain acyl-CoA synthetases (AMP-forming) (EC 6.2.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,615
+,Cgl2297,cg2523,malQ,,4-alpha-glucanotransferase (EC 2.4.1.25) (Amylomaltase) (Disproportionating enzyme),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,706
+,Cgl2303,cg2529,treS,,Glycosidases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,598
+NCgl2223,Cgl2305,cg2531,idi,,Isopentenyl-diphosphate Delta-isomerase (IPP isomerase) (EC 5.3.3.2) (IPP:DMAPP isomerase) (Isopentenyl pyrophosphate isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,189
+NCgl2227,Cgl2309,cg2536,aecD,,PLP-dependent aminotransferase and cystathionine beta-lyase (EC 2.6.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+NCgl2228,Cgl2310,cg2537,brnQ,,Branched-chain amino acid transport system carrier protein (Branched-chain amino acid uptake carrier),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,426
+,Cgl2312,cg2539,ectP,,Ectoine/glycine betaine/proline transporter EctP,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,615
+,Cgl2315,cg2543,glcD,,FAD/FMN-containing dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,948
+,Cgl2325,cg2554,rbsK2,rbsK,Ribokinase (RK) (EC 2.7.1.15),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+NCgl2247,Cgl2330,cg2559,aceB,glcB,Malate synthase G (EC 2.3.3.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,739
+NCgl2248,Cgl2331,cg2560,aceA,,Isocitrate lyase (ICL) (EC 4.1.3.1) (Isocitrase) (Isocitratase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,432
+NCgl2249,Cgl2332,cg2561,thiX,,Thiamine biosynthesis protein X,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,190
+,Cgl2334,cg2563,lcoP,,Betaine/ectoine transporter LcoP (Low capacity osmoregulated permease),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,630
+NCgl2259,Cgl2341,cg2571,lepA,,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,615
+NCgl2261,Cgl2343,cg2573,rpsT,,30S ribosomal protein S20,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,87
+NCgl2267,Cgl2349,cg2579,,,DegV domain-containing protein Cgl2349/cg2579,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,274
+,Cgl2350,cg2581,,,Phosphoglycerate mutase/fructose-2,,,
+,Cgl2351,cg2582,rsfS,,Ribosomal silencing factor RsfS,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,157
+NCgl2270,Cgl2352,cg2584,nadD,,Probable nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) (Deamido-NAD(+) diphosphorylase) (Deamido-NAD(+) pyrophosphorylase) (Nicotinate mononucleotide adenylyltransferase) (NaMN adenylyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,218
+NCgl2272,Cgl2354,cg2586,proA,,Gamma-glutamyl phosphate reductase (GPR) (EC 1.2.1.41) (Glutamate-5-semialdehyde dehydrogenase) (Glutamyl-gamma-semialdehyde dehydrogenase) (GSA dehydrogenase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,432
+NCgl2273,Cgl2355,cg2587,,,Uncharacterized protein Cgl2355/cg2587 (EC 1.-.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,304
+NCgl2274,Cgl2356,cg2588,proB,,Glutamate 5-kinase (EC 2.7.2.11) (Gamma-glutamyl kinase) (GK),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,369
+NCgl2275,Cgl2357,cg2589,obg,obgE,,,,
+NCgl2276,Cgl2358,cg2590,,,Xanthine/uracil permeases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,629
+,Cgl2360,cg2592,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,207
+NCgl2279,Cgl2362,cg2594,rpmA,,50S ribosomal protein L27,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,88
+NCgl2280,Cgl2363,cg2595,rplU,,50S ribosomal protein L21,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,101
+NCgl2287,Cgl2370,cg2603,ndk,,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,136
+NCgl2292,Cgl2375,cg2608,folC,,Folylpolyglutamate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,458
+NCgl2293,Cgl2376,cg2609,valS,,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,903
+,Cgl2380,cg2613,mdh,,Malate dehydrogenase (EC 1.1.1.37),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,328
+NCgl2304,Cgl2387,cg2620,clpX,,ATP-dependent Clp protease ATP-binding subunit ClpX,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,426
+,Cgl2392,cg2625,pcaF,,Acetyl-CoA acetyltransferases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,408
+,Cgl2407,cg2640,benD,,Dehydrogenases with different specificities (Related to short-chain alcohol dehydrogenases),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,276
+NCgl2327,Cgl2411,cg2644,clpP2,,ATP-dependent Clp protease proteolytic subunit 1 (EC 3.4.21.92) (Endopeptidase Clp 1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,208
+NCgl2328,Cgl2412,cg2645,clpP1,,ATP-dependent Clp protease proteolytic subunit 2 (EC 3.4.21.92) (Endopeptidase Clp 2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,201
+NCgl2329,Cgl2414,cg2647,tig,,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,449
+,Cgl2423,cg2658,rpi,,Ribose 5-phosphate isomerase RpiB (EC 5.3.1.26),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,157
+,Cgl2426,cg2662,pepN,,Aminopeptidase N (EC 3.4.11.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,867
+,Cgl2441,cg2680,,,PLP-dependent aminotransferases (EC 2.6.1.11),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,438
+,Cgl2446,cg2687,metB,,Cystathionine beta-lyases/cystathionine gamma-synthases (EC 2.5.1.48),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,386
+,Cgl2457,cg2700,phoB,,Alkaline phosphatase (EC 3.1.3.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,473
+,Cgl2460,cg2704,,,ABC-type transporter,,,
+,Cgl2461,cg2705,amyE,,ABC-type transporter,,,
+,Cgl2463,cg2708,msiK1,,ABC-type transporter,,,
+NCgl2382,Cgl2469,cg2714,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,254
+NCgl2383,Cgl2470,cg2715,larC,,Pyridinium-3,,,
+NCgl2384,Cgl2471,cg2716,hyi,,Hydroxypyruvate isomerase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,250
+NCgl2386,Cgl2473,cg2718,ornA,orn,Oligoribonuclease (EC 3.1.-.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,219
+NCgl2388,Cgl2475,cg2720,lppS,,Putative L,,,
+,Cgl2479,cg2725,tnp1b,,Transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,436
+NCgl2395,Cgl2482,cg2728,glsK,glsA,Glutaminase (EC 3.5.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,413
+NCgl2398,Cgl2484,cg2731,uxaC,,Uronate isomerase (EC 5.3.1.12) (Glucuronate isomerase) (Uronic isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,518
+NCgl2399,Cgl2485,cg2732,gntV,,Gluconokinase (EC 2.7.1.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,167
+,Cgl2487,cg2734,pncA,,Amidases related to nicotinamidase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,186
+NCgl2405,Cgl2491,cg2738,ppt1,acpS,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,135
+NCgl2414,Cgl2500,cg2751,,,dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,206
+NCgl2415,Cgl2501,cg2753,rph,,Ribonuclease PH (RNase PH) (EC 2.7.7.56) (tRNA nucleotidyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,245
+NCgl2423,Cgl2509,cg2762,murI,,Glutamate racemase (EC 5.1.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,273
+NCgl2429,Cgl2515,cg2772,clpS,,ATP-dependent Clp protease adapter protein ClpS,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,100
+,Cgl2517,cg2774,,,Nicotinate phosphoribosyltransferase (EC 6.3.4.21),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,446
+,Cgl2522,cg2779,serB,,Phosphoserine phosphatase (EC 3.1.3.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,339
+,Cgl2523,cg2780,ctaD,,Cytochrome c oxidase subunit 1 (EC 1.9.3.1) (Cytochrome aa3 subunit 1) (Cytochrome c oxidase polypeptide I),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,584
+,Cgl2525,cg2781,nrdF,,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,334
+,Cgl2526,cg2782,ftn,,Ferritin (EC 1.16.3.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,162
+,Cgl2528,cg2784,,,Mn-dependent transcriptional regulator,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,220
+NCgl2443,Cgl2530,cg2786,nrdE,,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,707
+NCgl2444,Cgl2531,cg2787,nrdI,,Protein NrdI,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,148
+,Cgl2532,cg2789,nrdH,,Glutaredoxin and related proteins,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,77
+NCgl2445,Cgl2533,cg2791,rpmJ,,50S ribosomal protein L36,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,40
+NCgl2446,Cgl2534,cg2792,nadE,,NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,277
+,Cgl2537,cg2795,,,NADPH:quinone reductase and related Zn-dependent oxidoreductases (EC 1.1.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,340
+,Cgl2538,cg2796,,,Uncharacterized protein involved in propionate catabolism,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,457
+NCgl2453,Cgl2541,cg2800,pgm,,Phosphoglucomutase (EC 5.4.2.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,554
+NCgl2454,Cgl2542,cg2801,crcB',crcB1,Putative fluoride ion transporter CrcB 1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,96
+NCgl2455,Cgl2543,cg2802,crcB,crcB2,Putative fluoride ion transporter CrcB 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,108
+NCgl2456,Cgl2544,cg2803,,,Putative hydro-lyase Cgl2544/cg2803 (EC 4.2.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,264
+,Cgl2549,cg2808,tnp13a,,TnpC protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,467
+NCgl2470,Cgl2558,cg2829,murA2,murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,418
+,Cgl2560,cg2831,ramA,,HTH-type transcriptional activator RamA (LuxR-type transcriptional regulator) (Regulator of acetate metabolism A) (RAMA),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,281
+,Cgl2562,cg2833,cysK,,Cysteine synthase (EC 2.5.1.47),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,308
+,Cgl2563,cg2834,cysE,,Serine acetyltransferase (EC 2.3.1.30),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,182
+NCgl2476,Cgl2565,cg2836,sucD,,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,294
+NCgl2477,Cgl2566,cg2837,sucC,,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,398
+,Cgl2569,cg2840,actA,,Acetyl-CoA hydrolase (EC 2.8.3.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,513
+,Cgl2570,cg2841,,,tRNA-dihydrouridine synthase (EC 1.3.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,381
+NCgl2483,Cgl2572,cg2843,pstB,,Phosphate import ATP-binding protein PstB (EC 7.3.2.1) (ABC phosphate transporter) (Phosphate-transporting ATPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,257
+NCgl2484,Cgl2573,cg2844,pstA,,Phosphate transport system permease protein PstA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,307
+NCgl2485,Cgl2574,cg2845,pstC,,Phosphate transport system permease protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,338
+NCgl2486,Cgl2575,cg2846,pstS,,Phosphate-binding protein PstS,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,375
+NCgl2487,Cgl2576,cg2847,mshD,,Mycothiol acetyltransferase (MSH acetyltransferase) (EC 2.3.1.189) (Mycothiol synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,292
+NCgl2490,Cgl2579,cg2850,,,UPF0678 fatty acid-binding protein-like protein Cgl2579/cg2850,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,229
+NCgl2491,Cgl2580,cg2851,,,Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase (EC 2.6.1.42),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,314
+,Cgl2583,cg2856,purM,,Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,358
+,Cgl2584,cg2857,purF,,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,494
+NCgl2499,Cgl2588,cg2862,purL,,Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,762
+NCgl2500,Cgl2589,cg2863,purQ,,Phosphoribosylformylglycinamidine synthase subunit PurQ (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit I) (FGAR amidotransferase I) (FGAR-AT I) (Glutaminase PurQ) (EC 3.5.1.2) (Phosphoribosylformylglycinamidine synthase subunit I),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,223
+,Cgl2590,cg2865,purS,,Phosphoribosylformylglycinamidine synthase subunit PurS (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit III) (FGAR amidotransferase III) (FGAR-AT III) (Phosphoribosylformylglycinamidine synthase subunit III),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,81
+,Cgl2595,cg2870,dctA,,Na+/H+-dicarboxylate symporters,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,446
+NCgl2508,Cgl2597,cg2874,purC,hemH,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,297
+,Cgl2598,cg2876,purB,,Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,476
+NCgl2511,Cgl2600,cg2878,purD,,Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,421
+NCgl2515,Cgl2604,cg2885,bioA,,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) (7,,,
+NCgl2516,Cgl2605,cg2886,bioD,,ATP-dependent dethiobiotin synthetase BioD (EC 6.3.3.3) (DTB synthetase) (DTBS) (Dethiobiotin synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,224
+,Cgl2610,cg2891,poxB,,Thiamine pyrophosphate-requiring enzymes [acetolactate synthase,,,
+,Cgl2617,cg2900,ddh,,Meso-diaminopimelate D-dehydrogenase (DAPDH) (Meso-DAP dehydrogenase) (EC 1.4.1.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,320
+,Cgl2624,cg2907,otsA,,Trehalose-6-phosphate synthase (EC 2.4.1.15),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,485
+,Cgl2626,cg2909,otsB,,Trehalose 6-phosphate phosphatase (EC 3.1.3.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,256
+,Cgl2627,cg2910,ipsA,,HTH-type transcriptional regulator IpsA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,358
+,Cgl2628,cg2911,,,ABC-type transporter,,,
+,Cgl2629,cg2912,,,ABC-type transporter,,,
+,Cgl2630,cg2913,,,ABC-type transporter,,,
+,Cgl2631,cg2914,tnp5b,,Predicted transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,500
+NCgl2552,Cgl2641,cg2924,cysS,cysS1,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,460
+NCgl2554,Cgl2643,cg2927,scrB,,Beta-fructosidases (Levanase/invertase) (EC 3.2.1.26),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,433
+NCgl2555,Cgl2644,cg2928,nagB,,Glucosamine-6-phosphate deaminase (EC 3.5.99.6) (GlcN6P deaminase) (GNPDA) (Glucosamine-6-phosphate isomerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,253
+NCgl2556,Cgl2645,cg2929,nagA1,,N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,384
+,Cgl2646,cg2931,nanA,,Dihydrodipicolinate synthase/N-acetylneuraminate lyase (EC 4.3.3.7),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,312
+NCgl2559,Cgl2648,cg2933,nanE,,Putative N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9) (ManNAc-6-P epimerase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,232
+NCgl2569,Cgl2659,cg2944,ispF,,2-C-methyl-D-erythritol 2,,,
+NCgl2570,Cgl2660,cg2945,ispD,,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,256
+NCgl2574,Cgl2664,cg2949,,,Uncharacterized protein Cgl2664/cg2949 (P29),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,194
+NCgl2575,Cgl2665,cg2950,radA,,DNA repair protein RadA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,464
+NCgl2576,Cgl2666,cg2951,disA,,DNA integrity scanning protein DisA (Cyclic di-AMP synthase) (c-di-AMP synthase) (Diadenylate cyclase) (EC 2.7.7.85),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,366
+,Cgl2668,cg2953,xylC,,NAD-dependent aldehyde dehydrogenases (EC 1.2.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,484
+,Cgl2670,cg2954,cynT,,Carbonic anhydrase (EC 4.2.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,207
+,Cgl2674,cg2958,buta,,L-2.3-butanediol dehydrogenase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,258
+,Cgl2679,cg2964,guaB1,,IMP dehydrogenase/GMP reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,477
+,Cgl2683,cg2969,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,647
+,Cgl2687,cg2974,lysS,,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,526
+,Cgl2688,cg2975,panC2,panC,Pantothenate synthetase (PS) (EC 6.3.2.1) (Pantoate--beta-alanine ligase) (Pantoate-activating enzyme),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,266
+,Cgl2692,cg2979,folK,,7,,,
+NCgl2600,Cgl2693,cg2981,folX,,7,,,
+NCgl2601,Cgl2694,cg2982,folP1,,Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,279
+NCgl2602,Cgl2695,cg2983,folE,,GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I) (GTP-CH-I),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,196
+NCgl2603,Cgl2696,cg2984,ftsH,,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,853
+NCgl2604,Cgl2697,cg2985,hpt,,Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,194
+NCgl2605,Cgl2698,cg2986,mesJ,tilS,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,314
+NCgl2606,Cgl2699,cg2987,dacB,,D-alanyl-D-alanine carboxypeptidase (Penicillin-binding protein 4) (EC 3.4.16.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,411
+NCgl2607,Cgl2700,cg2988,ppa,,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,158
+,Cgl2702,cg2990,speE,,Polyamine aminopropyltransferase (Putrescine aminopropyltransferase) (PAPT) (Spermidine synthase) (SPDS) (SPDSY) (EC 2.5.1.16),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,513
+,Cgl2709,cg2999,,,Uncharacterized NAD(FAD)-dependent dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,411
+,Cgl2713,cg3004,gabD1,gabD2,NAD-dependent aldehyde dehydrogenases (EC 1.2.1.39),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,521
+,Cgl2714,cg3007,pvdS2,ppk2B,Polyphosphate kinase PPK2B (EC 2.7.4.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,306
+NCgl2621,Cgl2716,cg3011,groEL,groL2,,,,
+,Cgl2729,cg3024,mrpA,,NADH:ubiquinone oxidoreductase subunit 5 (Chain L)/Multisubunit Na+/H+ antiporter,,,
+,Cgl2730,cg3025,mrpC,,Multisubunit Na+/H+ antiporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,163
+,Cgl2731,cg3026,mrpD,,Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter,,,
+,Cgl2732,cg3027,mrpE,,Multisubunit Na+/H+ antiporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,147
+,Cgl2733,cg3028,mrpF,,Multisubunit Na+/H+ antiporter,,,
+,Cgl2734,cg3029,mrpG,,Multisubunit Na+/H+ antiporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,126
+NCgl2640,Cgl2736,cg3031,,,Putative glutamate--cysteine ligase 2 (EC 6.3.2.2) (Gamma-glutamylcysteine synthetase 2) (GCS 2) (Gamma-GCS 2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,376
+NCgl2643,Cgl2738,cg3034,def1,def2,Peptide deformylase 2 (PDF 2) (EC 3.5.1.88) (Polypeptide deformylase 2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,193
+NCgl2644,Cgl2739,cg3035,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,335
+NCgl2656,Cgl2752,cg3047,ackA,ack,Acetate kinase (EC 2.7.2.1) (Acetokinase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,397
+NCgl2657,Cgl2753,cg3048,pta,eutD,Phosphate acetyltransferase (EC 2.3.1.8) (Phosphotransacetylase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,329
+NCgl2663,Cgl2759,cg3054,purT,,Formate-dependent phosphoribosylglycinamide formyltransferase (5'-phosphoribosylglycinamide transformylase 2) (Formate-dependent GAR transformylase) (EC 2.1.2.-) (GAR transformylase 2) (GART 2) (Non-folate glycinamide ribonucleotide transformylase) (Phosphoribosylglycinamide formyltransferase 2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,408
+NCgl2669,Cgl2766,cg3063,purA,,Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,430
+NCgl2672,Cgl2769,cg3067,,,Uncharacterized protein Cgl2769/cg3067,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,389
+NCgl2673,Cgl2770,cg3068,fda,fba,Fructose-bisphosphate aldolase (FBP aldolase) (FBPA) (EC 4.1.2.13) (Fructose-1,,,
+NCgl2676,Cgl2773,cg3071,pyrE,,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,184
+,Cgl2776,cg3074,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,240
+,Cgl2777,cg3075,cmr,,Permeases of the major facilitator superfamily,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,459
+NCgl2682,Cgl2780,cg3079,clpB,,Chaperone protein ClpB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,852
+,Cgl2784,cg3084,,,Predicted flavoprotein involved in K+ transport,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,390
+,Cgl2786,cg3086,,,Cystathionine beta-lyases/cystathionine gamma-synthases (EC 2.5.1.48),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,382
+,Cgl2793,cg3093,,,Predicted amidohydrolase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,266
+,Cgl2796,cg3096,,,NAD-dependent aldehyde dehydrogenases (EC 1.2.1.3),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,506
+NCgl2700,Cgl2798,cg3098,dnaJ,dnaJ2,Chaperone protein DnaJ 2,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,395
+NCgl2701,Cgl2799,cg3099,grpE,,Protein GrpE (HSP-70 cofactor),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,218
+NCgl2702,Cgl2800,cg3100,dnaK,,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,618
+,Cgl2802,cg3102,,,Nucleoside phosphorylase (EC 3.2.2.16) (EC 3.2.2.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,211
+,Cgl2807,cg3107,adhA,,Zn-dependent alcohol dehydrogenases (EC 1.1.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,345
+,Cgl2814,cg3114,cysN,,Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,433
+,Cgl2815,cg3115,cysD,,Sulfate adenylyltransferase (EC 2.7.7.4),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,304
+,Cgl2816,cg3116,cysH,,3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes (EC 1.8.4.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,231
+,Cgl2817,cg3118,cysI,,Sulfite reductase hemoprotein beta-component (EC 1.7.7.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,561
+,Cgl2818,cg3119,cysJ,,NADPH-dependent glutamate synthase beta chain and related oxidoreductases (EC 1.18.1.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,457
+,Cgl2829,cg3131,,,Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases (EC 3.5.1.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,441
+,Cgl2835,cg3137,iunH1,,Inosine-uridine nucleoside N-ribohydrolase (EC 3.2.2.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,301
+,Cgl2838,cg3141,hmp,,Hemoglobin-like flavoprotein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,386
+,Cgl2844,cg3149,,,PLP-dependent aminotransferases (EC 2.6.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,419
+,Cgl2845,cg3151,tnp2b,,Transposase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,401
+NCgl2750,Cgl2847,cg3154,udgA2,,UDP-glucose 6-dehydrogenase (EC 1.1.1.22),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,439
+NCgl2751,Cgl2848,cg3155,dcd,,dCTP deaminase,,,
+,Cgl2858,cg3163,,,Predicted acyltransferases (EC 2.3.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,356
+,Cgl2863,cg3169,pck,pckG,Phosphoenolpyruvate carboxykinase [GTP] (PEP carboxykinase) (PEPCK) (EC 4.1.1.32) (GTP-dependent phosphoenolpyruvate carboxykinase) (GTP-PEPCK),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,610
+,Cgl2864,cg3170,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,337
+,Cgl2865,cg3172,trmB,yggH,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,255
+,Cgl2872,cg3179,fadD2,,Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II (EC 6.2.1.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,596
+NCgl2777,Cgl2875,cg3182,cop1,csp1,Protein PS1,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,657
+NCgl2779,Cgl2878,cg3186,cmt2,,Cmt2 (Predicted esterase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,341
+NCgl2780,Cgl2879,cg3187,aftB,,Terminal beta-(1->2)-arabinofuranosyltransferase (EC 2.4.2.-),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,686
+NCgl2781,Cgl2880,cg3189,,,Decaprenyl-phosphate phosphoribosyltransferase (EC 2.4.2.45) (5-phospho-alpha-D-ribose-1-diphosphate:decaprenyl-phosphate 5-phosphoribosyltransferase) (DPPR synthase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,332
+,Cgl2887,cg3195,,,Predicted flavoprotein involved in K+ transport (EC 1.14.13.8),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,434
+,Cgl2888,cg3196,glf,,UDP-galactopyranose mutase (EC 5.4.99.9),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,401
+NCgl2790,Cgl2890,cg3198,glpK,,Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase) (GK),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,509
+NCgl2792,Cgl2892,cg3200,,,1-acyl-sn-glycerol-3-phosphate acyltransferase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,292
+NCgl2793,Cgl2893,cg3201,serS,,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,422
+NCgl2799,Cgl2899,cg3207,pheA,,Prephenate dehydratase (PDT) (EC 4.2.1.51),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,315
+NCgl2800,Cgl2900,cg3208,,,Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related amidases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,381
+,Cgl2902,cg3210,lcpB,,Probable cell wall biosynthesis protein LcpB,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,414
+,Cgl2907,cg3215,glpQ1,,Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,273
+,Cgl2908,cg3216,gntP,,H+/gluconate symporter and related permeases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,463
+NCgl2809,Cgl2910,cg3218,,,Pyruvate kinase (EC 2.7.1.40),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,539
+NCgl2810,Cgl2911,cg3219,ldh,,L-lactate dehydrogenase (L-LDH) (EC 1.1.1.27),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,314
+,Cgl2918,cg3227,lldA,,L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,405
+,Cgl2922,cg3232,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,539
+NCgl2825,Cgl2926,cg3236,msrA,,Peptide methionine sulfoxide reductase MsrA (Protein-methionine-S-oxide reductase) (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase) (Peptide Met(O) reductase),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,217
+NCgl2826,Cgl2927,cg3237,sod,,Superoxide dismutase (EC 1.15.1.1),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,200
+NCgl2839,Cgl2940,cg3252,yidC,,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,422
+NCgl2840,Cgl2941,cg3253,mcbR,,Transcriptional regulator,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,213
+NCgl2841,Cgl2942,cg3254,,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,87
+,Cgl2944,cg3256,,,Coenzyme F420-dependent N5,,,
+,Cgl2962,cg3281,,,Cation transport ATPases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,739
+,Cgl2976,cg3299,trxB1,,Thiol-disulfide isomerase and thioredoxins,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,149
+NCgl2879,Cgl2981,cg3306,rplI,,50S ribosomal protein L9,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,150
+NCgl2880,Cgl2982,cg3307,ssb,,Single-stranded DNA-binding protein (SSB),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,225
+NCgl2881,Cgl2983,cg3308,rpsF,,30S ribosomal protein S6,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,95
+,Cgl2986,cg3313,mrcB,,Membrane carboxypeptidase (Penicillin-binding protein),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,720
+NCgl2890,Cgl2992,cg3319,,,UPF0176 protein Cgl2992/cg3319,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,312
+,Cgl2996,cg3323,,,Myo-inositol-1-phosphate synthase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,363
+NCgl2896,Cgl2998,cg3325,,,UPF0371 protein Cgl2998/cg3325,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,495
+,Cgl3004,cg3332,,,Zinc-type alcohol dehydrogenase-like protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,337
+,Cgl3006,cg3334,,,Arabinose efflux permease,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,392
+,Cgl3007,cg3335,mez,,Malic enzyme (EC 1.1.1.40),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,392
+,Cgl3008,cg3336,gntK,,Sugar (Pentulose and hexulose) kinases (EC 2.7.1.12),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,494
+,Cgl3012,cg3340,dadA,,Glycine/D-amino acid oxidases (Deaminating),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,410
+NCgl2915,Cgl3018,cg3346,leuS,,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,952
+NCgl2922,Cgl3025,cg3353,benK2,genK,Gentisate transporter,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,444
+NCgl2923,Cgl3026,cg3354,,,3-hydroxybenzoate 6-hydroxylase (EC 1.14.13.24),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,442
+NCgl2927,Cgl3029,cg3359,trpE,,Anthranilate synthase component 1 (AS) (ASI) (EC 4.1.3.27),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,518
+NCgl2928,Cgl3031,cg3360,trpG,,Anthranilate synthase component 2 (AS) (ASII) (EC 4.1.3.27) (Anthranilate synthase,,,
+NCgl2929,Cgl3032,cg3361,trpD,,Anthranilate phosphoribosyltransferase (EC 2.4.2.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,348
+NCgl2930,Cgl3033,cg3362,trpCF,trpC,,,,
+NCgl2931,Cgl3034,cg3363,trpB,,Tryptophan synthase beta chain (EC 4.2.1.20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,417
+NCgl2932,Cgl3035,cg3364,trpA,,Tryptophan synthase alpha chain (EC 4.2.1.20),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,280
+NCgl2933,Cgl3036,cg3365,rmpC,sgaT,,,,
+,Cgl3052,cg3381,tatA,,Sec-independent protein translocase protein TatA,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,60
+,Cgl3062,cg3391,idhA1,,Predicted dehydrogenases and related proteins (EC 1.1.1.18),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,335
+,Cgl3063,cg3392,idhA2,,Predicted dehydrogenases and related proteins,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,361
+,Cgl3066,cg3395,proP,,Ectoine/proline transporter ProP,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,504
+NCgl2973,Cgl3079,cg3409,thiD2,,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,266
+NCgl2976,Cgl3082,cg3412,azlD,,Hypothetical membrane protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,115
+NCgl2977,Cgl3083,cg3413,azlC,,Predicted branched-chain amino acid permease (Azaleucine resistance),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,237
+NCgl2978,Cgl3084,cg3414,,,UPF0301 protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,189
+NCgl2984,Cgl3090,cg3422,trxB,,Thioredoxin reductase,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,317
+NCgl2985,Cgl3091,cg3423,trxC,,Thioredoxin,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,124
+NCgl2990,Cgl3096,cg3428,gidB,rsmG,Ribosomal RNA small subunit methyltransferase G,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),Specifically methylates the N7 position of guanine in position 518 of 16S rRNA.,223
+NCgl2991,Cgl3097,cg3429,,,Preprotein translocase subunit YidC,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,317
+NCgl2992,Cgl3098,cg3431,rnpA,,Ribonuclease P protein component,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme.,133
+NCgl2993,Cgl3099,cg3432,rpmH,,50S ribosomal protein L34,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),,47
+,Cgl0372,,,,Succinate dehydrogenase/fumarate reductase Fe-S protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,279
+,Cgl0674,,,,"ABC-type transporter, periplasmic component",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,325
+,Cgl0675,,,,"ABC-type transporter, ATPase component",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,260
+,Cgl0676,,,,"ABC-type transporter, permease components",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,339
+,Cgl1077,,,,2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (EC 1.14.13.2),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,395
+,Cgl1275,,,,"ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems, ATPase components",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,166
+,Cgl2112,,,,"ABC-type transporter, ATPase component",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,266
+,Cgl2113,,,,"ABC-type transporter, permease components",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,346
+,Cgl2114,,,,"ABC-type transporter, periplasmic component",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,329
+,Cgl2389,,,,Acyl-CoA:acetate CoA transferase beta subunit (EC 2.8.3.6),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,211
+,Cgl2390,,,,Acyl-CoA:acetate CoA transferase alpha subunit (EC 2.8.3.6),Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,250
+,Cgl2397,,,,"Protocatechuate 3,4-dioxygenase beta subunit (EC 1.13.11.3)",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,204
+,Cgl2398,,,,"Protocatechuate 3,4-dioxygenase beta subunit (EC 1.13.11.3)",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,230
+,Cgl2402,,,,"Protocatechuate 3,4-dioxygenase beta subunit (EC 1.13.11.1)",Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,285
+,Cgl2404,,,,Ferredoxin subunits of nitrite reductase and ring-hydroxylating dioxygenases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,490
+,Cgl2405,,,,Uncharacterized protein,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,164
+,Cgl2406,,,,2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases,Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025),,512
