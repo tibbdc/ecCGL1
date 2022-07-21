@@ -3,7 +3,7 @@ The process for enzyme-constrained model construction.
 
 ## About
 
-The pipeline was written and tested with Linux. The core libraries essential for the pipeline including: cobra, plotly (draw figures), and related packages. 
+The pipeline was written and tested on Linux. The core libraries essential for the pipeline including: cobra, plotly (draw figures), and related packages. 
 
 ## Installation
 
@@ -35,7 +35,7 @@ Download all data and analysis code from github (directlt download or use git cl
 
  ```shell
 $ cd /file path/project save path/
-$ git clone https://github.com/tibbdc/ECMpy_cg.git
+$ git clone https://github.com/tibbdc/eciCW773.git
  ```
 
  All results can be reproduced by executing the Jupyter Python notebooks:
