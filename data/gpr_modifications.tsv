@@ -1,51 +1,51 @@
 reaction_id	gpr
+ACACtex	Cgl0503
+PA120abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA140abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA141abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA160abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA161abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA180abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PA181abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP120abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP140abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP141abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP160abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP161abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP180abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PGP181abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+PHEMEabcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
+ADOCBLS	Cgl2201
+ATPS4rpp	Cgl1213 and Cgl1211 and Cgl1210 and Cgl1208 and Cgl1212 and Cgl1209 and Cgl1207 and Cgl1206
 AKGDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
 PDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
 PROabcpp	Cgl2028 and Cgl1419
-ASPTRS	Cgl1259 and Cgl1246 and Cgl1247
-GLNTRS	Cgl1259 and Cgl1246 and Cgl1247
-ADOCBLS	Cgl2201
-ACACtex	
-PA120abcpp	
-PA140abcpp	
-PA141abcpp	
-PA160abcpp	
-PA161abcpp	
-PA180abcpp	
-PA181abcpp	
-PGP120abcpp	
-PGP140abcpp	
-PGP141abcpp	
-PGP160abcpp	
-PGP161abcpp	
-PGP180abcpp	
-PGP181abcpp	
-PHEMEabcpp	
-MANptspp	Cgl1360
-ATPS4rpp	Cgl1213 and Cgl1211 and Cgl1210 and Cgl1208 and Cgl1212 and Cgl1209 and Cgl1207 and Cgl1206
 CYTBD2pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
 CYTBDpp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
 CYTBO3_4pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
-SHK3Dr	Cgl1132 or Cgl1629
-METabcpp	Cgl0636 and Cgl0635 and Cgl0637
 UREAtpp	Cgl0090 and Cgl0088 and Cgl0089 and Cgl0087
+METabcpp	Cgl0636 and Cgl0635 and Cgl0637
 GP4GH	Cgl1002 and Cgl1003
-MCITL2	Cgl0695 or Cgl0658
-MMM2	Cgl1529 or Cgl1530
-HPYRI	Cgl2109 or Cgl2471
-UAGCVT	Cgl0352 or Cgl2558
-UAMDH	Cgl0353 or Cgl0397
+ASPTRS	Cgl1259 and Cgl1246 and Cgl1247
+GLNTRS	Cgl1259 and Cgl1246 and Cgl1247
+GLUabcpp	Cgl1951 and Cgl1950 and Cgl1952 and Cgl1953
+SUCOAS	Cgl2566 and Cgl2565
+PIuabcpp	Cgl2572 and Cgl2573 and Cgl2574 and Cgl2575
+DAPDC	Cgl1180 or Cgl2135
 DHPS2	Cgl1111 or Cgl2694
 DMATT	Cgl0626 or Cgl2172
-RBK	Cgl1366 or Cgl2325
 GLNS	Cgl2214 or Cgl2229
-NH4tpp	Cgl2061 or Cgl1583
-SHSL1	Cgl2446 or Cgl2786
-THDPS	Cgl1106 or Cgl1108
-DAPDC	Cgl1180 or Cgl2135
+HPYRI	Cgl2109 or Cgl2471
 HSST	Cgl0652 or Cgl0839
-PANTS	Cgl0113 or Cgl2688
-PIuabcpp	Cgl2572 and Cgl2573 and Cgl2574 and Cgl2575
-SUCOAS	Cgl2566 and Cgl2565
-GLUabcpp	Cgl1951 and Cgl1950 and Cgl1952 and Cgl1953
 IMPD	Cgl0603 or Cgl0604 or Cgl2679
+MCITL2	Cgl0695 or Cgl0658
+MMM2	Cgl1529 or Cgl1530
+NH4tpp	Cgl2061 or Cgl1583
+PANTS	Cgl0113 or Cgl2688
+RBK	Cgl1366 or Cgl2325
+SHK3Dr	Cgl1132 or Cgl1629
+SHSL1	Cgl2446 or Cgl2786
+TDPGDH	Cgl0323 or Cgl0334 or Cgl0347
+THDPS	Cgl1106 or Cgl1108
+UAGCVT	Cgl0352 or Cgl2558
+UAMDH	Cgl0353 or Cgl0397
