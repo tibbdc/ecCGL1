@@ -737,7 +737,6 @@ def change_enz_model_by_enz_usage(enz_ratio,json_model_path, reaction_flux_file,
     reaction_fluxes = pd.read_csv(reaction_flux_file, index_col=0)
     reaction_fluxes['enz ratio'] = reaction_fluxes['E']/np.sum(reaction_fluxes['E'])
     reaction_fluxes=reaction_fluxes.sort_values(by="enz ratio", axis=0, ascending=False)
-    #每次只选第一个
     i=0
     select_reaction = reaction_fluxes.index[0]
     # if select_reaction == 'PPNDH':
@@ -889,55 +888,6 @@ def draw_cdf_fig_kcat(data_cdf_data,output_file,x_name,y_name,y_index,nticks):
     fig.write_image(output_file)
     return fig
 
-def get_PhPP_dataold(model_file,model_type,obj,number,outputfile):
-    if model_type=='GEM':
-        cg_model = cobra.io.json.load_json_model(model_file)
-    else:
-        cg_model=get_enzyme_constraint_model(model_file)
-    objlist = []
-    glclist = []
-    o2list = []
-    exlist = list(np.linspace(0,30,number))
-    print(exlist)
-    exlistn = []
-    for i in exlist:
-        i = format(i,'.4f')
-        exlistn.append(float(i))
-    exlistm=deepcopy(exlistn)
-    exlistn.insert(0,0.0)
-    ectest = pd.DataFrame(exlistn)
-    o2df = pd.DataFrame(exlistn).T
-    df = pd.concat([o2df,ectest],axis=0)
-    df = df.reset_index(drop = True)
-    df1 = df.drop(1,axis=0)
-    df1 = df1.reset_index(drop = True)
-    df1
-    k=1
-    v=1
-    for i in exlistm:
-        condi = -i
-        for j in exlistm:
-            condj = -j
-
-            cg_model.reactions.get_by_id('EX_o2_e').bounds=(condj,0)
-            cg_model.reactions.get_by_id('EX_o2_e_reverse').bounds=(0,0)
-            cg_model.reactions.get_by_id('EX_glc_e').bounds=(condi,0)
-            cg_model.reactions.get_by_id('EX_glc_e_reverse').bounds=(0,0)
-
-            cg_model.objective=obj
-            enz_model_pfba_solution = cobra.flux_analysis.pfba(cg_model)
-            # print(k,v)
-            df1.iloc[k,v] = enz_model_pfba_solution.fluxes[obj]
-            k = k+1
-            if k == number+1:
-                k=1
-                v = v+1
-        if v == number+1:
-            break
-#     print(df1)
-    df1.to_csv(outputfile)
-    return(df1)
-
 def get_PhPP_data(model_file,model_type,obj,number,outputfile):
     if model_type=='GEM':
         cg_model = cobra.io.json.load_json_model(model_file)
@@ -948,7 +898,7 @@ def get_PhPP_data(model_file,model_type,obj,number,outputfile):
     o2list = []
     exlisto2 = []
     exlist = list(np.linspace(0,10,number))
-    exlisto2 = list(np.linspace(0,20,number))
+    exlisto2 = list(np.linspace(0,10,number))
     print(exlist)
 
     exlistn = []
@@ -975,12 +925,12 @@ def get_PhPP_data(model_file,model_type,obj,number,outputfile):
     k=1
     v=1
     for i in exlistmo2:
-        condi = -i
+        condi = i
         for j in exlistm:
             condj = -j
 
-            cg_model.reactions.get_by_id('EX_o2_e').bounds=(condi,0)
-            cg_model.reactions.get_by_id('EX_o2_e_reverse').bounds=(0,0)
+            cg_model.reactions.get_by_id('EX_o2_e').bounds=(0,0)
+            cg_model.reactions.get_by_id('EX_o2_e_reverse').bounds=(0,condi)
             cg_model.reactions.get_by_id('EX_glc_e').bounds=(condj,0)
             cg_model.reactions.get_by_id('EX_glc_e_reverse').bounds=(0,0)
 
@@ -1003,12 +953,12 @@ def draw_cdf_fig_mw(data_cdf_data,output_file,x_name,y_name,y_index,nticks):
     trace1 = go.Scatter(x=data_cdf_data,y=y_index,marker={'color': 'blue'},mode='lines',line={'color': 'blue', 'width': 3},xaxis='x2',yaxis="y2")
     data1 = [trace0,trace1]
     layout = go.Layout(plot_bgcolor='lightgrey',
-            xaxis=dict(title=dict(text=x_name,font=dict(size=20, family='Times New Roman')),
+            xaxis=dict(title=dict(text=x_name,font=dict(size=20, family='Times New Roman')),range=[0.89, 3.3],
                    type="log",rangemode="tozero",tickfont=dict(color='black', size=20, family='Times New Roman'),
                    linecolor='black',ticks='inside',tickcolor='black',zeroline=False,showgrid=False,
                    showexponent = 'all',exponentformat =  "power"),
             xaxis2=dict(showticklabels=False,
-                   type="log",rangemode="tozero",tickfont=dict(color='black', size=20, family='Times New Roman'),
+                   type="log",rangemode="tozero",tickfont=dict(color='black', size=20, family='Times New Roman'),range=[0.89, 3.3],
                    linecolor='black',overlaying='x', side='top',tickcolor='black', zeroline=False,nticks = nticks,
                    showexponent = 'all', exponentformat =  "power"),
             yaxis=dict(title=dict(text=y_name,font=dict(size=20, family='Times New Roman')),range=[0, 1],
@@ -1021,7 +971,7 @@ def draw_cdf_fig_mw(data_cdf_data,output_file,x_name,y_name,y_index,nticks):
     fig = go.Figure(data1, layout=layout)
     fig.add_hline(y=0.5,line_width=2,line_color="orange")
     fig.write_image(output_file)
-    return fig
+    return fig 
 
 def get_min_enzyme_cost(model, dict_coeff):
     """Get model flux using Minimum enzyme cost algorithm
@@ -1053,43 +1003,21 @@ def get_min_enzyme_cost(model, dict_coeff):
         solution = model.optimize()
     return solution
 
-def draw_3d_rbasold(z_data,out_fig_file):
-    layout = go.Layout(template="none",plot_bgcolor='lightgrey')
-    exlist = list(np.linspace(0,30,31))
-    fig = go.Figure(data=[go.Surface(y=exlist,x=exlist,z=z_data.values)],layout=layout)
-    fig.update_layout(scene = dict(
-        xaxis = dict(backgroundcolor = "lightgrey",title=dict(text="Glucose uptake rates<br>(mmol/gDW/h)",font=dict(size=15, family='Times New Roman'),)),
-        yaxis = dict(backgroundcolor = "lightgrey",title=dict(text="O2 uptake rates<br>mmol/gDW/h",font=dict(size=15, family='Times New Roman'))),
-        zaxis = dict(range=[0,1], backgroundcolor = "grey", gridcolor = "white", title=dict(text="Growth rates (1/h)",font=dict(size=15, family='Times New Roman')))))
-
-    fig.update_traces(contours_z=dict(usecolormap=True, highlightcolor="mistyrose", project_z=True))
-    fig.update_xaxes(type='linear', side='top',showgrid=False, 
-                     title={'font': {'size': 18}, 'text': 'Sepal Length', 'standoff': 10},automargin=True)
-    # fig.update_traces(hovertemplate="none")
-    fig.update_layout(title='Robustness analysis', autosize=False,scene_camera_eye=dict(x=-1.8, y=-1.5, z=0.5),
-        width=800, height=800,margin=dict(l=65, r=50, b=65, t=90))
-    fig.update_scenes(yaxis_tickangle=0)
-    fig.update_scenes(xaxis_tickangle=0)
-
-    fig.write_image(out_fig_file) 
-    return fig
-
 def draw_3d_rbas(z_data,out_fig_file):
     layout = go.Layout(template="none",plot_bgcolor='lightgrey')
     exlist = list(np.linspace(0,10,11))
-    exlisto2 = list(np.linspace(0,20,11))
+    exlisto2 = list(np.linspace(0,10,11))
     fig = go.Figure(data=[go.Surface(y=exlist,x=exlisto2,z=z_data.values)],layout=layout)
     fig.update_layout(scene = dict(
-        xaxis = dict(range=[0,20],backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        yaxis = dict(range=[0,11], backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        zaxis = dict(range=[0,1], backgroundcolor = "grey", gridcolor = "white", title=dict(text="<b>Growth rates<br>(1/h)</b>",font=dict(size=15, family='Times New Roman')))))
+        xaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'),backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=18, family='Times New Roman'))),
+        yaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=18, family='Times New Roman'))),
+        zaxis = dict(range=[0,0.65],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "grey", gridcolor = "white", title=dict(text="<b>Growth rates<br>(1/h)</b>",font=dict(size=18, family='Times New Roman')))))
 
     fig.update_traces(contours_z=dict(usecolormap=True, highlightcolor="mistyrose", project_z=True))
-    fig.update_xaxes(type='linear', side='top',showgrid=False, 
-                     title={'font': {'size': 15}, 'text': 'Sepal Length', 'standoff': 20},automargin=True)
+    # fig.update_xaxes(title_standoff = 1)
     # fig.update_traces(hovertemplate="none")
     fig.update_layout(autosize=False,scene_camera_eye=dict(x=-0.8, y=-2.1, z=0.3),
-        width=800, height=800,margin=dict(l=20, r=20, b=20, t=20))
+        width=850, height=850,margin=dict(l=20, r=20, b=20, t=20))
     fig.update_scenes(yaxis_tickangle=0)
     fig.update_scenes(xaxis_tickangle=0)
 

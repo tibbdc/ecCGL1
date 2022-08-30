@@ -7134,19 +7134,6 @@
             }
         },
         {
-            "id": "F6PP",
-            "name": "D-fructose 6-phosphate phosphatase",
-            "metabolites": {
-                "f6p_c": -1.0,
-                "fru_c": 1.0,
-                "h2o_c": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0031 or Cgl0032 or Cgl1936"
-        },
-        {
             "id": "FFSD",
             "name": "beta-fructofuranosidase",
             "metabolites": {
@@ -7395,17 +7382,6 @@
             }
         },
         {
-            "id": "LYXI",
-            "name": "Lyxose isomerase",
-            "metabolites": {
-                "lyx__L_c": -1.0,
-                "xylu__L_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2460"
-        },
-        {
             "id": "MALGT",
             "name": "maltose alpha-D-glucosyltransferase",
             "metabolites": {
@@ -7508,7 +7484,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1529 or Cgl1530",
+            "gene_reaction_rule": "Cgl1529 and Cgl1530",
             "annotation": {
                 "ec-code": "5.4.99.2"
             }
@@ -10079,7 +10055,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0323 and Cgl0334 and Cgl0347",
+            "gene_reaction_rule": "Cgl0323 or Cgl0334 or Cgl0347",
             "annotation": {
                 "ec-code": "4.2.1.46"
             }
@@ -10356,7 +10332,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0332 or Cgl0742",
+            "gene_reaction_rule": "Cgl0332",
             "annotation": {
                 "ec-code": "2.7.7.24"
             }
@@ -10486,7 +10462,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0371 and Cgl0370",
+            "gene_reaction_rule": "Cgl0370 and Cgl0371 and Cgl0372",
             "annotation": {
                 "ec-code": "1.3.99.1"
             }
@@ -10502,7 +10478,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0371 and Cgl0370",
+            "gene_reaction_rule": "Cgl0370 and Cgl0371 and Cgl0372",
             "annotation": {
                 "ec-code": "1.3.99.1"
             }
@@ -14241,7 +14217,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0027 or Cgl1281"
+            "gene_reaction_rule": ""
         },
         {
             "id": "ACBCP",
@@ -15763,7 +15739,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0264 or Cgl0265 or Cgl0266 or Cgl0267 or Cgl0268"
+            "gene_reaction_rule": "Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734"
         },
         {
             "id": "COBALT2abcpp",
@@ -15779,7 +15755,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0061 or Cgl0532 or Cgl0533"
+            "gene_reaction_rule": "Cgl0061"
         },
         {
             "id": "COBALT2tpp",
@@ -15840,7 +15816,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0336 or Cgl0389 or Cgl0390 or Cgl0391 or Cgl0036 or Cgl0038"
+            "gene_reaction_rule": "(Cgl0336 and Cgl0036 and Cgl0038) or (Cgl0389 and Cgl0390 and Cgl0391)"
         },
         {
             "id": "FEROpp",
@@ -15873,7 +15849,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0777 or Cgl2784 or Cgl2887"
+            "gene_reaction_rule": "Cgl0777 or Cgl2784 or Cgl1141 or Cgl2887 or Cgl1509"
         },
         {
             "id": "Kt2pp",
@@ -15952,7 +15928,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2729 or Cgl2730 or Cgl2731 or Cgl2732 or Cgl2733 or Cgl2734"
+            "gene_reaction_rule": "Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734"
         },
         {
             "id": "NAt3_2pp",
@@ -15965,7 +15941,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2729 or Cgl2730 or Cgl2731 or Cgl2732 or Cgl2733 or Cgl2734"
+            "gene_reaction_rule": "Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734"
         },
         {
             "id": "NAt3pp",
@@ -16081,7 +16057,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2572 and Cgl2573 and Cgl2574 and Cgl2575"
+            "gene_reaction_rule": "Cgl2575 and Cgl2572 and Cgl2573 and Cgl2574"
         },
         {
             "id": "PPTHpp",
@@ -16146,7 +16122,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0213 or Cgl0214"
+            "gene_reaction_rule": "Cgl0213 and Cgl0214"
         },
         {
             "id": "ZN2abcpp",
@@ -16162,7 +16138,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0028 or Cgl0029 or Cgl2628 or Cgl2629"
+            "gene_reaction_rule": "(Cgl0027 and Cgl0028 and Cgl0029) or (Cgl2628 and Cgl2629 and Cgl2630)"
         },
         {
             "id": "ZN2t3pp",
@@ -16390,7 +16366,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0831",
+            "gene_reaction_rule": "Cgl0831 or Cgl2870",
             "annotation": {
                 "ec-code": "6.4.1.2"
             }
@@ -18684,7 +18660,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             }
@@ -18702,7 +18678,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             }
@@ -18720,7 +18696,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             }
@@ -19948,17 +19924,6 @@
             "gene_reaction_rule": "Cgl1027"
         },
         {
-            "id": "ACACtex",
-            "name": "acetoacetate transport via diffusion",
-            "metabolites": {
-                "acac_c": 1.0,
-                "acac_e": -1.0
-            },
-            "lower_bound": -1000.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
-        },
-        {
             "id": "ACALDtpp",
             "name": "acetaldehyde reversible transport",
             "metabolites": {
@@ -20101,22 +20066,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "ADOCBLabcpp",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0501 or Cgl0502 or Cgl0666 or Cgl0667 or Cgl0668"
-        },
-        {
             "id": "AKGt2rpp",
             "name": "2-oxoglutarate reversible transport via symport",
             "metabolites": {
@@ -20143,7 +20092,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0470 or Cgl0206 or Cgl0933 or Cgl3082 or Cgl3083"
+            "gene_reaction_rule": "Cgl0407"
         },
         {
             "id": "ALAALAabcpp",
@@ -20209,19 +20158,6 @@
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
             "gene_reaction_rule": "Cgl0288 and Cgl0407"
-        },
-        {
-            "id": "ARBt2rpp",
-            "name": "L-arabinose transport via proton symport",
-            "metabolites": {
-                "arab__L_c": 1.0,
-                "arab__L_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": -1000.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253"
         },
         {
             "id": "ARBt3ipp",
@@ -20615,7 +20551,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2962 or Cgl0669"
+            "gene_reaction_rule": "Cgl2962"
         },
         {
             "id": "CUtex",
@@ -21360,7 +21296,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0031 or Cgl0032 or Cgl1936"
+            "gene_reaction_rule": "Cgl0030 and Cgl0031 and Cgl0032"
         },
         {
             "id": "GLCNt2rpp",
@@ -21512,19 +21448,6 @@
             "gene_reaction_rule": "Cgl0892 or Cgl2312"
         },
         {
-            "id": "GLYBt2pp",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0470 or Cgl0206 or Cgl0933 or Cgl3082 or Cgl3083"
-        },
-        {
             "id": "GLYC2Pabcpp",
             "name": "sn-Glycerol 2-phosphate transport via ABC system",
             "metabolites": {
@@ -21664,7 +21587,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1147 and Cgl1148"
+            "gene_reaction_rule": "Cgl1993 and Cgl2320 and Cgl2321 and Cgl2322"
         },
         {
             "id": "GTHRDabcpp",
@@ -21826,22 +21749,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "ILEabcpp",
-            "name": "L-isoleucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "ile__L_c": 1.0,
-                "ile__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250 or Cgl2132"
-        },
-        {
             "id": "ILEt2rpp",
             "name": "L-isoleucine reversible transport via proton symport",
             "metabolites": {
@@ -21852,7 +21759,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250 or Cgl2132"
+            "gene_reaction_rule": "Cgl2310"
         },
         {
             "id": "INDOLEt2pp",
@@ -21905,22 +21812,6 @@
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
             "gene_reaction_rule": ""
-        },
-        {
-            "id": "LEUabcpp",
-            "name": "L-leucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "leu__L_c": 1.0,
-                "leu__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250 or Cgl2132"
         },
         {
             "id": "LEUt2rpp",
@@ -22017,7 +21908,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2461"
+            "gene_reaction_rule": "Cgl2460 and Cgl2461 and Cgl2463"
         },
         {
             "id": "MALTptspp",
@@ -22075,7 +21966,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0636 and Cgl0635 and Cgl0637"
+            "gene_reaction_rule": "Cgl0635 and Cgl0636 and Cgl0637"
         },
         {
             "id": "METt2rpp",
@@ -22117,7 +22008,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1469 or Cgl2630"
+            "gene_reaction_rule": "Cgl1469"
         },
         {
             "id": "NACtpp",
@@ -22167,7 +22058,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1274 or Cgl1276 or Cgl1277 or Cgl1287"
+            "gene_reaction_rule": "Cgl1190"
         },
         {
             "id": "NOtex",
@@ -22234,7 +22125,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA140abcpp",
@@ -22250,7 +22141,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA141abcpp",
@@ -22266,7 +22157,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA160abcpp",
@@ -22282,7 +22173,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA161abcpp",
@@ -22298,7 +22189,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA180abcpp",
@@ -22314,7 +22205,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PA181abcpp",
@@ -22330,7 +22221,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP120abcpp",
@@ -22346,7 +22237,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP140abcpp",
@@ -22362,7 +22253,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP141abcpp",
@@ -22378,7 +22269,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP160abcpp",
@@ -22394,7 +22285,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP161abcpp",
@@ -22410,7 +22301,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP180abcpp",
@@ -22426,7 +22317,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PGP181abcpp",
@@ -22442,7 +22333,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PHEMEabcpp",
@@ -22458,7 +22349,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": ""
+            "gene_reaction_rule": "(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)"
         },
         {
             "id": "PHEMEtiex",
@@ -22498,19 +22389,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "PPAt4pp",
-            "name": "Na+/Propionate symporter",
-            "metabolites": {
-                "na1_c": 1.0,
-                "na1_e": -1.0,
-                "ppa_c": 1.0,
-                "ppa_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1163"
-        },
-        {
             "id": "PROabcpp",
             "name": "L-proline transport via ABC system",
             "metabolites": {
@@ -22524,7 +22402,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2028 and Cgl1419"
+            "gene_reaction_rule": "Cgl1419"
         },
         {
             "id": "PROGLYabcpp",
@@ -22566,7 +22444,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1418"
+            "gene_reaction_rule": "Cgl1163"
         },
         {
             "id": "PSERtex",
@@ -22630,17 +22508,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "R5Ptex",
-            "name": "Ribose 5-phosphate transport via diffusion",
-            "metabolites": {
-                "r5p_c": 1.0,
-                "r5p_e": -1.0
-            },
-            "lower_bound": -1000.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0952 or Cgl0953"
-        },
-        {
             "id": "RIBabcpp",
             "name": "D-ribose transport via ABC system",
             "metabolites": {
@@ -22654,7 +22521,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2572 or cg3748 or Cgl1254"
+            "gene_reaction_rule": "Cgl1252 and Cgl1253 and Cgl1254"
         },
         {
             "id": "SBTptspp",
@@ -22728,7 +22595,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0426"
+            "gene_reaction_rule": "Cgl0426 and Cgl0427 and Cgl0428"
         },
         {
             "id": "SPMDt3pp",
@@ -22812,7 +22679,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0428"
+            "gene_reaction_rule": "Cgl1078 and Cgl1079 and Cgl1080"
         },
         {
             "id": "THMDt2pp",
@@ -22988,7 +22855,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0090 and Cgl0088 and Cgl0089 and Cgl0087"
+            "gene_reaction_rule": "Cgl0090 and Cgl0087 and Cgl0088 and Cgl0089"
         },
         {
             "id": "URIt2pp",
@@ -23017,22 +22884,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "VALabcpp",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0930 or Cgl0931 or cg1063 or Cgl0932 or Cgl0934"
-        },
-        {
             "id": "VALt2rpp",
             "name": "L-valine reversible transport via proton symport",
             "metabolites": {
@@ -23043,7 +22894,7 @@
             },
             "lower_bound": -1000.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250 or Cgl2132"
+            "gene_reaction_rule": "Cgl2310"
         },
         {
             "id": "XANt2pp",
@@ -23083,22 +22934,6 @@
             "gene_reaction_rule": ""
         },
         {
-            "id": "XYLabcpp",
-            "name": "D-xylose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "xyl__D_c": 1.0,
-                "xyl__D_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253"
-        },
-        {
             "id": "XYLUt2pp",
             "name": "L-xylulose transport in via proton symport",
             "metabolites": {
@@ -23110,17 +22945,6 @@
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
             "gene_reaction_rule": "Cgl0112"
-        },
-        {
-            "id": "XYLUtex",
-            "name": "L-xylulose transport via diffusion",
-            "metabolites": {
-                "xylu__L_c": 1.0,
-                "xylu__L_e": -1.0
-            },
-            "lower_bound": -1000.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253"
         },
         {
             "id": "CO2tpp",
@@ -23247,7 +23071,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1259 and Cgl1246 and Cgl1247"
+            "gene_reaction_rule": "Cgl1635"
         },
         {
             "id": "CYSTRS",
@@ -23429,7 +23253,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1389 and Cgl1390 and cgtRNA_3581",
+            "gene_reaction_rule": "Cgl1389 and Cgl1390",
             "annotation": {
                 "ec-code": "6.1.1.20"
             }
@@ -29606,6 +29430,34 @@
             }
         },
         {
+            "id": "Cgl0372",
+            "name": "G_Cgl0372",
+            "annotation": {
+                "uniprot": "Q8NTD5"
+            }
+        },
+        {
+            "id": "Cgl1141",
+            "name": "G_Cgl1141",
+            "annotation": {
+                "uniprot": "Q8NRB1"
+            }
+        },
+        {
+            "id": "Cgl1509",
+            "name": "G_Cgl1509",
+            "annotation": {
+                "uniprot": "Q8NQC9"
+            }
+        },
+        {
+            "id": "Cgl2870",
+            "name": "G_Cgl2870",
+            "annotation": {
+                "uniprot": "Q8NLR8"
+            }
+        },
+        {
             "id": "Cgl1207",
             "name": "G_Cgl1207",
             "annotation": {
@@ -29620,10 +29472,87 @@
             }
         },
         {
-            "id": "Cgl2028",
-            "name": "G_Cgl2028",
+            "id": "Cgl0030",
+            "name": "G_Cgl0030",
             "annotation": {
-                "uniprot": "Q8NNZ9"
+                "uniprot": "Q8NUA9"
+            }
+        },
+        {
+            "id": "Cgl1993",
+            "name": "G_Cgl1993",
+            "annotation": {
+                "uniprot": "Q8NP32"
+            }
+        },
+        {
+            "id": "Cgl2322",
+            "name": "G_Cgl2322",
+            "annotation": {
+                "uniprot": "Q8NN84"
+            }
+        },
+        {
+            "id": "Cgl2321",
+            "name": "G_Cgl2321",
+            "annotation": {
+                "uniprot": "Q8NN85"
+            }
+        },
+        {
+            "id": "Cgl2320",
+            "name": "G_Cgl2320",
+            "annotation": {
+                "uniprot": "Q8NN86"
+            }
+        },
+        {
+            "id": "Cgl2463",
+            "name": "G_Cgl2463",
+            "annotation": {
+                "uniprot": "Q8NMV1"
+            }
+        },
+        {
+            "id": "Cgl1461",
+            "name": "G_Cgl1461",
+            "annotation": {
+                "uniprot": "Q8NQH3"
+            }
+        },
+        {
+            "id": "Cgl1252",
+            "name": "G_Cgl1252",
+            "annotation": {
+                "uniprot": "Q8NR12"
+            }
+        },
+        {
+            "id": "Cgl0427",
+            "name": "G_Cgl0427",
+            "annotation": {
+                "uniprot": "Q8NT83"
+            }
+        },
+        {
+            "id": "Cgl1080",
+            "name": "G_Cgl1080",
+            "annotation": {
+                "uniprot": "Q8NRG9"
+            }
+        },
+        {
+            "id": "Cgl1078",
+            "name": "G_Cgl1078",
+            "annotation": {
+                "uniprot": "Q8NRH1"
+            }
+        },
+        {
+            "id": "Cgl1079",
+            "name": "G_Cgl1079",
+            "annotation": {
+                "uniprot": "Q8NRH0"
             }
         },
         {

@@ -83,9 +83,6 @@
     "DRPA": {
         "Cgl0383": "1"
     },
-    "F6PP_num1": {
-        "Cgl0031": "1"
-    },
     "FFSD_num1": {
         "Cgl2643": "1"
     },
@@ -129,9 +126,6 @@
         "Cgl2569": "1",
         "Cgl2360": "1"
     },
-    "LYXI": {
-        "Cgl2460": "1"
-    },
     "MALGT": {
         "Cgl2303": "1"
     },
@@ -150,8 +144,9 @@
     "MM_COA_ADD5": {
         "Cgl0707": "1"
     },
-    "MMM2_num1": {
-        "Cgl1529": "1"
+    "MMM2": {
+        "Cgl1529": "1",
+        "Cgl1530": "1"
     },
     "MSDH_num1": {
         "Cgl0160": "1"
@@ -588,10 +583,8 @@
     "PGAMT": {
         "Cgl0583": "1"
     },
-    "TDPGDH": {
-        "Cgl0323": "1",
-        "Cgl0334": "1",
-        "Cgl0347": "1"
+    "TDPGDH_num1": {
+        "Cgl0323": "1"
     },
     "UAAGDS": {
         "Cgl2163": "1"
@@ -642,7 +635,7 @@
         "Cgl0286": "1",
         "Cgl0744": "1"
     },
-    "G1PTT_num1": {
+    "G1PTT": {
         "Cgl0332": "1"
     },
     "GALUi_num1": {
@@ -670,12 +663,14 @@
         "Cgl0696": "2"
     },
     "FRD2": {
+        "Cgl0370": "1",
         "Cgl0371": "1",
-        "Cgl0370": "1"
+        "Cgl0372": "1"
     },
     "FRD3": {
+        "Cgl0370": "1",
         "Cgl0371": "1",
-        "Cgl0370": "1"
+        "Cgl0372": "1"
     },
     "FUM": {
         "Cgl1010": "4"
@@ -1063,9 +1058,6 @@
         "Cgl2817": "1",
         "Cgl2818": "1"
     },
-    "EX_zn2_e_num1": {
-        "Cgl0027": "1"
-    },
     "5FTHFC": {
         "Cgl0881": "1"
     },
@@ -1351,9 +1343,9 @@
         "Cgl1082": "1"
     },
     "CAt6pp_num1": {
-        "Cgl0264": "1"
+        "Cgl0267": "1"
     },
-    "COBALT2abcpp_num1": {
+    "COBALT2abcpp": {
         "Cgl0061": "1"
     },
     "COBALT2tpp": {
@@ -1366,7 +1358,9 @@
         "Cgl2944": "1"
     },
     "FE3abcpp_num1": {
-        "Cgl0336": "1"
+        "Cgl0336": "1",
+        "Cgl0036": "1",
+        "Cgl0038": "1"
     },
     "FEROpp": {
         "Cgl2526": "24"
@@ -1387,10 +1381,10 @@
         "Cgl1434": "1"
     },
     "NAt3_1p5pp_num1": {
-        "Cgl2729": "1"
+        "Cgl0267": "1"
     },
     "NAt3_2pp_num1": {
-        "Cgl2729": "1"
+        "Cgl0267": "1"
     },
     "NAt3pp": {
         "Cgl1258": "1"
@@ -1405,10 +1399,10 @@
         "Cgl0460": "1"
     },
     "PIuabcpp": {
+        "Cgl2575": "1",
         "Cgl2572": "1",
         "Cgl2573": "1",
-        "Cgl2574": "1",
-        "Cgl2575": "1"
+        "Cgl2574": "1"
     },
     "PPTHpp": {
         "Cgl2457": "1"
@@ -1416,11 +1410,14 @@
     "SFRD": {
         "Cgl2817": "1"
     },
-    "SULabcpp_num1": {
-        "Cgl0213": "1"
+    "SULabcpp": {
+        "Cgl0213": "1",
+        "Cgl0214": "1"
     },
     "ZN2abcpp_num1": {
-        "Cgl0028": "1"
+        "Cgl0027": "1",
+        "Cgl0028": "1",
+        "Cgl0029": "1"
     },
     "ZN2t3pp": {
         "Cgl1434": "1"
@@ -1461,7 +1458,7 @@
     "ACACT1r": {
         "Cgl2392": "1"
     },
-    "ACCOAC": {
+    "ACCOAC_num1": {
         "Cgl0831": "1"
     },
     "ACOAD1f": {
@@ -1859,12 +1856,18 @@
         "Cgl1465": "1"
     },
     "NADH16pp": {
+        "Cgl2729": "1",
+        "Cgl2731": "1",
         "Cgl0269": "1"
     },
     "NADH17pp": {
+        "Cgl2729": "1",
+        "Cgl2731": "1",
         "Cgl0269": "1"
     },
     "NADH18pp": {
+        "Cgl2729": "1",
+        "Cgl2731": "1",
         "Cgl0269": "1"
     },
     "NADH5": {
@@ -2072,18 +2075,12 @@
     "ACt2rpp": {
         "Cgl0833": "1"
     },
-    "ADOCBLabcpp_num1": {
-        "Cgl0501": "1"
-    },
-    "ALAabcpp_num1": {
-        "Cgl0470": "1"
+    "ALAabcpp": {
+        "Cgl0407": "1"
     },
     "ARBabcpp": {
         "Cgl0288": "1",
         "Cgl0407": "1"
-    },
-    "ARBt2rpp": {
-        "Cgl1253": "1"
     },
     "ARBt3ipp": {
         "Cgl1253": "1"
@@ -2106,7 +2103,7 @@
     "CTBTt2rpp": {
         "Cgl3066": "1"
     },
-    "CUt3_num1": {
+    "CUt3": {
         "Cgl2962": "1"
     },
     "DALAt2pp": {
@@ -2163,8 +2160,10 @@
     "GAMptspp": {
         "Cgl1933": "1"
     },
-    "GLCabcpp_num1": {
-        "Cgl0031": "1"
+    "GLCabcpp": {
+        "Cgl0030": "1",
+        "Cgl0031": "1",
+        "Cgl0032": "1"
     },
     "GLCptspp": {
         "Cgl3036": "1"
@@ -2177,9 +2176,6 @@
     },
     "GLYBabcpp_num1": {
         "Cgl0892": "3"
-    },
-    "GLYBt2pp_num1": {
-        "Cgl0470": "1"
     },
     "GLYC2Pabcpp": {
         "Cgl1383": "1",
@@ -2194,17 +2190,13 @@
         "Cgl1386": "1"
     },
     "GTHRDabc2pp": {
-        "Cgl1147": "1",
-        "Cgl1148": "1"
+        "Cgl1993": "1",
+        "Cgl2320": "1",
+        "Cgl2321": "1",
+        "Cgl2322": "1"
     },
-    "ILEabcpp_num1": {
-        "Cgl2250": "1"
-    },
-    "ILEt2rpp_num1": {
-        "Cgl2250": "1"
-    },
-    "LEUabcpp_num1": {
-        "Cgl2250": "1"
+    "ILEt2rpp": {
+        "Cgl2310": "1"
     },
     "LEUt2rpp_num1": {
         "Cgl0258": "1"
@@ -2216,7 +2208,9 @@
         "Cgl0968": "1"
     },
     "MALTabcpp": {
-        "Cgl2461": "1"
+        "Cgl2460": "1",
+        "Cgl2461": "1",
+        "Cgl2463": "1"
     },
     "MALTptspp": {
         "Cgl1933": "1"
@@ -2225,49 +2219,123 @@
         "Cgl1360": "1"
     },
     "METabcpp": {
-        "Cgl0636": "1",
         "Cgl0635": "1",
+        "Cgl0636": "1",
         "Cgl0637": "1"
     },
     "MNLptspp": {
         "Cgl3036": "1"
     },
-    "MNt2pp_num1": {
+    "MNt2pp": {
         "Cgl1469": "1"
     },
-    "NO3tex_num1": {
-        "Cgl1274": "1"
+    "NO3tex": {
+        "Cgl1190": "1"
     },
-    "PPAt4pp": {
-        "Cgl1163": "1"
+    "PA120abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA140abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA141abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA160abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA161abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA180abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PA181abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP120abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP140abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP141abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP160abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP161abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP180abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PGP181abcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
+    },
+    "PHEMEabcpp_num1": {
+        "Cgl1221": "1",
+        "Cgl1222": "1",
+        "Cgl1223": "1"
     },
     "PROabcpp": {
-        "Cgl2028": "2",
         "Cgl1419": "2"
     },
     "PROt4pp": {
-        "Cgl1418": "1"
+        "Cgl1163": "1"
     },
     "PSERtex_num1": {
         "Cgl0296": "1"
     },
-    "R5Ptex_num1": {
-        "Cgl0952": "1"
-    },
-    "RIBabcpp_num1": {
-        "Cgl2572": "1"
+    "RIBabcpp": {
+        "Cgl1252": "1",
+        "Cgl1253": "1",
+        "Cgl1254": "1"
     },
     "SBTptspp": {
         "Cgl3036": "1"
     },
     "SPMDabcpp": {
-        "Cgl0426": "1"
+        "Cgl0426": "1",
+        "Cgl0427": "1",
+        "Cgl0428": "1"
     },
     "SUCptspp": {
         "Cgl3036": "1"
     },
     "THMabcpp": {
-        "Cgl0428": "1"
+        "Cgl1078": "1",
+        "Cgl1079": "1",
+        "Cgl1080": "1"
     },
     "TREptsp_num1": {
         "Cgl1933": "1"
@@ -2286,27 +2354,18 @@
     },
     "UREAtpp": {
         "Cgl0090": "2",
+        "Cgl0087": "1",
         "Cgl0088": "2",
-        "Cgl0089": "2",
-        "Cgl0087": "1"
+        "Cgl0089": "2"
     },
-    "VALabcpp_num1": {
-        "Cgl0930": "1"
-    },
-    "VALt2rpp_num1": {
-        "Cgl2250": "1"
+    "VALt2rpp": {
+        "Cgl2310": "1"
     },
     "XANt2pp_num1": {
         "Cgl0824": "1"
     },
-    "XYLabcpp": {
-        "Cgl1253": "1"
-    },
     "XYLUt2pp": {
         "Cgl0112": "1"
-    },
-    "XYLUtex": {
-        "Cgl1253": "1"
     },
     "ALATRS_num1": {
         "Cgl1632": "1"
@@ -2315,9 +2374,7 @@
         "Cgl1179": "1"
     },
     "ASPTRS": {
-        "Cgl1259": "1",
-        "Cgl1246": "1",
-        "Cgl1247": "1"
+        "Cgl1635": "2"
     },
     "CYSTRS_num1": {
         "Cgl2641": "1"
@@ -2613,7 +2670,7 @@
     "PGAMT_reverse": {
         "Cgl0583": "1"
     },
-    "G1PTT_reverse_num1": {
+    "G1PTT_reverse": {
         "Cgl0332": "1"
     },
     "GALUi_reverse_num1": {
@@ -2677,9 +2734,6 @@
     "SERAT_reverse": {
         "Cgl2563": "1"
     },
-    "EX_zn2_e_reverse_num1": {
-        "Cgl0027": "1"
-    },
     "MTHFC_reverse": {
         "Cgl0648": "2"
     },
@@ -2717,7 +2771,7 @@
         "Cgl0942": "6"
     },
     "CAt6pp_reverse_num1": {
-        "Cgl0264": "1"
+        "Cgl0267": "1"
     },
     "MG2t3_2pp_reverse_num1": {
         "Cgl1125": "1"
@@ -2922,9 +2976,6 @@
     "ACt2rpp_reverse": {
         "Cgl0833": "1"
     },
-    "ARBt2rpp_reverse": {
-        "Cgl1253": "1"
-    },
     "ARGORNt7pp_reverse": {
         "Cgl0968": "1"
     },
@@ -2934,8 +2985,8 @@
     "FRUURt2rpp_reverse": {
         "Cgl2908": "1"
     },
-    "ILEt2rpp_reverse_num1": {
-        "Cgl2250": "1"
+    "ILEt2rpp_reverse": {
+        "Cgl2310": "1"
     },
     "LEUt2rpp_reverse_num1": {
         "Cgl0258": "1"
@@ -2943,14 +2994,11 @@
     "LYSt2pp_reverse": {
         "Cgl0968": "1"
     },
-    "NO3tex_reverse_num1": {
-        "Cgl1274": "1"
+    "NO3tex_reverse": {
+        "Cgl1190": "1"
     },
     "PSERtex_reverse_num1": {
         "Cgl0296": "1"
-    },
-    "R5Ptex_reverse_num1": {
-        "Cgl0952": "1"
     },
     "TRPt2rpp_reverse": {
         "Cgl1107": "1"
@@ -2960,15 +3008,12 @@
     },
     "UREAtpp_reverse": {
         "Cgl0090": "2",
+        "Cgl0087": "1",
         "Cgl0088": "2",
-        "Cgl0089": "2",
-        "Cgl0087": "1"
+        "Cgl0089": "2"
     },
-    "VALt2rpp_reverse_num1": {
-        "Cgl2250": "1"
-    },
-    "XYLUtex_reverse": {
-        "Cgl1253": "1"
+    "VALt2rpp_reverse": {
+        "Cgl2310": "1"
     },
     "PHETA1_reverse_num1": {
         "Cgl0218": "1"
@@ -3014,12 +3059,6 @@
     "ARAI_num2": {
         "Cgl3006": "1"
     },
-    "F6PP_num2": {
-        "Cgl0032": "1"
-    },
-    "F6PP_num3": {
-        "Cgl1936": "1"
-    },
     "FFSD_num2": {
         "Cgl1116": "1"
     },
@@ -3031,9 +3070,6 @@
     },
     "MCITL2_num2": {
         "Cgl0658": "4"
-    },
-    "MMM2_num2": {
-        "Cgl1530": "1"
     },
     "MSDH_num2": {
         "Cgl0295": "1"
@@ -3224,6 +3260,12 @@
     "MI1PP_num2": {
         "Cgl2095": "1"
     },
+    "TDPGDH_num2": {
+        "Cgl0334": "1"
+    },
+    "TDPGDH_num3": {
+        "Cgl0347": "1"
+    },
     "UAGCVT_num2": {
         "Cgl2558": "1"
     },
@@ -3232,9 +3274,6 @@
     },
     "UDPGD_num2": {
         "Cgl2847": "1"
-    },
-    "G1PTT_num2": {
-        "Cgl0742": "1"
     },
     "GALUi_num2": {
         "Cgl0882": "1"
@@ -3325,9 +3364,6 @@
     },
     "MCPST_num3": {
         "Cgl2776": "1"
-    },
-    "EX_zn2_e_num2": {
-        "Cgl1281": "1"
     },
     "GLNS_num2": {
         "Cgl2229": "1"
@@ -3423,22 +3459,28 @@
         "Cgl2101": "2"
     },
     "CAt6pp_num2": {
-        "Cgl0265": "1"
+        "Cgl2731": "1"
     },
     "CAt6pp_num3": {
-        "Cgl0266": "1"
+        "Cgl2729": "1"
     },
     "CAt6pp_num4": {
-        "Cgl0267": "1"
+        "Cgl0269": "1"
     },
     "CAt6pp_num5": {
+        "Cgl2732": "1"
+    },
+    "CAt6pp_num6": {
+        "Cgl2730": "1"
+    },
+    "CAt6pp_num7": {
         "Cgl0268": "1"
     },
-    "COBALT2abcpp_num2": {
-        "Cgl0532": "1"
+    "CAt6pp_num8": {
+        "Cgl2733": "1"
     },
-    "COBALT2abcpp_num3": {
-        "Cgl0533": "1"
+    "CAt6pp_num9": {
+        "Cgl2734": "1"
     },
     "CYANSTpp_num2": {
         "Cgl1424": "1"
@@ -3453,73 +3495,80 @@
         "Cgl0055": "1"
     },
     "FE3abcpp_num2": {
-        "Cgl0389": "1"
-    },
-    "FE3abcpp_num3": {
-        "Cgl0390": "1"
-    },
-    "FE3abcpp_num4": {
+        "Cgl0389": "1",
+        "Cgl0390": "1",
         "Cgl0391": "1"
-    },
-    "FE3abcpp_num5": {
-        "Cgl0036": "1"
-    },
-    "FE3abcpp_num6": {
-        "Cgl0038": "1"
     },
     "Kabcpp_num2": {
         "Cgl2784": "1"
     },
     "Kabcpp_num3": {
+        "Cgl1141": "1"
+    },
+    "Kabcpp_num4": {
         "Cgl2887": "1"
+    },
+    "Kabcpp_num5": {
+        "Cgl1509": "1"
     },
     "MG2t3_2pp_num2": {
         "Cgl0224": "2"
     },
     "NAt3_1p5pp_num2": {
-        "Cgl2730": "1"
-    },
-    "NAt3_1p5pp_num3": {
         "Cgl2731": "1"
     },
+    "NAt3_1p5pp_num3": {
+        "Cgl2729": "1"
+    },
     "NAt3_1p5pp_num4": {
-        "Cgl2732": "1"
+        "Cgl0269": "1"
     },
     "NAt3_1p5pp_num5": {
-        "Cgl2733": "1"
+        "Cgl2732": "1"
     },
     "NAt3_1p5pp_num6": {
+        "Cgl2730": "1"
+    },
+    "NAt3_1p5pp_num7": {
+        "Cgl0268": "1"
+    },
+    "NAt3_1p5pp_num8": {
+        "Cgl2733": "1"
+    },
+    "NAt3_1p5pp_num9": {
         "Cgl2734": "1"
     },
     "NAt3_2pp_num2": {
-        "Cgl2730": "1"
-    },
-    "NAt3_2pp_num3": {
         "Cgl2731": "1"
     },
+    "NAt3_2pp_num3": {
+        "Cgl2729": "1"
+    },
     "NAt3_2pp_num4": {
-        "Cgl2732": "1"
+        "Cgl0269": "1"
     },
     "NAt3_2pp_num5": {
-        "Cgl2733": "1"
+        "Cgl2732": "1"
     },
     "NAt3_2pp_num6": {
+        "Cgl2730": "1"
+    },
+    "NAt3_2pp_num7": {
+        "Cgl0268": "1"
+    },
+    "NAt3_2pp_num8": {
+        "Cgl2733": "1"
+    },
+    "NAt3_2pp_num9": {
         "Cgl2734": "1"
     },
     "NH4tpp_num2": {
         "Cgl1583": "3"
     },
-    "SULabcpp_num2": {
-        "Cgl0214": "1"
-    },
     "ZN2abcpp_num2": {
-        "Cgl0029": "1"
-    },
-    "ZN2abcpp_num3": {
-        "Cgl2628": "1"
-    },
-    "ZN2abcpp_num4": {
-        "Cgl2629": "1"
+        "Cgl2628": "1",
+        "Cgl2629": "1",
+        "Cgl2630": "1"
     },
     "FE2tpp_num2": {
         "Cgl0039": "1"
@@ -3550,6 +3599,9 @@
     },
     "UAGAAT_num5": {
         "Cgl2892": "1"
+    },
+    "ACCOAC_num2": {
+        "Cgl2870": "1"
     },
     "ACOATA_num2": {
         "Cgl2254": "1"
@@ -3683,62 +3735,8 @@
     "ACMUMptspp_num2": {
         "Cgl1937": "1"
     },
-    "ADOCBLabcpp_num2": {
-        "Cgl0502": "1"
-    },
-    "ADOCBLabcpp_num3": {
-        "Cgl0666": "1"
-    },
-    "ADOCBLabcpp_num4": {
-        "Cgl0667": "1"
-    },
-    "ADOCBLabcpp_num5": {
-        "Cgl0668": "1"
-    },
-    "ALAabcpp_num2": {
-        "Cgl0206": "1"
-    },
-    "ALAabcpp_num3": {
-        "Cgl0933": "1"
-    },
-    "ALAabcpp_num4": {
-        "Cgl3082": "1"
-    },
-    "ALAabcpp_num5": {
-        "Cgl3083": "1"
-    },
-    "CUt3_num2": {
-        "Cgl0669": "1"
-    },
-    "GLCabcpp_num2": {
-        "Cgl0032": "1"
-    },
-    "GLCabcpp_num3": {
-        "Cgl1936": "1"
-    },
     "GLYBabcpp_num2": {
         "Cgl2312": "1"
-    },
-    "GLYBt2pp_num2": {
-        "Cgl0206": "1"
-    },
-    "GLYBt2pp_num3": {
-        "Cgl0933": "1"
-    },
-    "GLYBt2pp_num4": {
-        "Cgl3082": "1"
-    },
-    "GLYBt2pp_num5": {
-        "Cgl3083": "1"
-    },
-    "ILEabcpp_num2": {
-        "Cgl2132": "1"
-    },
-    "ILEt2rpp_num2": {
-        "Cgl2132": "1"
-    },
-    "LEUabcpp_num2": {
-        "Cgl2132": "1"
     },
     "LEUt2rpp_num2": {
         "Cgl0259": "1"
@@ -3746,17 +3744,95 @@
     "LEUt2rpp_num3": {
         "Cgl2310": "1"
     },
-    "MNt2pp_num2": {
-        "Cgl2630": "1"
+    "PA120abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
     },
-    "NO3tex_num2": {
-        "Cgl1276": "1"
+    "PA140abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
     },
-    "NO3tex_num3": {
-        "Cgl1277": "1"
+    "PA141abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
     },
-    "NO3tex_num4": {
-        "Cgl1287": "1"
+    "PA160abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PA161abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PA180abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PA181abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP120abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP140abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP141abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP160abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP161abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP180abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PGP181abcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
+    },
+    "PHEMEabcpp_num2": {
+        "Cgl1458": "1",
+        "Cgl1459": "1",
+        "Cgl1460": "1",
+        "Cgl1461": "1"
     },
     "PSERtex_num2": {
         "Cgl0575": "1"
@@ -3766,12 +3842,6 @@
     },
     "PSERtex_num4": {
         "Cgl1093": "1"
-    },
-    "R5Ptex_num2": {
-        "Cgl0953": "1"
-    },
-    "RIBabcpp_num3": {
-        "Cgl1254": "1"
     },
     "TREptsp_num2": {
         "Cgl2875": "1"
@@ -3790,18 +3860,6 @@
     },
     "URAt2rpp_num2": {
         "Cgl2358": "1"
-    },
-    "VALabcpp_num2": {
-        "Cgl0931": "1"
-    },
-    "VALabcpp_num4": {
-        "Cgl0932": "1"
-    },
-    "VALabcpp_num5": {
-        "Cgl0934": "1"
-    },
-    "VALt2rpp_num2": {
-        "Cgl2132": "1"
     },
     "XANt2pp_num2": {
         "Cgl2358": "1"
@@ -3845,17 +3903,11 @@
     "MCITD_reverse_num3": {
         "Cgl2538": "1"
     },
-    "G1PTT_reverse_num2": {
-        "Cgl0742": "1"
-    },
     "GALUi_reverse_num2": {
         "Cgl0882": "1"
     },
     "TRATF_reverse_num2": {
         "Cgl0202": "1"
-    },
-    "EX_zn2_e_reverse_num2": {
-        "Cgl1281": "1"
     },
     "GAPD_reverse_num2": {
         "Cgl1588": "4"
@@ -3870,16 +3922,28 @@
         "Cgl0402": "1"
     },
     "CAt6pp_reverse_num2": {
-        "Cgl0265": "1"
+        "Cgl2731": "1"
     },
     "CAt6pp_reverse_num3": {
-        "Cgl0266": "1"
+        "Cgl2729": "1"
     },
     "CAt6pp_reverse_num4": {
-        "Cgl0267": "1"
+        "Cgl0269": "1"
     },
     "CAt6pp_reverse_num5": {
+        "Cgl2732": "1"
+    },
+    "CAt6pp_reverse_num6": {
+        "Cgl2730": "1"
+    },
+    "CAt6pp_reverse_num7": {
         "Cgl0268": "1"
+    },
+    "CAt6pp_reverse_num8": {
+        "Cgl2733": "1"
+    },
+    "CAt6pp_reverse_num9": {
+        "Cgl2734": "1"
     },
     "MG2t3_2pp_reverse_num2": {
         "Cgl0224": "2"
@@ -3926,23 +3990,11 @@
     "ALCD2x_reverse_num2": {
         "Cgl0222": "1"
     },
-    "ILEt2rpp_reverse_num2": {
-        "Cgl2132": "1"
-    },
     "LEUt2rpp_reverse_num2": {
         "Cgl0259": "1"
     },
     "LEUt2rpp_reverse_num3": {
         "Cgl2310": "1"
-    },
-    "NO3tex_reverse_num2": {
-        "Cgl1276": "1"
-    },
-    "NO3tex_reverse_num3": {
-        "Cgl1277": "1"
-    },
-    "NO3tex_reverse_num4": {
-        "Cgl1287": "1"
     },
     "PSERtex_reverse_num2": {
         "Cgl0575": "1"
@@ -3953,14 +4005,8 @@
     "PSERtex_reverse_num4": {
         "Cgl1093": "1"
     },
-    "R5Ptex_reverse_num2": {
-        "Cgl0953": "1"
-    },
     "URAt2rpp_reverse_num2": {
         "Cgl2358": "1"
-    },
-    "VALt2rpp_reverse_num2": {
-        "Cgl2132": "1"
     },
     "PHETA1_reverse_num2": {
         "Cgl2101": "2"

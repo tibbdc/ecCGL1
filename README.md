@@ -24,7 +24,6 @@ $ pip install nbformat
 $ pip install requests
 $ pip install Bio
 $ pip install scipy
-$ pip install pylab
 $ pip install ipykernel
 $ python -m ipykernel install --user --name ECMpy --display-name "ECMpy"
 ```

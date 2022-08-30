@@ -7229,21 +7229,6 @@
             "kcat_MW": 17196.844655486308
         },
         {
-            "id": "F6PP_num1",
-            "name": "D-fructose 6-phosphate phosphatase",
-            "metabolites": {
-                "f6p_c": -1.0,
-                "fru_c": 1.0,
-                "h2o_c": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0031",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 726401.9422511195
-        },
-        {
             "id": "FFSD_num1",
             "name": "beta-fructofuranosidase",
             "metabolites": {
@@ -7539,19 +7524,6 @@
             "kcat_MW": 13230.533172009693
         },
         {
-            "id": "LYXI",
-            "name": "Lyxose isomerase",
-            "metabolites": {
-                "lyx__L_c": -1.0,
-                "xylu__L_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2460",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 844285.0678098258
-        },
-        {
             "id": "MALGT",
             "name": "maltose alpha-D-glucosyltransferase",
             "metabolites": {
@@ -7676,7 +7648,7 @@
             "kcat_MW": 238.36070939588703
         },
         {
-            "id": "MMM2_num1",
+            "id": "MMM2",
             "name": "Methylmalonyl-CoA mutase",
             "metabolites": {
                 "mmcoa__R_c": 1.0,
@@ -7684,12 +7656,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1529",
+            "gene_reaction_rule": "Cgl1529 and Cgl1530",
             "annotation": {
                 "ec-code": "5.4.99.2"
             },
             "kcat": 134.3590909090909,
-            "kcat_MW": 6037.910015224991
+            "kcat_MW": 3323.413884640899
         },
         {
             "id": "MSDH_num1",
@@ -10632,7 +10604,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "TDPGDH",
+            "id": "TDPGDH_num1",
             "name": "dTDPglucose 4,6-dehydratase",
             "metabolites": {
                 "dtdp4d6dg_c": 1.0,
@@ -10641,12 +10613,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0323 and Cgl0334 and Cgl0347",
+            "gene_reaction_rule": "Cgl0323",
             "annotation": {
                 "ec-code": "4.2.1.46"
             },
             "kcat": 79.22800000000002,
-            "kcat_MW": 2019.1336624153741
+            "kcat_MW": 8504.892870049425
         },
         {
             "id": "UAAGDS",
@@ -10939,7 +10911,7 @@
             "kcat_MW": 8486.469619571115
         },
         {
-            "id": "G1PTT_num1",
+            "id": "G1PTT",
             "name": "glucose-1-phosphate thymidylyltransferase",
             "metabolites": {
                 "dtdpglu_c": 1.0,
@@ -11111,7 +11083,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0371 and Cgl0370",
+            "gene_reaction_rule": "Cgl0370 and Cgl0371 and Cgl0372",
             "annotation": {
                 "ec-code": "1.3.99.1"
             },
@@ -11129,7 +11101,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0371 and Cgl0370",
+            "gene_reaction_rule": "Cgl0370 and Cgl0371 and Cgl0372",
             "annotation": {
                 "ec-code": "1.3.99.1"
             },
@@ -15534,19 +15506,19 @@
             "kcat_MW": ""
         },
         {
-            "id": "EX_zn2_e_num1",
+            "id": "EX_zn2_e",
             "name": "Zinc exchange",
             "metabolites": {
                 "zn2_e": -1.0
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0027",
+            "gene_reaction_rule": "",
             "notes": {
                 "reflection": "EX_zn2_e_reverse"
             },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 792090.1506555395
+            "kcat": "",
+            "kcat_MW": ""
         },
         {
             "id": "ACBCP",
@@ -17293,15 +17265,15 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0264",
+            "gene_reaction_rule": "Cgl0267",
             "notes": {
                 "reflection": "CAt6pp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 2335962.716486659
+            "kcat_MW": 492700.5830376659
         },
         {
-            "id": "COBALT2abcpp_num1",
+            "id": "COBALT2abcpp",
             "name": "Cobalt (Co+2) ABC transporter",
             "metabolites": {
                 "adp_c": 1.0,
@@ -17383,9 +17355,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0336",
+            "gene_reaction_rule": "Cgl0336 and Cgl0036 and Cgl0038",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 783925.6117321367
+            "kcat_MW": 278488.9456610236
         },
         {
             "id": "FEROpp",
@@ -17514,9 +17486,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2729",
+            "gene_reaction_rule": "Cgl0267",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 241678.27113042359
+            "kcat_MW": 492700.5830376659
         },
         {
             "id": "NAt3_2pp_num1",
@@ -17529,9 +17501,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2729",
+            "gene_reaction_rule": "Cgl0267",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 241678.27113042359
+            "kcat_MW": 492700.5830376659
         },
         {
             "id": "NAt3pp",
@@ -17675,7 +17647,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2572 and Cgl2573 and Cgl2574 and Cgl2575",
+            "gene_reaction_rule": "Cgl2575 and Cgl2572 and Cgl2573 and Cgl2574",
             "kcat": 7398.8133918117555,
             "kcat_MW": 196653.7086122875
         },
@@ -17735,7 +17707,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "SULabcpp_num1",
+            "id": "SULabcpp",
             "name": "sulfate transport via ABC system",
             "metabolites": {
                 "adp_c": 1.0,
@@ -17748,9 +17720,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0213",
+            "gene_reaction_rule": "Cgl0213 and Cgl0214",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1026914.8987418773
+            "kcat_MW": 497337.0873092104
         },
         {
             "id": "ZN2abcpp_num1",
@@ -17766,9 +17738,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0028",
+            "gene_reaction_rule": "Cgl0027 and Cgl0028 and Cgl0029",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 895224.9201796895
+            "kcat_MW": 306016.81920253363
         },
         {
             "id": "ZN2t3pp",
@@ -18028,7 +18000,7 @@
             "kcat_MW": 21150880.41316356
         },
         {
-            "id": "ACCOAC",
+            "id": "ACCOAC_num1",
             "name": "acetyl-CoA carboxylase",
             "metabolites": {
                 "accoa_c": -1.0,
@@ -20725,12 +20697,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             },
             "kcat": 186.91903703703704,
-            "kcat_MW": 6536.5269303833375
+            "kcat_MW": 2468.513849702983
         },
         {
             "id": "NADH17pp",
@@ -20745,12 +20717,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             },
             "kcat": 186.91903703703704,
-            "kcat_MW": 6536.5269303833375
+            "kcat_MW": 2468.513849702983
         },
         {
             "id": "NADH18pp",
@@ -20765,12 +20737,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0269",
+            "gene_reaction_rule": "Cgl2729 and Cgl2731 and Cgl0269",
             "annotation": {
                 "ec-code": "1.6.5.3"
             },
             "kcat": 186.91903703703704,
-            "kcat_MW": 6536.5269303833375
+            "kcat_MW": 2468.513849702983
         },
         {
             "id": "NADH5",
@@ -22243,22 +22215,6 @@
             "kcat_MW": 891004.5400122495
         },
         {
-            "id": "ACACtex",
-            "name": "acetoacetate transport via diffusion",
-            "metabolites": {
-                "acac_c": 1.0,
-                "acac_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "notes": {
-                "reflection": "ACACtex_reverse"
-            },
-            "kcat": "",
-            "kcat_MW": ""
-        },
-        {
             "id": "ACALDtpp",
             "name": "acetaldehyde reversible transport",
             "metabolites": {
@@ -22447,24 +22403,6 @@
             "kcat_MW": ""
         },
         {
-            "id": "ADOCBLabcpp_num1",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0501",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 727270.8147673368
-        },
-        {
             "id": "AKGt2rpp",
             "name": "2-oxoglutarate reversible transport via symport",
             "metabolites": {
@@ -22483,7 +22421,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "ALAabcpp_num1",
+            "id": "ALAabcpp",
             "name": "L-alanine transport via ABC system",
             "metabolites": {
                 "adp_c": 1.0,
@@ -22496,9 +22434,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0470",
+            "gene_reaction_rule": "Cgl0407",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 547043.9572588174
+            "kcat_MW": 789097.6699171622
         },
         {
             "id": "ALAALAabcpp",
@@ -22583,24 +22521,6 @@
             "gene_reaction_rule": "Cgl0288 and Cgl0407",
             "kcat": 7398.8133918117555,
             "kcat_MW": 344653.84181127936
-        },
-        {
-            "id": "ARBt2rpp",
-            "name": "L-arabinose transport via proton symport",
-            "metabolites": {
-                "arab__L_c": 1.0,
-                "arab__L_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253",
-            "notes": {
-                "reflection": "ARBt2rpp_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 805842.2272952006
         },
         {
             "id": "ARBt3ipp",
@@ -23067,7 +22987,7 @@
             "kcat_MW": 490755.8299954026
         },
         {
-            "id": "CUt3_num1",
+            "id": "CUt3",
             "name": "copper transport out via proton antiport",
             "metabolites": {
                 "cu_c": -1.0,
@@ -24042,7 +23962,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "GLCabcpp_num1",
+            "id": "GLCabcpp",
             "name": "D-glucose transport via ABC system",
             "metabolites": {
                 "adp_c": 1.0,
@@ -24055,9 +23975,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0031",
+            "gene_reaction_rule": "Cgl0030 and Cgl0031 and Cgl0032",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 726401.9422511195
+            "kcat_MW": 271954.64999180805
         },
         {
             "id": "GLCNt2rpp",
@@ -24249,21 +24169,6 @@
             "kcat_MW": 138277.14283389846
         },
         {
-            "id": "GLYBt2pp_num1",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0470",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 547043.9572588174
-        },
-        {
             "id": "GLYC2Pabcpp",
             "name": "sn-Glycerol 2-phosphate transport via ABC system",
             "metabolites": {
@@ -24441,9 +24346,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1147 and Cgl1148",
+            "gene_reaction_rule": "Cgl1993 and Cgl2320 and Cgl2321 and Cgl2322",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 244341.91861485445
+            "kcat_MW": 147927.19348288758
         },
         {
             "id": "GTHRDabcpp",
@@ -24655,25 +24560,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "ILEabcpp_num1",
-            "name": "L-isoleucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "ile__L_c": 1.0,
-                "ile__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
-        },
-        {
-            "id": "ILEt2rpp_num1",
+            "id": "ILEt2rpp",
             "name": "L-isoleucine reversible transport via proton symport",
             "metabolites": {
                 "h_c": 1.0,
@@ -24683,12 +24570,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
+            "gene_reaction_rule": "Cgl2310",
             "notes": {
                 "reflection": "ILEt2rpp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
+            "kcat_MW": 594125.1414013705
         },
         {
             "id": "INDOLEt2pp",
@@ -24755,24 +24642,6 @@
             },
             "kcat": "",
             "kcat_MW": ""
-        },
-        {
-            "id": "LEUabcpp_num1",
-            "name": "L-leucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "leu__L_c": 1.0,
-                "leu__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
         },
         {
             "id": "LEUt2rpp_num1",
@@ -24890,9 +24759,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2461",
+            "gene_reaction_rule": "Cgl2460 and Cgl2461 and Cgl2463",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 538672.1695943808
+            "kcat_MW": 219568.04489508914
         },
         {
             "id": "MALTptspp",
@@ -24956,7 +24825,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0636 and Cgl0635 and Cgl0637",
+            "gene_reaction_rule": "Cgl0635 and Cgl0636 and Cgl0637",
             "kcat": 7398.8133918117555,
             "kcat_MW": 281579.09487392224
         },
@@ -24997,7 +24866,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "MNt2pp_num1",
+            "id": "MNt2pp",
             "name": "manganese (Mn+2) transport in via proton symport",
             "metabolites": {
                 "h_c": 1.0,
@@ -25060,7 +24929,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "NO3tex_num1",
+            "id": "NO3tex",
             "name": "nitrate transport via diffusion",
             "metabolites": {
                 "no3_c": 1.0,
@@ -25068,12 +24937,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1274",
+            "gene_reaction_rule": "Cgl1190",
             "notes": {
                 "reflection": "NO3tex_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1194648.1124859392
+            "kcat_MW": 545344.2919196744
         },
         {
             "id": "NOtex",
@@ -25141,7 +25010,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "PA120abcpp",
+            "id": "PA120abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C12:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25154,12 +25023,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA140abcpp",
+            "id": "PA140abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C14:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25172,12 +25041,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA141abcpp",
+            "id": "PA141abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C14:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25190,12 +25059,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA160abcpp",
+            "id": "PA160abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C16:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25208,12 +25077,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA161abcpp",
+            "id": "PA161abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C16:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25226,12 +25095,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA180abcpp",
+            "id": "PA180abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C18:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25244,12 +25113,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PA181abcpp",
+            "id": "PA181abcpp_num1",
             "name": "phosphatidate transport via ABC system (n-C18:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25262,12 +25131,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP120abcpp",
+            "id": "PGP120abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C12:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25280,12 +25149,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP140abcpp",
+            "id": "PGP140abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C14:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25298,12 +25167,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP141abcpp",
+            "id": "PGP141abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C14:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25316,12 +25185,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP160abcpp",
+            "id": "PGP160abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C16:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25334,12 +25203,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP161abcpp",
+            "id": "PGP161abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C16:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25352,12 +25221,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP180abcpp",
+            "id": "PGP180abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C18:0)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25370,12 +25239,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PGP181abcpp",
+            "id": "PGP181abcpp_num1",
             "name": "phosphatidylglycerophosphate transport via ABC system (n-C18:1)",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25388,12 +25257,12 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
-            "id": "PHEMEabcpp",
+            "id": "PHEMEabcpp_num1",
             "name": "protoheme transport via ABC system",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25406,9 +25275,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "kcat": "",
-            "kcat_MW": ""
+            "gene_reaction_rule": "Cgl1221 and Cgl1222 and Cgl1223",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 305003.3707364153
         },
         {
             "id": "PHEMEtiex",
@@ -25457,21 +25326,6 @@
             "kcat_MW": ""
         },
         {
-            "id": "PPAt4pp",
-            "name": "Na+/Propionate symporter",
-            "metabolites": {
-                "na1_c": 1.0,
-                "na1_e": -1.0,
-                "ppa_c": 1.0,
-                "ppa_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1163",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 470207.82132955396
-        },
-        {
             "id": "PROabcpp",
             "name": "L-proline transport via ABC system",
             "metabolites": {
@@ -25485,9 +25339,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2028 and Cgl1419",
+            "gene_reaction_rule": "Cgl1419",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 198222.066336859
+            "kcat_MW": 401934.47396410117
         },
         {
             "id": "PROGLYabcpp",
@@ -25533,9 +25387,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1418",
+            "gene_reaction_rule": "Cgl1163",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1122736.751383462
+            "kcat_MW": 470207.82132955396
         },
         {
             "id": "PSERtex_num1",
@@ -25618,23 +25472,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "R5Ptex_num1",
-            "name": "Ribose 5-phosphate transport via diffusion",
-            "metabolites": {
-                "r5p_c": 1.0,
-                "r5p_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0952",
-            "notes": {
-                "reflection": "R5Ptex_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 524771.6457691229
-        },
-        {
-            "id": "RIBabcpp_num1",
+            "id": "RIBabcpp",
             "name": "D-ribose transport via ABC system",
             "metabolites": {
                 "adp_c": 1.0,
@@ -25647,9 +25485,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2572",
+            "gene_reaction_rule": "Cgl1252 and Cgl1253 and Cgl1254",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 944095.8450424152
+            "kcat_MW": 220276.44574537786
         },
         {
             "id": "SBTptspp",
@@ -25731,9 +25569,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0426",
+            "gene_reaction_rule": "Cgl0426 and Cgl0427 and Cgl0428",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 704205.8707204808
+            "kcat_MW": 200053.20083357004
         },
         {
             "id": "SPMDt3pp",
@@ -25827,9 +25665,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0428",
+            "gene_reaction_rule": "Cgl1078 and Cgl1079 and Cgl1080",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 715714.2514454527
+            "kcat_MW": 278562.3866661695
         },
         {
             "id": "THMDt2pp",
@@ -26041,7 +25879,7 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0090 and Cgl0088 and Cgl0089 and Cgl0087",
+            "gene_reaction_rule": "Cgl0090 and Cgl0087 and Cgl0088 and Cgl0089",
             "notes": {
                 "reflection": "UREAtpp_reverse"
             },
@@ -26082,25 +25920,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "VALabcpp_num1",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0930",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 584554.7666945998
-        },
-        {
-            "id": "VALt2rpp_num1",
+            "id": "VALt2rpp",
             "name": "L-valine reversible transport via proton symport",
             "metabolites": {
                 "h_c": 1.0,
@@ -26110,12 +25930,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
+            "gene_reaction_rule": "Cgl2310",
             "notes": {
                 "reflection": "VALt2rpp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
+            "kcat_MW": 594125.1414013705
         },
         {
             "id": "XANt2pp_num1",
@@ -26167,24 +25987,6 @@
             "kcat_MW": ""
         },
         {
-            "id": "XYLabcpp",
-            "name": "D-xylose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "xyl__D_c": 1.0,
-                "xyl__D_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 805842.2272952006
-        },
-        {
             "id": "XYLUt2pp",
             "name": "L-xylulose transport in via proton symport",
             "metabolites": {
@@ -26198,22 +26000,6 @@
             "gene_reaction_rule": "Cgl0112",
             "kcat": 7398.8133918117555,
             "kcat_MW": 534634.9397667213
-        },
-        {
-            "id": "XYLUtex",
-            "name": "L-xylulose transport via diffusion",
-            "metabolites": {
-                "xylu__L_c": 1.0,
-                "xylu__L_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253",
-            "notes": {
-                "reflection": "XYLUtex_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 805842.2272952006
         },
         {
             "id": "CO2tpp",
@@ -26356,9 +26142,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1259 and Cgl1246 and Cgl1247",
+            "gene_reaction_rule": "Cgl1635",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 228196.5610833625
+            "kcat_MW": 198746.35443803808
         },
         {
             "id": "CYSTRS_num1",
@@ -26560,7 +26346,7 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1389 and Cgl1390 and cgtRNA_3581",
+            "gene_reaction_rule": "Cgl1389 and Cgl1390",
             "annotation": {
                 "ec-code": "6.1.1.20"
             },
@@ -28477,7 +28263,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "G1PTT_reverse_num1",
+            "id": "G1PTT_reverse",
             "name": "",
             "metabolites": {
                 "dtdpglu_c": -1.0,
@@ -29086,19 +28872,19 @@
             "kcat_MW": ""
         },
         {
-            "id": "EX_zn2_e_reverse_num1",
+            "id": "EX_zn2_e_reverse",
             "name": "",
             "metabolites": {
                 "zn2_e": 1.0
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0027",
+            "gene_reaction_rule": "",
             "notes": {
                 "reflection": "EX_zn2_e"
             },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 792090.1506555395
+            "kcat": "",
+            "kcat_MW": ""
         },
         {
             "id": "ACBCP_reverse",
@@ -29339,12 +29125,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0264",
+            "gene_reaction_rule": "Cgl0267",
             "notes": {
                 "reflection": "CAt6pp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 2335962.716486659
+            "kcat_MW": 492700.5830376659
         },
         {
             "id": "MG2t3_2pp_reverse_num1",
@@ -30664,22 +30450,6 @@
             "kcat_MW": 891004.5400122495
         },
         {
-            "id": "ACACtex_reverse",
-            "name": "",
-            "metabolites": {
-                "acac_c": -1.0,
-                "acac_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "",
-            "notes": {
-                "reflection": "ACACtex"
-            },
-            "kcat": "",
-            "kcat_MW": ""
-        },
-        {
             "id": "ACALDtpp_reverse",
             "name": "",
             "metabolites": {
@@ -30878,24 +30648,6 @@
             },
             "kcat": "",
             "kcat_MW": ""
-        },
-        {
-            "id": "ARBt2rpp_reverse",
-            "name": "",
-            "metabolites": {
-                "arab__L_c": -1.0,
-                "arab__L_e": 1.0,
-                "h_c": -1.0,
-                "h_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253",
-            "notes": {
-                "reflection": "ARBt2rpp"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 805842.2272952006
         },
         {
             "id": "ARGORNt7pp_reverse",
@@ -31983,7 +31735,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "ILEt2rpp_reverse_num1",
+            "id": "ILEt2rpp_reverse",
             "name": "",
             "metabolites": {
                 "h_c": -1.0,
@@ -31993,12 +31745,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
+            "gene_reaction_rule": "Cgl2310",
             "notes": {
                 "reflection": "ILEt2rpp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
+            "kcat_MW": 594125.1414013705
         },
         {
             "id": "INDOLEt2rpp_reverse",
@@ -32125,7 +31877,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "NO3tex_reverse_num1",
+            "id": "NO3tex_reverse",
             "name": "",
             "metabolites": {
                 "no3_c": -1.0,
@@ -32133,12 +31885,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1274",
+            "gene_reaction_rule": "Cgl1190",
             "notes": {
                 "reflection": "NO3tex"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1194648.1124859392
+            "kcat_MW": 545344.2919196744
         },
         {
             "id": "NOtex_reverse",
@@ -32243,22 +31995,6 @@
             "kcat_MW": ""
         },
         {
-            "id": "R5Ptex_reverse_num1",
-            "name": "",
-            "metabolites": {
-                "r5p_c": -1.0,
-                "r5p_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0952",
-            "notes": {
-                "reflection": "R5Ptex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 524771.6457691229
-        },
-        {
             "id": "THMDt2rpp_reverse",
             "name": "",
             "metabolites": {
@@ -32339,7 +32075,7 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0090 and Cgl0088 and Cgl0089 and Cgl0087",
+            "gene_reaction_rule": "Cgl0090 and Cgl0087 and Cgl0088 and Cgl0089",
             "notes": {
                 "reflection": "UREAtpp"
             },
@@ -32365,7 +32101,7 @@
             "kcat_MW": ""
         },
         {
-            "id": "VALt2rpp_reverse_num1",
+            "id": "VALt2rpp_reverse",
             "name": "",
             "metabolites": {
                 "h_c": -1.0,
@@ -32375,12 +32111,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2250",
+            "gene_reaction_rule": "Cgl2310",
             "notes": {
                 "reflection": "VALt2rpp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 862961.5489109495
+            "kcat_MW": 594125.1414013705
         },
         {
             "id": "XANtpp_reverse",
@@ -32415,22 +32151,6 @@
             },
             "kcat": "",
             "kcat_MW": ""
-        },
-        {
-            "id": "XYLUtex_reverse",
-            "name": "",
-            "metabolites": {
-                "xylu__L_c": -1.0,
-                "xylu__L_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1253",
-            "notes": {
-                "reflection": "XYLUtex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 805842.2272952006
         },
         {
             "id": "PHETA1_reverse_num1",
@@ -32713,36 +32433,6 @@
             "kcat_MW": 9815.019160416763
         },
         {
-            "id": "F6PP_num2",
-            "name": "D-fructose 6-phosphate phosphatase",
-            "metabolites": {
-                "f6p_c": -1.0,
-                "fru_c": 1.0,
-                "h2o_c": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0032",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 970822.8742535331
-        },
-        {
-            "id": "F6PP_num3",
-            "name": "D-fructose 6-phosphate phosphatase",
-            "metabolites": {
-                "f6p_c": -1.0,
-                "fru_c": 1.0,
-                "h2o_c": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1936",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 424674.2892342903
-        },
-        {
             "id": "FFSD_num2",
             "name": "beta-fructofuranosidase",
             "metabolites": {
@@ -32817,22 +32507,6 @@
             },
             "kcat": 63.21666666666667,
             "kcat_MW": 1709.8750493818634
-        },
-        {
-            "id": "MMM2_num2",
-            "name": "Methylmalonyl-CoA mutase",
-            "metabolites": {
-                "mmcoa__R_c": 1.0,
-                "succoa_c": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1530",
-            "annotation": {
-                "ec-code": "5.4.99.2"
-            },
-            "kcat": 134.3590909090909,
-            "kcat_MW": 7392.338398542227
         },
         {
             "id": "MSDH_num2",
@@ -34230,6 +33904,40 @@
             "kcat_MW": 13374.283988513862
         },
         {
+            "id": "TDPGDH_num2",
+            "name": "dTDPglucose 4,6-dehydratase",
+            "metabolites": {
+                "dtdp4d6dg_c": 1.0,
+                "dtdpglu_c": -1.0,
+                "h2o_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0334",
+            "annotation": {
+                "ec-code": "4.2.1.46"
+            },
+            "kcat": 79.22800000000002,
+            "kcat_MW": 6796.730832634768
+        },
+        {
+            "id": "TDPGDH_num3",
+            "name": "dTDPglucose 4,6-dehydratase",
+            "metabolites": {
+                "dtdp4d6dg_c": 1.0,
+                "dtdpglu_c": -1.0,
+                "h2o_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0347",
+            "annotation": {
+                "ec-code": "4.2.1.46"
+            },
+            "kcat": 79.22800000000002,
+            "kcat_MW": 4337.397870682423
+        },
+        {
             "id": "UAGCVT_num2",
             "name": "UDP-N-acetylglucosamine 1-carboxyvinyltransferase",
             "metabolites": {
@@ -34285,28 +33993,6 @@
             },
             "kcat": 8.88748,
             "kcat_MW": 680.9903034999572
-        },
-        {
-            "id": "G1PTT_num2",
-            "name": "glucose-1-phosphate thymidylyltransferase",
-            "metabolites": {
-                "dtdpglu_c": 1.0,
-                "dttp_c": -1.0,
-                "g1p_c": -1.0,
-                "h_c": -1.0,
-                "ppi_c": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0742",
-            "notes": {
-                "reflection": "G1PTT_reverse"
-            },
-            "annotation": {
-                "ec-code": "2.7.7.24"
-            },
-            "kcat": 6.081253846153847,
-            "kcat_MW": 591.1549053382997
         },
         {
             "id": "GALUi_num2",
@@ -34857,21 +34543,6 @@
             },
             "kcat": 478.54681818181814,
             "kcat_MW": 65693.03720652827
-        },
-        {
-            "id": "EX_zn2_e_num2",
-            "name": "Zinc exchange",
-            "metabolites": {
-                "zn2_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1281",
-            "notes": {
-                "reflection": "EX_zn2_e_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 782871.719764143
         },
         {
             "id": "GLNS_num2",
@@ -35598,12 +35269,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0265",
+            "gene_reaction_rule": "Cgl2731",
             "notes": {
                 "reflection": "CAt6pp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 2706354.2740179705
+            "kcat_MW": 448117.0254735151
         },
         {
             "id": "CAt6pp_num3",
@@ -35616,12 +35287,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0266",
+            "gene_reaction_rule": "Cgl2729",
             "notes": {
                 "reflection": "CAt6pp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1611575.8973213069
+            "kcat_MW": 241678.27113042359
         },
         {
             "id": "CAt6pp_num4",
@@ -35634,15 +35305,51 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0267",
+            "gene_reaction_rule": "Cgl0269",
             "notes": {
                 "reflection": "CAt6pp_reverse"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 492700.5830376659
+            "kcat_MW": 258735.2457785005
         },
         {
             "id": "CAt6pp_num5",
+            "name": "calcium / sodium antiporter (1:1)",
+            "metabolites": {
+                "ca2_c": -1.0,
+                "ca2_e": 1.0,
+                "na1_c": 1.0,
+                "na1_e": -1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2732",
+            "notes": {
+                "reflection": "CAt6pp_reverse"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1612711.759841006
+        },
+        {
+            "id": "CAt6pp_num6",
+            "name": "calcium / sodium antiporter (1:1)",
+            "metabolites": {
+                "ca2_c": -1.0,
+                "ca2_e": 1.0,
+                "na1_c": 1.0,
+                "na1_e": -1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2730",
+            "notes": {
+                "reflection": "CAt6pp_reverse"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1533554.9201854628
+        },
+        {
+            "id": "CAt6pp_num7",
             "name": "calcium / sodium antiporter (1:1)",
             "metabolites": {
                 "ca2_c": -1.0,
@@ -35660,40 +35367,40 @@
             "kcat_MW": 1975009.1913474854
         },
         {
-            "id": "COBALT2abcpp_num2",
-            "name": "Cobalt (Co+2) ABC transporter",
+            "id": "CAt6pp_num8",
+            "name": "calcium / sodium antiporter (1:1)",
             "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "cobalt2_c": 1.0,
-                "cobalt2_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
+                "ca2_c": -1.0,
+                "ca2_e": 1.0,
+                "na1_c": 1.0,
+                "na1_e": -1.0
             },
-            "lower_bound": 0.0,
+            "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0532",
+            "gene_reaction_rule": "Cgl2733",
+            "notes": {
+                "reflection": "CAt6pp_reverse"
+            },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 447176.71281449904
+            "kcat_MW": 2651428.0344831254
         },
         {
-            "id": "COBALT2abcpp_num3",
-            "name": "Cobalt (Co+2) ABC transporter",
+            "id": "CAt6pp_num9",
+            "name": "calcium / sodium antiporter (1:1)",
             "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "cobalt2_c": 1.0,
-                "cobalt2_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
+                "ca2_c": -1.0,
+                "ca2_e": 1.0,
+                "na1_c": 1.0,
+                "na1_e": -1.0
             },
-            "lower_bound": 0.0,
+            "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0533",
+            "gene_reaction_rule": "Cgl2734",
+            "notes": {
+                "reflection": "CAt6pp_reverse"
+            },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 639312.7377112323
+            "kcat_MW": 1934192.236236264
         },
         {
             "id": "CYANSTpp_num2",
@@ -35785,81 +35492,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0389",
+            "gene_reaction_rule": "Cgl0389 and Cgl0390 and Cgl0391",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 713529.973634999
-        },
-        {
-            "id": "FE3abcpp_num3",
-            "name": "iron (III) transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "fe3_c": 1.0,
-                "fe3_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0390",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 721118.5964844964
-        },
-        {
-            "id": "FE3abcpp_num4",
-            "name": "iron (III) transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "fe3_c": 1.0,
-                "fe3_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0391",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 934848.568026718
-        },
-        {
-            "id": "FE3abcpp_num5",
-            "name": "iron (III) transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "fe3_c": 1.0,
-                "fe3_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0036",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 797928.1806419245
-        },
-        {
-            "id": "FE3abcpp_num6",
-            "name": "iron (III) transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "fe3_c": 1.0,
-                "fe3_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0038",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 941681.7103182672
+            "kcat_MW": 259207.7572377989
         },
         {
             "id": "Kabcpp_num2",
@@ -35893,9 +35528,45 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1141",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 496609.0464626482
+        },
+        {
+            "id": "Kabcpp_num4",
+            "name": "Potassium ABC transporter",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "k_c": 1.0,
+                "k_e": -1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
             "gene_reaction_rule": "Cgl2887",
             "kcat": 7398.8133918117555,
             "kcat_MW": 549601.8527780531
+        },
+        {
+            "id": "Kabcpp_num5",
+            "name": "Potassium ABC transporter",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "k_c": 1.0,
+                "k_e": -1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1509",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 710266.4159693156
         },
         {
             "id": "MG2t3_2pp_num2",
@@ -35926,9 +35597,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2730",
+            "gene_reaction_rule": "Cgl2731",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1533554.9201854628
+            "kcat_MW": 448117.0254735151
         },
         {
             "id": "NAt3_1p5pp_num3",
@@ -35941,12 +35612,27 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2731",
+            "gene_reaction_rule": "Cgl2729",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 448117.0254735151
+            "kcat_MW": 241678.27113042359
         },
         {
             "id": "NAt3_1p5pp_num4",
+            "name": "sodium proton antiporter (H:NA is 1.5)",
+            "metabolites": {
+                "h_c": 3.0,
+                "h_e": -3.0,
+                "na1_c": -2.0,
+                "na1_e": 2.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0269",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 258735.2457785005
+        },
+        {
+            "id": "NAt3_1p5pp_num5",
             "name": "sodium proton antiporter (H:NA is 1.5)",
             "metabolites": {
                 "h_c": 3.0,
@@ -35961,7 +35647,37 @@
             "kcat_MW": 1612711.759841006
         },
         {
-            "id": "NAt3_1p5pp_num5",
+            "id": "NAt3_1p5pp_num6",
+            "name": "sodium proton antiporter (H:NA is 1.5)",
+            "metabolites": {
+                "h_c": 3.0,
+                "h_e": -3.0,
+                "na1_c": -2.0,
+                "na1_e": 2.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2730",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1533554.9201854628
+        },
+        {
+            "id": "NAt3_1p5pp_num7",
+            "name": "sodium proton antiporter (H:NA is 1.5)",
+            "metabolites": {
+                "h_c": 3.0,
+                "h_e": -3.0,
+                "na1_c": -2.0,
+                "na1_e": 2.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0268",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1975009.1913474854
+        },
+        {
+            "id": "NAt3_1p5pp_num8",
             "name": "sodium proton antiporter (H:NA is 1.5)",
             "metabolites": {
                 "h_c": 3.0,
@@ -35976,7 +35692,7 @@
             "kcat_MW": 2651428.0344831254
         },
         {
-            "id": "NAt3_1p5pp_num6",
+            "id": "NAt3_1p5pp_num9",
             "name": "sodium proton antiporter (H:NA is 1.5)",
             "metabolites": {
                 "h_c": 3.0,
@@ -36001,9 +35717,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2730",
+            "gene_reaction_rule": "Cgl2731",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1533554.9201854628
+            "kcat_MW": 448117.0254735151
         },
         {
             "id": "NAt3_2pp_num3",
@@ -36016,12 +35732,27 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2731",
+            "gene_reaction_rule": "Cgl2729",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 448117.0254735151
+            "kcat_MW": 241678.27113042359
         },
         {
             "id": "NAt3_2pp_num4",
+            "name": "sodium proton antiporter (H:NA is 2)",
+            "metabolites": {
+                "h_c": 2.0,
+                "h_e": -2.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0269",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 258735.2457785005
+        },
+        {
+            "id": "NAt3_2pp_num5",
             "name": "sodium proton antiporter (H:NA is 2)",
             "metabolites": {
                 "h_c": 2.0,
@@ -36036,7 +35767,37 @@
             "kcat_MW": 1612711.759841006
         },
         {
-            "id": "NAt3_2pp_num5",
+            "id": "NAt3_2pp_num6",
+            "name": "sodium proton antiporter (H:NA is 2)",
+            "metabolites": {
+                "h_c": 2.0,
+                "h_e": -2.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2730",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1533554.9201854628
+        },
+        {
+            "id": "NAt3_2pp_num7",
+            "name": "sodium proton antiporter (H:NA is 2)",
+            "metabolites": {
+                "h_c": 2.0,
+                "h_e": -2.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl0268",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1975009.1913474854
+        },
+        {
+            "id": "NAt3_2pp_num8",
             "name": "sodium proton antiporter (H:NA is 2)",
             "metabolites": {
                 "h_c": 2.0,
@@ -36051,7 +35812,7 @@
             "kcat_MW": 2651428.0344831254
         },
         {
-            "id": "NAt3_2pp_num6",
+            "id": "NAt3_2pp_num9",
             "name": "sodium proton antiporter (H:NA is 2)",
             "metabolites": {
                 "h_c": 2.0,
@@ -36082,24 +35843,6 @@
             "kcat_MW": 186138.0345272937
         },
         {
-            "id": "SULabcpp_num2",
-            "name": "sulfate transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "so4_c": 1.0,
-                "so4_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0214",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 964396.2674211357
-        },
-        {
             "id": "ZN2abcpp_num2",
             "name": "Zinc (Zn+2) ABC transporter, efflux",
             "metabolites": {
@@ -36113,45 +35856,9 @@
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0029",
+            "gene_reaction_rule": "Cgl2628 and Cgl2629 and Cgl2630",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1125778.797446774
-        },
-        {
-            "id": "ZN2abcpp_num3",
-            "name": "Zinc (Zn+2) ABC transporter, efflux",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "zn2_c": -1.0,
-                "zn2_e": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2628",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 783258.5017863491
-        },
-        {
-            "id": "ZN2abcpp_num4",
-            "name": "Zinc (Zn+2) ABC transporter, efflux",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "zn2_c": -1.0,
-                "zn2_e": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2629",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1087613.9781660659
+            "kcat_MW": 341263.44926426513
         },
         {
             "id": "FE2tpp_num2",
@@ -36391,6 +36098,27 @@
             },
             "kcat": 9.166666666666666,
             "kcat_MW": 1010.7988139948324
+        },
+        {
+            "id": "ACCOAC_num2",
+            "name": "acetyl-CoA carboxylase",
+            "metabolites": {
+                "accoa_c": -1.0,
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h_c": 1.0,
+                "hco3_c": -1.0,
+                "malcoa_c": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2870",
+            "annotation": {
+                "ec-code": "6.4.1.2"
+            },
+            "kcat": 11.613,
+            "kcat_MW": 749.0521552207884
         },
         {
             "id": "ACOATA_num2",
@@ -37259,201 +36987,6 @@
             "kcat_MW": 13176.26426468594
         },
         {
-            "id": "ADOCBLabcpp_num2",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0502",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 758246.5918778691
-        },
-        {
-            "id": "ADOCBLabcpp_num3",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0666",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 914338.0185793041
-        },
-        {
-            "id": "ADOCBLabcpp_num4",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0667",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 728593.9854451255
-        },
-        {
-            "id": "ADOCBLabcpp_num5",
-            "name": "Adenosylcobalamin transport via ABC system",
-            "metabolites": {
-                "adocbl_c": 1.0,
-                "adocbl_e": -1.0,
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0668",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 786085.4899867241
-        },
-        {
-            "id": "ALAabcpp_num2",
-            "name": "L-alanine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "ala__L_c": 1.0,
-                "ala__L_e": -1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0206",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 507958.1809476892
-        },
-        {
-            "id": "ALAabcpp_num3",
-            "name": "L-alanine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "ala__L_c": 1.0,
-                "ala__L_e": -1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0933",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1018499.269089397
-        },
-        {
-            "id": "ALAabcpp_num4",
-            "name": "L-alanine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "ala__L_c": 1.0,
-                "ala__L_e": -1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl3082",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 2216413.3180807605
-        },
-        {
-            "id": "ALAabcpp_num5",
-            "name": "L-alanine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "ala__L_c": 1.0,
-                "ala__L_e": -1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl3083",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1029709.6219591964
-        },
-        {
-            "id": "CUt3_num2",
-            "name": "copper transport out via proton antiport",
-            "metabolites": {
-                "cu_c": -1.0,
-                "cu_e": 1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0669",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 711501.8962595796
-        },
-        {
-            "id": "GLCabcpp_num2",
-            "name": "D-glucose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "glc__D_c": 1.0,
-                "glc__D_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0032",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 970822.8742535331
-        },
-        {
-            "id": "GLCabcpp_num3",
-            "name": "D-glucose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "glc__D_c": 1.0,
-                "glc__D_e": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1936",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 424674.2892342903
-        },
-        {
             "id": "GLYBabcpp_num2",
             "name": "Glycine betaine transport via ABC system",
             "metabolites": {
@@ -37470,120 +37003,6 @@
             "gene_reaction_rule": "Cgl2312",
             "kcat": 7398.8133918117555,
             "kcat_MW": 395178.789315472
-        },
-        {
-            "id": "GLYBt2pp_num2",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0206",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 507958.1809476892
-        },
-        {
-            "id": "GLYBt2pp_num3",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0933",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1018499.269089397
-        },
-        {
-            "id": "GLYBt2pp_num4",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl3082",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 2216413.3180807605
-        },
-        {
-            "id": "GLYBt2pp_num5",
-            "name": "Glycine betaine transport via proton symport",
-            "metabolites": {
-                "glyb_c": 1.0,
-                "glyb_e": -1.0,
-                "h_c": 1.0,
-                "h_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl3083",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1029709.6219591964
-        },
-        {
-            "id": "ILEabcpp_num2",
-            "name": "L-isoleucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "ile__L_c": 1.0,
-                "ile__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
-        },
-        {
-            "id": "ILEt2rpp_num2",
-            "name": "L-isoleucine reversible transport via proton symport",
-            "metabolites": {
-                "h_c": 1.0,
-                "h_e": -1.0,
-                "ile__L_c": 1.0,
-                "ile__L_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "notes": {
-                "reflection": "ILEt2rpp_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
-        },
-        {
-            "id": "LEUabcpp_num2",
-            "name": "L-leucine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "leu__L_c": 1.0,
-                "leu__L_e": -1.0,
-                "pi_c": 1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
         },
         {
             "id": "LEUt2rpp_num2",
@@ -37622,67 +37041,274 @@
             "kcat_MW": 594125.1414013705
         },
         {
-            "id": "MNt2pp_num2",
-            "name": "manganese (Mn+2) transport in via proton symport",
+            "id": "PA120abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C12:0)",
             "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
                 "h_c": 1.0,
-                "h_e": -1.0,
-                "mn2_c": 1.0,
-                "mn2_e": -1.0
+                "pa120_c": -1.0,
+                "pa120_e": 1.0,
+                "pi_c": 1.0
             },
             "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2630",
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1362164.2325909405
+            "kcat_MW": 213444.85546986427
         },
         {
-            "id": "NO3tex_num2",
-            "name": "nitrate transport via diffusion",
+            "id": "PA140abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C14:0)",
             "metabolites": {
-                "no3_c": 1.0,
-                "no3_e": -1.0
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa140_c": -1.0,
+                "pa140_e": 1.0,
+                "pi_c": 1.0
             },
-            "lower_bound": 0,
+            "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1276",
-            "notes": {
-                "reflection": "NO3tex_reverse"
-            },
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 2919229.896590665
+            "kcat_MW": 213444.85546986427
         },
         {
-            "id": "NO3tex_num3",
-            "name": "nitrate transport via diffusion",
+            "id": "PA141abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C14:1)",
             "metabolites": {
-                "no3_c": 1.0,
-                "no3_e": -1.0
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa141_c": -1.0,
+                "pa141_e": 1.0,
+                "pi_c": 1.0
             },
-            "lower_bound": 0,
+            "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1277",
-            "notes": {
-                "reflection": "NO3tex_reverse"
-            },
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 847236.4811448676
+            "kcat_MW": 213444.85546986427
         },
         {
-            "id": "NO3tex_num4",
-            "name": "nitrate transport via diffusion",
+            "id": "PA160abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C16:0)",
             "metabolites": {
-                "no3_c": 1.0,
-                "no3_e": -1.0
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa160_c": -1.0,
+                "pa160_e": 1.0,
+                "pi_c": 1.0
             },
-            "lower_bound": 0,
+            "lower_bound": 0.0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1287",
-            "notes": {
-                "reflection": "NO3tex_reverse"
-            },
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
             "kcat": 7398.8133918117555,
-            "kcat_MW": 678898.6234869381
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PA161abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C16:1)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa161_c": -1.0,
+                "pa161_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PA180abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C18:0)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa180_c": -1.0,
+                "pa180_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PA181abcpp_num2",
+            "name": "phosphatidate transport via ABC system (n-C18:1)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pa181_c": -1.0,
+                "pa181_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP120abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C12:0)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp120_c": -1.0,
+                "pgp120_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP140abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C14:0)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp140_c": -1.0,
+                "pgp140_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP141abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C14:1)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp141_c": -1.0,
+                "pgp141_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP160abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C16:0)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp160_c": -1.0,
+                "pgp160_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP161abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C16:1)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp161_c": -1.0,
+                "pgp161_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP180abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C18:0)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp180_c": -1.0,
+                "pgp180_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PGP181abcpp_num2",
+            "name": "phosphatidylglycerophosphate transport via ABC system (n-C18:1)",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pgp181_c": -1.0,
+                "pgp181_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
+        },
+        {
+            "id": "PHEMEabcpp_num2",
+            "name": "protoheme transport via ABC system",
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pheme_c": -1.0,
+                "pheme_e": 1.0,
+                "pi_c": 1.0
+            },
+            "lower_bound": 0.0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461",
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 213444.85546986427
         },
         {
             "id": "PSERtex_num2",
@@ -37731,58 +37357,6 @@
             },
             "kcat": 7398.8133918117555,
             "kcat_MW": 943285.5334621277
-        },
-        {
-            "id": "R5Ptex_num2",
-            "name": "Ribose 5-phosphate transport via diffusion",
-            "metabolites": {
-                "r5p_c": 1.0,
-                "r5p_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0953",
-            "notes": {
-                "reflection": "R5Ptex_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 435120.20541350095
-        },
-        {
-            "id": "RIBabcpp_num2",
-            "name": "D-ribose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "rib__D_c": 1.0,
-                "rib__D_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "cg3748",
-            "kcat": "",
-            "kcat_MW": ""
-        },
-        {
-            "id": "RIBabcpp_num3",
-            "name": "D-ribose transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "rib__D_c": 1.0,
-                "rib__D_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1254",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 833672.0526446153
         },
         {
             "id": "TREptsp_num2",
@@ -37876,96 +37450,6 @@
             },
             "kcat": 7398.8133918117555,
             "kcat_MW": 397937.73537449655
-        },
-        {
-            "id": "VALabcpp_num2",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0931",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 861093.4032405778
-        },
-        {
-            "id": "VALabcpp_num3",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "cg1063",
-            "kcat": "",
-            "kcat_MW": ""
-        },
-        {
-            "id": "VALabcpp_num4",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0932",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 703309.8928950317
-        },
-        {
-            "id": "VALabcpp_num5",
-            "name": "L-valine transport via ABC system",
-            "metabolites": {
-                "adp_c": 1.0,
-                "atp_c": -1.0,
-                "h2o_c": -1.0,
-                "h_c": 1.0,
-                "pi_c": 1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0.0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0934",
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1078148.163053024
-        },
-        {
-            "id": "VALt2rpp_num2",
-            "name": "L-valine reversible transport via proton symport",
-            "metabolites": {
-                "h_c": 1.0,
-                "h_e": -1.0,
-                "val__L_c": 1.0,
-                "val__L_e": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "notes": {
-                "reflection": "VALt2rpp_reverse"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
         },
         {
             "id": "XANt2pp_num2",
@@ -38938,25 +38422,6 @@
             "kcat_MW": ""
         },
         {
-            "id": "G1PTT_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "dtdpglu_c": -1.0,
-                "dttp_c": 1.0,
-                "g1p_c": 1.0,
-                "h_c": 1.0,
-                "ppi_c": -1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0742",
-            "notes": {
-                "reflection": "G1PTT"
-            },
-            "kcat": 6.081253846153847,
-            "kcat_MW": 591.1549053382997
-        },
-        {
             "id": "GALUi_reverse_num2",
             "name": "",
             "metabolites": {
@@ -38992,21 +38457,6 @@
             },
             "kcat": "",
             "kcat_MW": ""
-        },
-        {
-            "id": "EX_zn2_e_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "zn2_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1281",
-            "notes": {
-                "reflection": "EX_zn2_e"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 782871.719764143
         },
         {
             "id": "GAPD_reverse_num2",
@@ -39103,12 +38553,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0265",
+            "gene_reaction_rule": "Cgl2731",
             "notes": {
                 "reflection": "CAt6pp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 2706354.2740179705
+            "kcat_MW": 448117.0254735151
         },
         {
             "id": "CAt6pp_reverse_num3",
@@ -39121,12 +38571,12 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0266",
+            "gene_reaction_rule": "Cgl2729",
             "notes": {
                 "reflection": "CAt6pp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 1611575.8973213069
+            "kcat_MW": 241678.27113042359
         },
         {
             "id": "CAt6pp_reverse_num4",
@@ -39139,15 +38589,51 @@
             },
             "lower_bound": 0,
             "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0267",
+            "gene_reaction_rule": "Cgl0269",
             "notes": {
                 "reflection": "CAt6pp"
             },
             "kcat": 7398.8133918117555,
-            "kcat_MW": 492700.5830376659
+            "kcat_MW": 258735.2457785005
         },
         {
             "id": "CAt6pp_reverse_num5",
+            "name": "",
+            "metabolites": {
+                "ca2_c": 1.0,
+                "ca2_e": -1.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2732",
+            "notes": {
+                "reflection": "CAt6pp"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1612711.759841006
+        },
+        {
+            "id": "CAt6pp_reverse_num6",
+            "name": "",
+            "metabolites": {
+                "ca2_c": 1.0,
+                "ca2_e": -1.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2730",
+            "notes": {
+                "reflection": "CAt6pp"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1533554.9201854628
+        },
+        {
+            "id": "CAt6pp_reverse_num7",
             "name": "",
             "metabolites": {
                 "ca2_c": 1.0,
@@ -39163,6 +38649,42 @@
             },
             "kcat": 7398.8133918117555,
             "kcat_MW": 1975009.1913474854
+        },
+        {
+            "id": "CAt6pp_reverse_num8",
+            "name": "",
+            "metabolites": {
+                "ca2_c": 1.0,
+                "ca2_e": -1.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2733",
+            "notes": {
+                "reflection": "CAt6pp"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 2651428.0344831254
+        },
+        {
+            "id": "CAt6pp_reverse_num9",
+            "name": "",
+            "metabolites": {
+                "ca2_c": 1.0,
+                "ca2_e": -1.0,
+                "na1_c": -1.0,
+                "na1_e": 1.0
+            },
+            "lower_bound": 0,
+            "upper_bound": 1000.0,
+            "gene_reaction_rule": "Cgl2734",
+            "notes": {
+                "reflection": "CAt6pp"
+            },
+            "kcat": 7398.8133918117555,
+            "kcat_MW": 1934192.236236264
         },
         {
             "id": "MG2t3_2pp_reverse_num2",
@@ -39491,24 +39013,6 @@
             "kcat_MW": 29677.799886293815
         },
         {
-            "id": "ILEt2rpp_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "h_c": -1.0,
-                "h_e": 1.0,
-                "ile__L_c": -1.0,
-                "ile__L_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "notes": {
-                "reflection": "ILEt2rpp"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
-        },
-        {
             "id": "LEUt2rpp_reverse_num2",
             "name": "",
             "metabolites": {
@@ -39543,54 +39047,6 @@
             },
             "kcat": 7398.8133918117555,
             "kcat_MW": 594125.1414013705
-        },
-        {
-            "id": "NO3tex_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "no3_c": -1.0,
-                "no3_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1276",
-            "notes": {
-                "reflection": "NO3tex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 2919229.896590665
-        },
-        {
-            "id": "NO3tex_reverse_num3",
-            "name": "",
-            "metabolites": {
-                "no3_c": -1.0,
-                "no3_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1277",
-            "notes": {
-                "reflection": "NO3tex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 847236.4811448676
-        },
-        {
-            "id": "NO3tex_reverse_num4",
-            "name": "",
-            "metabolites": {
-                "no3_c": -1.0,
-                "no3_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl1287",
-            "notes": {
-                "reflection": "NO3tex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 678898.6234869381
         },
         {
             "id": "PSERtex_reverse_num2",
@@ -39641,22 +39097,6 @@
             "kcat_MW": 943285.5334621277
         },
         {
-            "id": "R5Ptex_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "r5p_c": -1.0,
-                "r5p_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl0953",
-            "notes": {
-                "reflection": "R5Ptex"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 435120.20541350095
-        },
-        {
             "id": "URAt2rpp_reverse_num2",
             "name": "",
             "metabolites": {
@@ -39673,24 +39113,6 @@
             },
             "kcat": 7398.8133918117555,
             "kcat_MW": 397937.73537449655
-        },
-        {
-            "id": "VALt2rpp_reverse_num2",
-            "name": "",
-            "metabolites": {
-                "h_c": -1.0,
-                "h_e": 1.0,
-                "val__L_c": -1.0,
-                "val__L_e": 1.0
-            },
-            "lower_bound": 0,
-            "upper_bound": 1000.0,
-            "gene_reaction_rule": "Cgl2132",
-            "notes": {
-                "reflection": "VALt2rpp"
-            },
-            "kcat": 7398.8133918117555,
-            "kcat_MW": 1534991.5993576604
         },
         {
             "id": "PHETA1_reverse_num2",
@@ -44971,6 +44393,34 @@
             }
         },
         {
+            "id": "Cgl0372",
+            "name": "G_Cgl0372",
+            "annotation": {
+                "uniprot": "Q8NTD5"
+            }
+        },
+        {
+            "id": "Cgl1141",
+            "name": "G_Cgl1141",
+            "annotation": {
+                "uniprot": "Q8NRB1"
+            }
+        },
+        {
+            "id": "Cgl1509",
+            "name": "G_Cgl1509",
+            "annotation": {
+                "uniprot": "Q8NQC9"
+            }
+        },
+        {
+            "id": "Cgl2870",
+            "name": "G_Cgl2870",
+            "annotation": {
+                "uniprot": "Q8NLR8"
+            }
+        },
+        {
             "id": "Cgl1207",
             "name": "G_Cgl1207",
             "annotation": {
@@ -44985,10 +44435,87 @@
             }
         },
         {
-            "id": "Cgl2028",
-            "name": "G_Cgl2028",
+            "id": "Cgl0030",
+            "name": "G_Cgl0030",
             "annotation": {
-                "uniprot": "Q8NNZ9"
+                "uniprot": "Q8NUA9"
+            }
+        },
+        {
+            "id": "Cgl1993",
+            "name": "G_Cgl1993",
+            "annotation": {
+                "uniprot": "Q8NP32"
+            }
+        },
+        {
+            "id": "Cgl2322",
+            "name": "G_Cgl2322",
+            "annotation": {
+                "uniprot": "Q8NN84"
+            }
+        },
+        {
+            "id": "Cgl2321",
+            "name": "G_Cgl2321",
+            "annotation": {
+                "uniprot": "Q8NN85"
+            }
+        },
+        {
+            "id": "Cgl2320",
+            "name": "G_Cgl2320",
+            "annotation": {
+                "uniprot": "Q8NN86"
+            }
+        },
+        {
+            "id": "Cgl2463",
+            "name": "G_Cgl2463",
+            "annotation": {
+                "uniprot": "Q8NMV1"
+            }
+        },
+        {
+            "id": "Cgl1461",
+            "name": "G_Cgl1461",
+            "annotation": {
+                "uniprot": "Q8NQH3"
+            }
+        },
+        {
+            "id": "Cgl1252",
+            "name": "G_Cgl1252",
+            "annotation": {
+                "uniprot": "Q8NR12"
+            }
+        },
+        {
+            "id": "Cgl0427",
+            "name": "G_Cgl0427",
+            "annotation": {
+                "uniprot": "Q8NT83"
+            }
+        },
+        {
+            "id": "Cgl1080",
+            "name": "G_Cgl1080",
+            "annotation": {
+                "uniprot": "Q8NRG9"
+            }
+        },
+        {
+            "id": "Cgl1078",
+            "name": "G_Cgl1078",
+            "annotation": {
+                "uniprot": "Q8NRH1"
+            }
+        },
+        {
+            "id": "Cgl1079",
+            "name": "G_Cgl1079",
+            "annotation": {
+                "uniprot": "Q8NRH0"
             }
         },
         {
@@ -45006,10 +44533,10 @@
     },
     "version": "1",
     "enzyme_constraint": {
-        "enzyme_mass_fraction": 0.43,
+        "enzyme_mass_fraction": 0.46,
         "total_protein_fraction": 0.56,
         "average_saturation": 0.5,
         "lowerbound": 0,
-        "upperbound": 0.12
+        "upperbound": 0.129
     }
 }

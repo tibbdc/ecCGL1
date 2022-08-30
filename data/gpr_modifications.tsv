@@ -1,5 +1,56 @@
 reaction_id	gpr
-ACACtex	Cgl0503
+AKGDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
+SUCOAS	Cgl2566 and Cgl2565
+PDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
+GP4GH	Cgl1002 and Cgl1003
+ATPS4rpp	Cgl1213 and Cgl1211 and Cgl1210 and Cgl1208 and Cgl1212 and Cgl1209 and Cgl1207 and Cgl1206
+CYTBD2pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
+CYTBDpp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
+CYTBO3_4pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
+GLUabcpp	Cgl1951 and Cgl1950 and Cgl1952 and Cgl1953
+MANptspp	Cgl1360
+UREAtpp	Cgl0090 and Cgl0087 and Cgl0088 and Cgl0089
+PHETRS	Cgl1389 and Cgl1390
+SADT2	Cgl2814 and Cgl2815
+PIuabcpp	Cgl2575 and Cgl2572 and Cgl2573 and Cgl2574
+RNDR1	Cgl2525 and Cgl2530
+RNDR2	Cgl2525 and Cgl2530
+RNDR3	Cgl2525 and Cgl2530
+RNDR4	Cgl2525 and Cgl2530
+G3PCabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+G3PEabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+G3PGabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+G3PIabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+G3PSabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+GLYC2Pabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+GLYC3Pabcpp	Cgl1383 and Cgl1384 and Cgl1385 and Cgl1386
+RIBabcpp	Cgl1252 and Cgl1253 and Cgl1254
+Kabcpp	Cgl0777 or Cgl2784 or Cgl1141 or Cgl2887 or Cgl1509
+NAt3_1p5pp	Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734
+NAt3_2pp	Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734
+GTHRDabc2pp	Cgl1993 and Cgl2320 and Cgl2321 and Cgl2322
+G1PTT	Cgl0332
+FRD2	Cgl0370 and Cgl0371 and Cgl0372
+FRD3	Cgl0370 and Cgl0371 and Cgl0372
+ADOCBLS	Cgl2201
+EX_zn2_e	
+CAt6pp	Cgl0267 or Cgl2731 or Cgl2729 or Cgl0269 or Cgl2732 or Cgl2730 or Cgl0268 or Cgl2733 or Cgl2734
+COBALT2abcpp	Cgl0061
+FE3abcpp	(Cgl0336 and Cgl0036 and Cgl0038) or (Cgl0389 and Cgl0390 and Cgl0391) 
+SULabcpp	Cgl0213 and Cgl0214
+ZN2abcpp	(Cgl0027 and Cgl0028 and Cgl0029) or (Cgl2628 and Cgl2629 and Cgl2630)
+ACCOAC	Cgl0831 or Cgl2870
+NADH16pp	Cgl2729 and Cgl2731 and Cgl0269
+NADH17pp	Cgl2729 and Cgl2731 and Cgl0269
+NADH18pp	Cgl2729 and Cgl2731 and Cgl0269
+ALAabcpp	Cgl0407
+CUt3	Cgl2962
+GLCabcpp	Cgl0030 and Cgl0031 and Cgl0032
+ILEt2rpp	Cgl2310
+MALTabcpp	Cgl2460 and Cgl2461 and Cgl2463
+METabcpp	Cgl0635 and Cgl0636 and Cgl0637
+MNt2pp	Cgl1469
+NO3tex	Cgl1190
 PA120abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
 PA140abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
 PA141abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
@@ -15,22 +66,12 @@ PGP161abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl146
 PGP180abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
 PGP181abcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
 PHEMEabcpp	(Cgl1221 and Cgl1222 and Cgl1223) or (Cgl1458 and Cgl1459 and Cgl1460 and Cgl1461)
-ADOCBLS	Cgl2201
-ATPS4rpp	Cgl1213 and Cgl1211 and Cgl1210 and Cgl1208 and Cgl1212 and Cgl1209 and Cgl1207 and Cgl1206
-AKGDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
-PDH	Cgl1129 and Cgl0366 and Cgl2207 and Cgl2248
-PROabcpp	Cgl2028 and Cgl1419
-CYTBD2pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
-CYTBDpp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
-CYTBO3_4pp	Cgl2194 and Cgl2523 and Cgl2195 and Cgl2192
-UREAtpp	Cgl0090 and Cgl0088 and Cgl0089 and Cgl0087
-METabcpp	Cgl0636 and Cgl0635 and Cgl0637
-GP4GH	Cgl1002 and Cgl1003
-ASPTRS	Cgl1259 and Cgl1246 and Cgl1247
+PROt4pp	Cgl1163
+SPMDabcpp	Cgl0426 and Cgl0427 and Cgl0428
+THMabcpp	Cgl1078 and Cgl1079 and Cgl1080
+VALt2rpp	Cgl2310
+ASPTRS	Cgl1635
 GLNTRS	Cgl1259 and Cgl1246 and Cgl1247
-GLUabcpp	Cgl1951 and Cgl1950 and Cgl1952 and Cgl1953
-SUCOAS	Cgl2566 and Cgl2565
-PIuabcpp	Cgl2572 and Cgl2573 and Cgl2574 and Cgl2575
 DAPDC	Cgl1180 or Cgl2135
 DHPS2	Cgl1111 or Cgl2694
 DMATT	Cgl0626 or Cgl2172
@@ -39,7 +80,6 @@ HPYRI	Cgl2109 or Cgl2471
 HSST	Cgl0652 or Cgl0839
 IMPD	Cgl0603 or Cgl0604 or Cgl2679
 MCITL2	Cgl0695 or Cgl0658
-MMM2	Cgl1529 or Cgl1530
 NH4tpp	Cgl2061 or Cgl1583
 PANTS	Cgl0113 or Cgl2688
 RBK	Cgl1366 or Cgl2325
