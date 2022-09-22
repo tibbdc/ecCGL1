@@ -900,7 +900,7 @@ def get_PhPP_data(model_file,model_type,obj,number,outputfile):
     exlisto2 = []
     exlist = list(np.linspace(0,10,number))
     exlisto2 = list(np.linspace(0,10,number))
-    print(exlist)
+    #print(exlist)
 
     exlistn = []
     exlistno2 = []
@@ -1032,7 +1032,7 @@ def drawphpp(iCW773_glc_o2_df,eciCW773_glc_o2_df,PhPP_output_fig_file):
                     specs=[[{"type": "surface"},{"type": "surface"}]])
 
     fig.add_trace(go.Surface(y=list(np.linspace(0,10,11)),x=list(np.linspace(0,10,11)),z=iCW773_glc_o2_df.values, coloraxis = "coloraxis"),row=1, col=1)
-    fig.update_layout(template="none",
+    fig.update_layout(
         scene = dict(
         xaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'),backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
         yaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
@@ -1045,7 +1045,7 @@ def drawphpp(iCW773_glc_o2_df,eciCW773_glc_o2_df,PhPP_output_fig_file):
     fig.update_scenes(xaxis_tickangle=0)
 
     fig.add_trace(go.Surface(y=list(np.linspace(0,10,11)),x=list(np.linspace(0,10,11)),z=eciCW773_glc_o2_df.values, coloraxis = "coloraxis"),row=1, col=2)
-    fig.update_layout(template="none",
+    fig.update_layout(
         scene2 = dict(
         xaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'),backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
         yaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
@@ -1054,8 +1054,8 @@ def drawphpp(iCW773_glc_o2_df,eciCW773_glc_o2_df,PhPP_output_fig_file):
     fig.update_layout(autosize=False,scene2_camera_eye=dict(x=-0.8, y=-2.1, z=0.3),
         width=1150, height=550,margin=dict(l=1, r=3, b=10, t=20)
         )
-    # fig.update_layout(coloraxis = {'colorscale':'bluered'})
-    fig.update_layout(template='none')
+    fig.update_layout(coloraxis = {'colorscale':[[0, 'green'], [1, 'red']]})
+    fig.update_layout()
     # fig['layout']['xaxis']['title']='Label x-axis 1'
     fig.write_image(PhPP_output_fig_file) 
     return fig

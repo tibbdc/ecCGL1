@@ -1,4 +1,4 @@
-# eciCW773
+# ecCGL1
 The process for enzyme-constrained model construction.
 
 ## About
@@ -42,8 +42,8 @@ $ git clone https://github.com/tibbdc/eciCW773.git
 + 01_model_calibration.ipynb
   + Model Calibration.
 
-+ 02_construct_eciCW773.ipynb
-  + Construction of eciCW773.
++ 02_construct_ecCGL1.ipynb
+  + Construction of ecCGL1.
   
 + 03_CDF_kcat_and_mw.ipynb
   + Cumulative distribution of kcat and molecular weights.
