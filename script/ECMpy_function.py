@@ -23,7 +23,6 @@ from urllib.parse import urlencode
 from urllib.request import urlopen, Request
 from optlang.symbolics import Zero, add
 import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 
 def standardize_folder(folder: str) -> str:
     """Returns for the given folder path is returned in a more standardized way.
@@ -76,10 +75,12 @@ def convert_to_irreversible(model):
             reaction.notes["reflection"] = reverse_reaction.id
             reverse_reaction.notes["reflection"] = reaction.id
             reaction_dict = {k: v * -1
-                             for k, v in reaction._metabolites.items()}
+                             for k, v in reaction.metabolites.items()}
             reverse_reaction.add_metabolites(reaction_dict)
             reverse_reaction._model = reaction._model
             reverse_reaction._genes = reaction._genes
+            reverse_reaction.name = reaction.name+' reverse'
+            reverse_reaction.annotation = reaction.annotation
             for gene in reaction._genes:
                 gene._reaction.add(reverse_reaction)
             reverse_reaction.subsystem = reaction.subsystem
@@ -900,7 +901,7 @@ def get_PhPP_data(model_file,model_type,obj,number,outputfile):
     exlisto2 = []
     exlist = list(np.linspace(0,10,number))
     exlisto2 = list(np.linspace(0,10,number))
-    #print(exlist)
+    print(exlist)
 
     exlistn = []
     exlistno2 = []
@@ -1023,39 +1024,4 @@ def draw_3d_rbas(z_data,out_fig_file):
     fig.update_scenes(xaxis_tickangle=0)
 
     fig.write_image(out_fig_file) 
-    return fig
-
-def drawphpp(iCW773_glc_o2_df,eciCW773_glc_o2_df,PhPP_output_fig_file):
-    
-    fig = make_subplots(rows=1, cols=2,
-                    column_widths=[0.5, 0.5],
-                    specs=[[{"type": "surface"},{"type": "surface"}]])
-
-    fig.add_trace(go.Surface(y=list(np.linspace(0,10,11)),x=list(np.linspace(0,10,11)),z=iCW773_glc_o2_df.values, coloraxis = "coloraxis"),row=1, col=1)
-    fig.update_layout(
-        scene = dict(
-        xaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'),backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        yaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        zaxis = dict(range=[0,0.65],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "grey", gridcolor = "white", title=dict(text="<b>iCW773 Growth rates (1/h)</b>",font=dict(size=15, family='Times New Roman')))))
-
-    fig.update_layout(autosize=False,scene_camera_eye=dict(x=-0.8, y=-2.1, z=0.3),
-        width=850, height=450,margin=dict(l=20, r=20, b=20, t=20)
-        )
-    fig.update_scenes(yaxis_tickangle=0)
-    fig.update_scenes(xaxis_tickangle=0)
-
-    fig.add_trace(go.Surface(y=list(np.linspace(0,10,11)),x=list(np.linspace(0,10,11)),z=eciCW773_glc_o2_df.values, coloraxis = "coloraxis"),row=1, col=2)
-    fig.update_layout(
-        scene2 = dict(
-        xaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'),backgroundcolor = "lightgrey",title=dict(text="<b>O2 uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        yaxis = dict(range=[0,10],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "lightgrey",title=dict(text="<b>Glucose uptake rates<br>(mmol/gDW/h)</b>",font=dict(size=15, family='Times New Roman'))),
-        zaxis = dict(range=[0,0.65],tickfont=dict(size=13, family='Times New Roman'), backgroundcolor = "grey", gridcolor = "white", title=dict(text="<b>eciCW773 Growth rates (1/h)</b>",font=dict(size=15, family='Times New Roman')))))
-
-    fig.update_layout(autosize=False,scene2_camera_eye=dict(x=-0.8, y=-2.1, z=0.3),
-        width=1150, height=550,margin=dict(l=1, r=3, b=10, t=20)
-        )
-    fig.update_layout(coloraxis = {'colorscale':[[0, 'green'], [1, 'red']]})
-    fig.update_layout()
-    # fig['layout']['xaxis']['title']='Label x-axis 1'
-    fig.write_image(PhPP_output_fig_file) 
     return fig
